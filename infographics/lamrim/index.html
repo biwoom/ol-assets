@@ -1,0 +1,684 @@
+<!DOCTYPE html><html lang="ko"><head>
+
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>람림 三士道 — 보리도차제론의 수행체계 (A4)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Noto+Sans+KR:wght@400;500;600;700&amp;family=Noto+Serif+KR:wght@600;700;800;900&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+</head>
+<style type="text/css">
+  
+/* ============================================================
+   Lamrim 三士道 — A4 print infographic
+   OL design system (pure white / monochrome ink), print-fixed
+   ============================================================ */
+
+:root {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-2: #f5f5f5;
+  --surface-3: #fafafa;
+  --border: #e9e9e9;
+  --border-strong: #d4d4d4;
+  --ink: #0a0a0a;
+  --ink-2: #2a2a2a;
+  --muted: #737373;
+  --subtle: #a3a3a3;
+
+  --font-sans: "Inter", "Pretendard", "Noto Sans KR", -apple-system, sans-serif;
+  --font-serif: "Noto Serif KR", "Nanum Myeongjo", serif;
+  --font-mono: "JetBrains Mono", "IBM Plex Mono", ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: #e7e7e7;
+  font-family: var(--font-sans);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
+}
+
+body { padding: 24px 0 48px; }
+
+/* ---------------- page sheet ---------------- */
+.page {
+  width: 210mm;
+  height: 297mm;
+  margin: 16px auto;
+  background: var(--bg);
+  position: relative;
+  overflow: hidden;
+  padding: 15mm 16mm 13mm;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 18px 50px -24px rgba(0,0,0,0.5);
+}
+
+.foot {
+  position: absolute;
+  left: 16mm; right: 16mm; bottom: 7mm;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--font-mono);
+  font-size: 7pt;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--subtle);
+  padding-top: 3mm;
+  border-top: 1px solid var(--border);
+}
+
+/* ---------------- masthead ---------------- */
+.masthead {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
+  gap: 10mm;
+  padding-bottom: 5mm;
+  border-bottom: 2px solid var(--ink);
+}
+.masthead .eyebrow {
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 500;
+}
+.masthead h1 {
+  font-family: var(--font-serif);
+  font-size: 27pt;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  line-height: 1.08;
+  margin-top: 3.5mm;
+}
+.masthead h1 .han { color: var(--muted); font-weight: 700; }
+.masthead .sub {
+  margin-top: 3mm;
+  font-size: 9.5pt;
+  color: var(--ink-2);
+  line-height: 1.55;
+  max-width: 92mm;
+}
+.lineage {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  gap: 3mm;
+}
+.lineage .src .t {
+  font-family: var(--font-serif);
+  font-size: 11pt;
+  font-weight: 800;
+}
+.lineage .src .m {
+  font-family: var(--font-mono);
+  font-size: 7pt;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-top: 0.8mm;
+  white-space: nowrap;
+  line-height: 1.5;
+}
+.lineage .src .m b { color: var(--ink-2); font-weight: 500; }
+
+/* ---------------- preliminary sections (A, B) ---------------- */
+.block { margin-top: 6mm; }
+.block-head {
+  display: flex;
+  align-items: baseline;
+  gap: 4mm;
+  margin-bottom: 3.5mm;
+}
+.block-head .letter {
+  font-family: var(--font-serif);
+  font-size: 15pt;
+  font-weight: 800;
+  width: 9mm; height: 9mm;
+  border: 1.5px solid var(--ink);
+  border-radius: 6px;
+  display: grid;
+  place-items: center;
+  flex: none;
+}
+.block-head h2 {
+  font-size: 14pt;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.block-head h2 .han { color: var(--muted); font-weight: 600; font-size: 0.82em; }
+.block-head .tail {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--subtle);
+  white-space: nowrap;
+  align-self: center;
+}
+
+.pitems {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.pitem {
+  background: var(--surface);
+  padding: 4mm 5mm;
+  display: grid;
+  grid-template-columns: 6mm 1fr;
+  gap: 3.5mm;
+  align-items: start;
+}
+.pitem .ix {
+  font-family: var(--font-mono);
+  font-size: 9pt;
+  font-weight: 500;
+  color: var(--subtle);
+  padding-top: 0.3mm;
+}
+.pitem .pt {
+  font-size: 10.5pt;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.3;
+}
+.pitem .pt .han { color: var(--muted); font-weight: 600; font-size: 0.85em; }
+.pitem .pd {
+  margin-top: 1.4mm;
+  font-size: 9pt;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+/* ---------------- scope blocks (C, D, E) ---------------- */
+.scope {
+  margin-top: 6mm;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 52mm 1fr;
+}
+.scope .rail {
+  padding: 6mm 6mm;
+  border-right: 1px solid var(--border);
+  background: var(--surface-3);
+  display: flex;
+  flex-direction: column;
+}
+.scope.invert .rail {
+  background: var(--ink);
+  border-right-color: var(--ink);
+  color: var(--bg);
+}
+.scope .rail .sc {
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 500;
+}
+.scope.invert .rail .sc { color: rgba(255,255,255,0.55); }
+.scope .rail .num {
+  font-size: 46pt;
+  font-weight: 800;
+  line-height: 0.82;
+  letter-spacing: -0.04em;
+  margin-top: 2mm;
+}
+.scope .rail .nm {
+  font-family: var(--font-serif);
+  font-size: 19pt;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  margin-top: 4mm;
+}
+.scope .rail .nm small {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 7pt;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin-top: 1.6mm;
+}
+.scope.invert .rail .nm small { color: rgba(255,255,255,0.6); }
+.scope .rail .tagline {
+  margin-top: 4mm;
+  font-size: 9pt;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+.scope.invert .rail .tagline { color: rgba(255,255,255,0.8); }
+.scope .rail .vehicle {
+  margin-top: auto;
+  padding-top: 4mm;
+  font-family: var(--font-mono);
+  font-size: 7.5pt;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--subtle);
+}
+.scope.invert .rail .vehicle { color: rgba(255,255,255,0.55); }
+.scope .rail .vehicle b {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 13pt;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  color: var(--ink);
+  margin-top: 1mm;
+}
+.scope.invert .rail .vehicle b { color: var(--bg); }
+
+/* scope body — practice list */
+.scope .practices {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--border);
+}
+.practice {
+  background: var(--surface);
+  padding: 3.6mm 4.5mm;
+  display: grid;
+  grid-template-columns: 5mm 1fr;
+  gap: 3mm;
+  align-items: start;
+}
+.practice .ix {
+  font-family: var(--font-mono);
+  font-size: 8.5pt;
+  font-weight: 500;
+  color: var(--subtle);
+  padding-top: 0.4mm;
+}
+.practice .ptitle {
+  font-size: 10pt;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.28;
+}
+.practice .ptitle .han {
+  font-family: var(--font-serif);
+  color: var(--muted);
+  font-weight: 700;
+  font-size: 0.82em;
+}
+.practice .pdesc {
+  margin-top: 1.3mm;
+  font-size: 8.7pt;
+  line-height: 1.48;
+  color: var(--muted);
+}
+/* full-width practice (odd last spanning) */
+.practice.wide { grid-column: 1 / -1; }
+
+/* ---------------- references ---------------- */
+.refs {
+  margin-top: 6mm;
+  border-top: 1px solid var(--border-strong);
+  padding-top: 4mm;
+}
+.refs .rh {
+  font-family: var(--font-mono);
+  font-size: 8pt;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 500;
+  margin-bottom: 2.5mm;
+}
+.refs ul {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.6mm 8mm;
+}
+.refs li {
+  font-size: 9pt;
+  color: var(--ink-2);
+  line-height: 1.4;
+  padding-left: 4mm;
+  position: relative;
+}
+.refs li::before {
+  content: "—";
+  position: absolute;
+  left: 0;
+  color: var(--subtle);
+}
+.refs li b { font-weight: 700; }
+.refs li span { color: var(--muted); }
+
+/* ---------------- print ---------------- */
+@page { size: A4; margin: 0; }
+@media print {
+  html, body { background: #fff; }
+  body { padding: 0; }
+  .page {
+    margin: 0;
+    box-shadow: none;
+    page-break-after: always;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+
+
+</style>
+
+<body style="">
+
+<!-- =================================================================== -->
+<!-- PAGE 1 — 들어가기 · 예비와 준비                                       -->
+<!-- =================================================================== -->
+<div class="page" data-screen-label="A4 면1 — 예비·준비·하사도">
+
+  <!-- masthead -->
+  <div class="masthead">
+    <div>
+      <div class="eyebrow" style="">LAMRIM · 보리도차제<span style="letter-spacing: 2.34667px;"> ·&nbsp;</span>깨달음을 위한 점진적 수행</div>
+      <h1>보리도차제론의 수행체계<br><span class="han" style=""></span></h1>
+      <p class="sub" style="">수행자를 역량과 발심의 크기에 따라 셋(下·中·上)으로 나누고, 낮은 단계가 높은 단계의 바탕이 되도록 하나의 길로 구성된 수행체계.</p>
+    </div>
+    <div class="lineage">
+      <div class="src">
+        <div class="t">쫑카빠 <span style="font-weight:600;color:var(--muted);font-size:0.8em;">Tsong kha pa</span></div>
+        <div class="m"><b>1357–1419</b><br>보리도차제광론 菩提道次第廣論</div>
+      </div>
+      <div class="src">
+        <div class="t">아띠샤 <span style="font-weight:600;color:var(--muted);font-size:0.8em;">Atiśa</span></div>
+        <div class="m"><b>982–1054</b><br>보리도등론 菩提道燈論</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- A. 예비적인 가르침 -->
+  <div class="block">
+    <div class="block-head">
+      <span class="letter">A</span>
+      <h2 style="">예비 가르침</h2>
+      <span class="tail">들어가기에 앞서</span>
+    </div>
+    <div class="pitems">
+      <div class="pitem">
+        <span class="ix">a</span>
+        <div>
+          <div class="pt">아띠샤의 생애</div>
+          <div class="pd" style="">인도에서 태어나 진리를 구하고, 티베트로 건너가 가르침을 편 스승의 길.</div>
+        </div>
+      </div>
+      <div class="pitem">
+        <span class="ix">b</span>
+        <div>
+          <div class="pt" style="">차례에 따라 수행하는 단계적 길의 위대함과 유익함&nbsp;<span class="han" style=""></span></div>
+          <div class="pd" style="">부처님의 방대한 가르침을 모순없이, 쉽고, 진실하게 이해하게되고 스스로 지은 허물을 없에게 돕는 위대함</div>
+        </div>
+      </div>
+      <div class="pitem">
+        <span class="ix">c</span>
+        <div>
+          <div class="pt">배우는 이의 자세</div>
+          <div class="pd">가르침을 귀하게 여기고, 스승을 공경하며, 마음을 열어 잘 듣는 태도.</div>
+        </div>
+      </div>
+      <div class="pitem">
+        <span class="ix">d</span>
+        <div>
+          <div class="pt">가르치는 이의 자세</div>
+          <div class="pd">바른 마음가짐과 듣는 이에게 알맞은 방법으로 전하는 태도.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- B. 수행의 준비 -->
+  <div class="block">
+    <div class="block-head">
+      <span class="letter">B</span>
+      <h2>수행의 준비</h2>
+      <span class="tail">자리를 갖추다</span>
+    </div>
+    <div class="pitems">
+      <div class="pitem">
+        <span class="ix">a</span>
+        <div>
+          <div class="pt">기도하는 법</div>
+          <div class="pd" style="">정갈한 자리를 마련하고 — 절·공양·잘못 뉘우침·남의 선행을 함께 기뻐함·가르침을 청함·오래 머무시길 청함·공덕을 모두에게 돌림(회향).</div>
+        </div>
+      </div>
+      <div class="pitem">
+        <span class="ix">b</span>
+        <div>
+          <div class="pt">생활 지침</div>
+          <div class="pd" style="">일상의 남는 시간을 어떻게 쓸지, 먹고 자는 일을 어떻게 알맞게 다스릴지에 대한 조언.</div>
+        </div>
+      </div>
+      <div class="pitem">
+        <span class="ix">c</span>
+        <div>
+          <div class="pt" style="">듣고, 곰곰이 사유하고, 실천함의 중요성&nbsp;<span class="han" style=""></span></div>
+          <div class="pd" style="">모든 가르침은 ‘듣고 · 생각하고 · 닦는’(聞思修) 차례를 거쳐야 비로소 내 것이 된다.</div>
+        </div>
+      </div>
+      <div class="pitem">
+        <span class="ix">d</span>
+        <div>
+          <div class="pt" style="">사람으로 태어난 일의 소중함</div>
+          <div class="pd" style="">사람 몸을 받아야 비로소 가르침을 배우고 닦을 수 있는 기회가 생겨난다. 이 기회를 소중히 하여야 한다.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- C. 하사도 -->
+  <div class="scope" data-screen-label="하사도">
+    <div class="rail">
+      <div class="sc">SCOPE · 01 · 世間道</div>
+      <div class="num">01</div>
+      <div class="nm">하사도<small>下士道 · 종교심과 도덕성</small></div>
+      <div class="tagline" style="">이번 생 뿐만 아니라, 다음 생의 행복까지 구하는 마음에서 출발한다.</div>
+      <div class="vehicle">길의 종류<b>세간도 世間道</b></div>
+    </div>
+    <div class="practices">
+      <div class="practice">
+        <span class="ix">a</span>
+        <div>
+          <div class="ptitle">죽음을 떠올리는 명상 <span class="han">念死</span></div>
+          <div class="pdesc" style="">죽음은 반드시 오고 때를 알 수 없음을 사유해, 재물과 명예욕에서 벗어난다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">b</span>
+        <div>
+          <div class="ptitle" style="">고통이 가득한 삼종 세계<span class="han">三惡趣</span></div>
+          <div class="pdesc">지옥·아귀·짐승의 고통을 헤아려, 다음 생을 두려워하는 마음을 일으킨다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">c</span>
+        <div>
+          <div class="ptitle">세 가지 의지처에 귀의 <span class="han">三歸依</span></div>
+          <div class="pdesc" style="">부처·가르침·승가(三寶)를 믿고 참된 의지처로 삼아, 두려움에서 벗어나는 지침으로 삼는다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">d</span>
+        <div>
+          <div class="ptitle" style="">행위의 원인과 결과&nbsp;&nbsp;<span class="han">業果</span></div>
+          <div class="pdesc" style="">선악의 기준인 열 가지 선한 행(十善), 그리고 악행이 불러오는 결과를 배운다.</div>
+        </div>
+      </div>
+      <div class="practice wide">
+        <span class="ix">e</span>
+        <div>
+          <div class="ptitle" style="">스스로의 잘못된 행위를 씻어 내는 방법 <span class="han">淨化</span></div>
+          <div class="pdesc" style="">서원, 후회, 결의, 방편의 힘:뉘우침 · 경전 읽기 · 불상 모심 · 공양 · 염불 · 계율 지킴 · 삼귀의 · 보리심 등으로 자신의 허물을 정화한다.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="foot">
+    <span>람림 三士道 · 보리도차제론의 수행체계</span>
+    <span>면 1 / 2 · 예비 · 준비 · 하사도</span>
+  </div>
+</div>
+
+<!-- =================================================================== -->
+<!-- PAGE 2 — 삼사도 본문 (중사도 · 상사도)                                -->
+<!-- =================================================================== -->
+<div class="page" data-screen-label="A4 면2 — 중사도·상사도·참고도서">
+
+  <!-- D. 중사도 -->
+  <div class="scope" data-screen-label="중사도" style="margin-top:0;">
+    <div class="rail">
+      <div class="sc">SCOPE · 02 · 聲聞道</div>
+      <div class="num">02</div>
+      <div class="nm">중사도<small>中士道 · 벗어나려는 마음</small></div>
+      <div class="tagline" style="">윤회의 안락마저 괴로움임을 보아, 홀로 벗어나기를 구한다.</div>
+      <div class="vehicle">길의 종류<b>성문도 聲聞道</b></div>
+    </div>
+    <div class="practices">
+      <div class="practice">
+        <span class="ix">a</span>
+        <div>
+          <div class="ptitle">‘벗어남’이 무엇인지 이해 <span class="han">解脫</span></div>
+          <div class="pdesc">괴로움의 굴레에서 풀려난 자유, 곧 해탈의 참뜻을 분명히 안다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">b</span>
+        <div>
+          <div class="ptitle" style="">네 가지 성자들의 진리&nbsp;<span class="han">四聖諦</span></div>
+          <div class="pdesc" style="">괴로움 · 괴로움의 원인 · 벗어남 · 벗어나는 길을 하나하나 헤아려 사유한다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">c</span>
+        <div>
+          <div class="ptitle" style="">삶과 죽음의 수레바퀴&nbsp;<span class="han">輪廻</span></div>
+          <div class="pdesc" style="">늙고 병들고 죽은 뒤 다음 생을 받기 전 중간 상태(中陰)를 거쳐 다시 태어나기까지의 반복되는 흐름의 연속.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">d</span>
+        <div>
+          <div class="ptitle" style="">열두 고리의 인연&nbsp;<span class="han">十二緣起</span></div>
+          <div class="pdesc" style="">윤회를 굴러가게하는 열 두 가지 저건들을 깊이 이해해, 윤회에서 벗어나려는 마음(出離心)을 일으킨다.</div>
+        </div>
+      </div>
+      <div class="practice wide">
+        <span class="ix">e</span>
+        <div>
+          <div class="ptitle" style="">세 가지 배움, 삼학&nbsp;<span class="han">戒 · 定 · 慧</span></div>
+          <div class="pdesc" style="">행위을 단속하고(계학), 마음을 평정하게 모으고(정학), 있는 그대로의 진실을 보는 지혜를 닦는(혜학) — 괴로움에서 벗어나기 위한 수행방법.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- E. 상사도 -->
+  <div class="scope invert" data-screen-label="상사도">
+    <div class="rail">
+      <div class="sc">SCOPE · 03 · 菩薩道</div>
+      <div class="num">03</div>
+      <div class="nm">상사도<small>上士道 · 보리심과 맑은 안목</small></div>
+      <div class="tagline" style="">모든 중생의 고통에서&nbsp;벗어나기 바라며, 스스로 붓다가 되기를 발원한다.</div>
+      <div class="vehicle">길의 종류<b>보살도 菩薩道</b></div>
+    </div>
+    <div class="practices">
+      <div class="practice">
+        <span class="ix">a</span>
+        <div>
+          <div class="ptitle">보리심의 중요함 <span class="han">菩提心</span></div>
+          <div class="pdesc" style="">모든 생명을 고통에서 건지려 스스로 붓다 되기를 바라는 마음 — 큰 수레(대승)의 출발점.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">b</span>
+        <div>
+          <div class="ptitle">보리심을 일으키는 법</div>
+          <div class="pdesc">일곱 단계로 은혜를 헤아리기(七種因果)와, 나와 남을 바꿔 생각하기(自他相換).</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">c</span>
+        <div>
+          <div class="ptitle" style="">보살의 맹세&nbsp;<span class="han">誓願</span></div>
+          <div class="pdesc" style="">붓다가 되겠다는 바람으로 결코 이 길에서 물러서지 않겠다는 서원을 세운다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">d</span>
+        <div>
+          <div class="ptitle">여섯 가지 완성의 실천 <span class="han">六波羅蜜</span></div>
+          <div class="pdesc" style="">베풂·계율·참음·바른 노력<span style="letter-spacing: -0.16px;">·</span>평정·지혜로 붓다의 성품(佛性)과 역량을 키운다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">e</span>
+        <div>
+          <div class="ptitle" style="">타인과 함께 수행한다.&nbsp;<span class="han">四攝法</span></div>
+          <div class="pdesc" style="">베풂·따뜻한 말·이로운 행·함께함으로 다른 사람들을 이끌어 나와 타인들이 함께 성장하는 길을 실천한다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">f</span>
+        <div>
+          <div class="ptitle" style="">평정&nbsp;<span class="han">止 · 사마타</span></div>
+          <div class="pdesc" style="">졸음과 산란을 가라앉혀, 몸과 마음을 더없이 가볍고 편안한 상태(輕安)로 만든다.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">g</span>
+        <div>
+          <div class="ptitle">통찰 <span class="han">觀 · 위빠사나</span></div>
+          <div class="pdesc" style="">모든 것에 고정된 실체가 없음을 꿰뚫어 보는 맑은 안목.</div>
+        </div>
+      </div>
+      <div class="practice">
+        <span class="ix">h</span>
+        <div>
+          <div class="ptitle" style="">평정과 통찰을 함께&nbsp;<span class="han">止觀雙運</span></div>
+          <div class="pdesc" style="">고요한 평정 위에서 통찰을 함께 닦아, 두 힘을 하나로 모은다. 번뇌의 뿌리인 잘못된 인식과 집착을 제거한다.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- references -->
+  <div class="refs">
+    <div class="rh">참고도서 · FURTHER READING</div>
+    <ul>
+      <li><b>깨달음으로 가는 올바른 순서</b> <span>· 초펠 편역</span></li>
+      <li><b>티벳 스승들에게 깨달음의 길을 묻는다면 — 람림</b> <span>· 초펠 편역</span></li>
+      <li><b>보리도차제약론</b> <span>· 양승규 옮김</span></li>
+      <li><b>깨달음에 이르는 길</b> <span>· 청전 옮김</span></li>
+    </ul>
+  </div>
+
+  <div class="foot">
+    <span>람림 三士道 · 낮은 단계는 높은 단계의 바탕이 된다</span>
+    <span>면 2 / 2 · 중사도 · 상사도</span>
+  </div>
+</div>
+
+
+
+</body></html>

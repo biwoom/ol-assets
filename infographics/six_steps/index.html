@@ -1,0 +1,439 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<title>정화 안내 — 몸과 마음의 정화를 위한 불교명상 기초수행 프로그램</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300;400;500;600;700;900&family=Noto+Sans+KR:wght@300;400;500;700&family=Nanum+Myeongjo:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:        #f4efe4;
+    --paper-soft:   #ebe4d4;
+    --paper-deep:   #e3dac4;
+    --ink:          #1f1a15;
+    --ink-soft:     #4a423a;
+    --ink-mute:     #877c6e;
+    --rule:         #c9bda7;
+    --rule-soft:    #ddd2bc;
+    --clay:         oklch(50% 0.09 45);
+    --clay-soft:    oklch(64% 0.06 45);
+    --clay-deep:    oklch(40% 0.10 45);
+    --seal:         oklch(46% 0.13 28);
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html, body{
+    /*background:#2a2622;*/
+    font-family:"Noto Serif KR", "Nanum Myeongjo", serif;
+    color:var(--ink);
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+  }
+  body{
+    padding:30px 0 60px;
+  }
+  .sample-label{
+    width:210mm;
+    margin:40px auto 12px;
+    color:#d8cdb6;
+    font-family:"Noto Sans KR", sans-serif;
+    font-size:11pt;
+    letter-spacing:.4em;
+    display:flex;
+    align-items:baseline;
+    gap:18px;
+  }
+  .sample-label .tag{
+    font-family:"Nanum Myeongjo", serif;
+    color:#e8c79a;
+    font-size:22pt;
+    font-weight:700;
+    letter-spacing:0;
+  }
+  .sample-label .desc{
+    color:#9a8e76;
+    font-size:9pt;
+    letter-spacing:.18em;
+    margin-left:auto;
+  }
+
+  .page{
+    width:210mm;
+    height:297mm;
+    margin:14px auto;
+    background:var(--paper);
+    position:relative;
+    overflow:hidden;
+    /*box-shadow:0 30px 80px -30px rgba(0,0,0,.55), 0 2px 4px rgba(0,0,0,.2);*/
+    background-image:
+      radial-gradient(ellipse at top left,  rgba(255,255,255,.55), transparent 55%),
+      radial-gradient(ellipse at bottom right, rgba(120,80,40,.05), transparent 60%);
+  }
+  .page::before{
+    content:"";
+    position:absolute; inset:0;
+    background-image:
+      radial-gradient(rgba(60,40,20,.04) 1px, transparent 1px),
+      radial-gradient(rgba(60,40,20,.025) 1px, transparent 1px);
+    background-size: 3px 3px, 7px 7px;
+    background-position: 0 0, 1.5px 1.5px;
+    mix-blend-mode:multiply;
+    pointer-events:none;
+  }
+  .pagenum{
+    position:absolute;
+    bottom:10mm; left:50%;
+    transform:translateX(-50%);
+    font-family:"Nanum Myeongjo",serif;
+    color:var(--ink-mute);
+    font-size:8pt;
+    letter-spacing:.4em;
+    z-index:4;
+  }
+
+  /* ====================================================
+     SAMPLE B — 절제된 활자 격자 (Typographic grid)
+     ==================================================== */
+  .B{ background:#f6f1e6; }
+  .B .content{
+    position:relative;
+    height:100%;
+    padding:18mm 18mm 16mm;
+    display:flex; flex-direction:column;
+  }
+  .B header{
+    display:grid;
+    grid-template-columns: auto 1fr;
+    align-items:end;
+    gap:8mm;
+    padding-bottom:5mm;
+    border-bottom:1px solid var(--ink);
+  }
+  .B .h-num{
+    font-family:"Nanum Myeongjo",serif;
+    font-size:30pt;
+    font-weight:800;
+    line-height:.9;
+    color:var(--clay);
+    letter-spacing:.02em;
+  }
+  .B .h-num small{
+    display:block;
+    font-size:8pt;
+    letter-spacing:.4em;
+    color:var(--ink-mute);
+    font-weight:400;
+    margin-top:2mm;
+  }
+  .B h1{
+    font-family:"Nanum Myeongjo",serif;
+    font-size:24pt;
+    font-weight:800;
+    letter-spacing:.04em;
+    line-height:1.15;
+  }
+  .B h1 small{
+    display:block;
+    font-family:"Noto Sans KR",sans-serif;
+    font-size:8.5pt;
+    letter-spacing:.45em;
+    color:var(--ink-mute);
+    font-weight:400;
+    margin-top:3mm;
+  }
+  .B .pageinfo{
+    position:absolute;
+    top:14mm; right:18mm;
+    font-family:"Noto Sans KR",sans-serif;
+    font-size:7pt;
+    letter-spacing:.4em;
+    color:var(--clay);
+  }
+  .B .pageinfo b{
+    display:block;
+    font-family:"Nanum Myeongjo",serif;
+    font-size:14pt;
+    color:var(--ink);
+    font-weight:800;
+    letter-spacing:.02em;
+    margin-top:1mm;
+  }
+
+  .B .grid{
+    flex:1;
+    margin-top:6mm;
+    display:grid;
+    grid-template-rows: repeat(3, 1fr);
+    gap:0;
+  }
+  .B .card{
+    display:grid;
+    grid-template-columns: 38mm 1fr;
+    column-gap:7mm;
+    padding:5mm 0;
+    border-top:0.5px solid var(--rule);
+    align-items:start;
+  }
+  .B .card:first-child{ border-top:none; padding-top:1mm; }
+  .B .left{
+    border-right:0.5px solid var(--rule);
+    padding-right:6mm;
+    text-align:right;
+  }
+  .B .big-num{
+    font-family:"Nanum Myeongjo",serif;
+    font-size:60pt;
+    font-weight:800;
+    line-height:.9;
+    color:var(--ink);
+    letter-spacing:-.04em;
+  }
+  .B .big-num em{
+    font-style:normal;
+    color:var(--clay);
+  }
+  .B .ko-num{
+    font-family:"Nanum Myeongjo",serif;
+    font-size:9pt;
+    letter-spacing:.4em;
+    color:var(--clay);
+    font-weight:600;
+    margin-top:2mm;
+  }
+  .B .stage-name{
+    font-family:"Nanum Myeongjo",serif;
+    font-size:14pt;
+    font-weight:800;
+    margin-top:3mm;
+    letter-spacing:.04em;
+  }
+  .B .stage-tag{
+    font-family:"Noto Sans KR",sans-serif;
+    font-size:8pt;
+    color:var(--ink-mute);
+    letter-spacing:.25em;
+    margin-top:1.5mm;
+  }
+  .B .right{ padding-left:1mm; }
+  .B .quote{
+    font-family:"Nanum Myeongjo",serif;
+    font-size:13pt;
+    color:var(--ink);
+    font-weight:500;
+    line-height:1.5;
+    margin-bottom:3mm;
+    letter-spacing:.02em;
+  }
+  .B .quote::before{
+    content:"「";
+    color:var(--clay);
+    font-size:14pt;
+    margin-right:1mm;
+  }
+  .B .quote::after{
+    content:"」";
+    color:var(--clay);
+    font-size:14pt;
+    margin-left:1mm;
+  }
+  .B .method-grid{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:3mm;
+    margin-bottom:3mm;
+  }
+  .B .method{
+    border-top:1.5px solid var(--ink);
+    padding-top:2mm;
+  }
+  .B .method .mt{
+    font-family:"Noto Sans KR",sans-serif;
+    font-size:10pt;
+    font-weight:700;
+    color:var(--ink);
+    margin-bottom:1.5mm;
+    letter-spacing:.05em;
+  }
+  .B .method .md{
+    font-family:"Noto Sans KR",sans-serif;
+    font-size:11pt;
+    line-height:1.5;
+    color:var(--ink-soft);
+  }
+  .B .goal{
+    display:grid;
+    grid-template-columns: 14mm 1fr;
+    gap:3mm;
+    align-items:start;
+    padding-top:2mm;
+    border-top:0.5px dashed var(--rule);
+  }
+  .B .goal .gl{
+    font-family:"Noto Sans KR",sans-serif;
+    font-size:11pt;
+    font-weight:800;
+    color:var(--clay);
+    letter-spacing:.3em;
+  }
+  .B .goal .gd{
+    font-family:"Noto Sans KR",sans-serif;
+    font-size:11pt;
+    line-height:1.55;
+    color:var(--ink-soft);
+  }
+
+</style>
+</head>
+<body>
+
+<!-- ============================================================ -->
+<!-- SAMPLE B — 절제된 활자 격자 (Typographic grid)                -->
+<!-- ============================================================ -->
+
+<!-- ===== B · Page 1 (1~3단계) ===== -->
+<div class="page B">
+  <div class="content">
+    <div class="pageinfo">제 1 면 <b>1-3단계</b></div>
+    <header>      
+      <h1>몸과 마음의 정화 여섯 단계<small>불교명상 기초수행 - 정화란 몸과 마음의 전환이다</small></h1>
+    </header>
+
+    <div class="grid">
+
+      <!-- 1단계 -->
+      <div class="card">
+        <div class="left">
+          <div class="big-num"><em>0</em>1</div>
+          <div class="ko-num">전환 • 하 나</div>
+          <div class="stage-name">환경의 정화</div>
+          <div class="stage-tag">주 변  가 꾸 기</div>
+        </div>
+        <div class="right">
+          <div class="quote">내 주변 환경을 조화롭게 가꾸는 일로 수행을 준비하자.</div>
+          <div class="method-grid">
+            <div class="method"><div class="mt">부조화 → 조화</div><div class="md">자신이 속한 공동체를 존중하며 서로에게 유익한 관계를 형성한다.</div></div>
+            <div class="method"><div class="mt">불통 → 소통</div><div class="md">가족·친구 등 인간관계 속에서 지혜로운 소통으로 갈등을 해소한다.</div></div>
+            <div class="method"><div class="mt">무질서 → 질서</div><div class="md">내가 깃들어 사는 공간을 청결하고 정갈하게 하여 일상에 질서를 가져온다.</div></div>
+          </div>
+          <div class="goal"><div class="gl">목 표</div><div class="gd">주변과의 조화롭고 지혜로운 관계맺음으로 수행을 위한 보호막을 설치한다.</div></div>
+        </div>
+      </div>
+
+      <!-- 2단계 -->
+      <div class="card">
+        <div class="left">
+          <div class="big-num"><em>0</em>2</div>
+          <div class="ko-num">전환 • 둘</div>
+          <div class="stage-name">행위의 정화</div>
+          <div class="stage-tag">기 초  다 지 기</div>
+        </div>
+        <div class="right">
+          <div class="quote">균형 잡힌 삶이 수행의 시작이다.</div>
+          <div class="method-grid">
+            <div class="method"><div class="mt">내게 맞는 음식과 양</div><div class="md">알맞은 음식과 양, 균형잡힌 식단으로 몸의 균형을 이룬다.</div></div>
+            <div class="method"><div class="mt">내게 맞는 수면시간</div><div class="md">알맞은 수면시간과 수면의 질을 확보하여 몸의 균형을 이룬다.</div></div>
+            <div class="method"><div class="mt">내게 맞는 운동·활동</div><div class="md">적절한 운동과 활동으로 여력을 길러 몸의 균형을 이룬다.</div></div>
+          </div>
+          <div class="goal"><div class="gl">목 표</div><div class="gd">지혜의 그릇인 몸을 잘 돌보는 일은 수행의 기초 다지기 과정. 중독과 불균형을 바로잡아 수행의 기초 체력을 확보한다.</div></div>
+        </div>
+      </div>
+
+      <!-- 3단계 -->
+      <div class="card">
+        <div class="left">
+          <div class="big-num"><em>0</em>3</div>
+          <div class="ko-num">전환 • 셋</div>
+          <div class="stage-name">감정의 정화 1</div>
+          <div class="stage-tag">감 각  깨 우 기</div>
+        </div>
+        <div class="right">
+          <div class="quote">생각에서 느낌으로, 관심의 중심을 이동하라.</div>
+          <div class="method-grid">
+            <div class="method"><div class="mt">감각의 보호</div><div class="md">넘쳐나는 정보의 홍수에서 벗어나 단순하게 보고 들으며 오감을 절제한다.</div></div>
+            <div class="method"><div class="mt">느낌 자각하기</div><div class="md">지금 이 순간 몸과 마음의 느낌에 온전히 귀 기울여 하나가 된다.</div></div>
+            <div class="method"><div class="mt">일상의 생생함 느끼기</div><div class="md">먹고 마시고 걷는 등의 일상의 여러 활동 속에서 생생한 오감을 회복한다.</div></div>
+          </div>
+          <div class="goal"><div class="gl">목 표</div><div class="gd">무미건조한 생각의 세계에서 실재하는 충만한 감각의 세계로 다리를 놓고, 느낌이라는 새로운 언어를 이해한다.</div></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="pagenum">제 1 면  ·  몸과 마음의 정화   ·  V.260531</div>
+</div>
+
+<!-- ===== B · Page 2 (4~6단계) ===== -->
+<div class="page B">
+  <div class="content">
+    <div class="pageinfo">제 2 면 <b>4-6단계</b></div>
+    <header>
+      <h1>몸과 마음의 정화 여섯 단계<small>불교명상 기초수행 - 정화란 몸과 마음의 전환이다</small></h1>
+    </header>
+
+    <div class="grid">
+
+      <!-- 4단계 -->
+      <div class="card">
+        <div class="left">
+          <div class="big-num"><em>0</em>4</div>
+          <div class="ko-num">전환 • 넷</div>
+          <div class="stage-name">감정의 정화 2</div>
+          <div class="stage-tag">충 만 함  채 우 기</div>
+        </div>
+        <div class="right">
+          <div class="quote">결핍의 안경을 벗고 감사함과 충만함을 음미하라.</div>
+          <div class="method-grid">
+            <div class="method"><div class="mt">느낌 음미하기</div><div class="md">어떤 느낌이든 밀어내거나 끌어당기지 않고 있는 그대로 음미한다.</div></div>
+            <div class="method"><div class="mt">감사 염송</div><div class="md">일상 속에서 ‘감사합니다’를 되뇌며 결핍의 감정들을 정화한다.</div></div>
+            <div class="method"><div class="mt">참회하기</div><div class="md">진실한 뉘우침으로 무의식 속 부정적 감정들을 정화한다.</div></div>
+          </div>
+          <div class="goal"><div class="gl">목 표</div><div class="gd">애착과 혐오의 파도를 잠재워 감정을 안정시킨다. 마음에서 모든 부정성과 공격성을 정화한다.</div></div>
+        </div>
+      </div>
+
+      <!-- 5단계 -->
+      <div class="card">
+        <div class="left">
+          <div class="big-num"><em>0</em>5</div>
+          <div class="ko-num">전환 • 다 섯</div>
+          <div class="stage-name">의지의 정화</div>
+          <div class="stage-tag">조 바 심 <br>
+ 내 려 놓 기</div>
+        </div>
+        <div class="right">
+          <div class="quote">조바심을 내려놓고 깊은 휴식과 평안함을 자신에게 선물하라.</div>
+          <div class="method-grid">
+            <div class="method"><div class="mt">구함 없는 휴식</div><div class="md">존재 자체로 온전하다. 명료하고 고요한 깨어 있음 속에서 휴식한다.</div></div>
+            <div class="method"><div class="mt">조바심 내려놓기</div><div class="md">수행이 또다른 욕망의 수단이 되지 않게 한다. 수행이란 휴식이다.</div></div>
+            <div class="method"><div class="mt">자애와 연민</div><div class="md">자애와 연민으로 습관화된 자책과 불안, 후회를 내려놓는다.</div></div>
+          </div>
+          <div class="goal"><div class="gl">목 표</div><div class="gd">성공과 성취에 대한 조바심과 집착을 내려놓는다. 자기에 대한 엄격한 자책과 후회를 내려놓는다. 나에게 진실한 휴식을 선물한다.</div></div>
+        </div>
+      </div>
+
+      <!-- 6단계 -->
+      <div class="card">
+        <div class="left">
+          <div class="big-num"><em>0</em>6</div>
+          <div class="ko-num">전환 • 여 섯</div>
+          <div class="stage-name">생각의 정화</div>
+          <div class="stage-tag">실 상 과  만 나 기</div>
+        </div>
+        <div class="right">
+          <div class="quote">옳고 그름, 좋고 싫음, 영원과 허무가 환상임을 알고 삶의 진실을 관찰하라.</div>
+          <div class="method-grid">
+            <div class="method"><div class="mt">생각의 허구 자각</div><div class="md">번뇌와 싸우지 않고 지켜보며 생각의 허망함을 관찰한다.</div></div>
+            <div class="method"><div class="mt">죽음·무상·무아를 사유</div><div class="md">죽음과 무상함을 사유하고 관찰하며 나와 내 것에 대한 집착을 내려놓는다.</div></div>
+            <div class="method"><div class="mt">삶의 주인공으로</div><div class="md">조건따라 생겨남을 보고 허무감을 떨쳐내어 삶의 주인이 된다.</div></div>
+          </div>
+          <div class="goal"><div class="gl">목 표</div><div class="gd">나와 세계에 대한 잘못된 고정관념과 집착에서 벗어나 자유롭고 자애롭게 붓다로, 삶의 주인으로 살아간다.</div></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="pagenum">제 2 면  ·  몸과 마음의 정화   ·  V.260531</div>
+</div>
+
+</body>
+</html>
