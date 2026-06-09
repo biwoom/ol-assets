@@ -26,6 +26,8 @@
       --destructive: 0 84.2% 60.2%;
       --ring: 222.2 84% 4.9%;
       --radius: 1rem;
+      --nav-height: 64px;
+      --scroll-offset: calc(var(--nav-height) + 24px);
       --gold: 42 85% 54%;
       --indigo: 231 48% 18%;
       --blue: 217 91% 60%;
@@ -53,7 +55,7 @@
       --ring: 212.7 26.8% 83.9%;
     }
     * { box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
+    html { scroll-behavior: smooth; scroll-padding-top: var(--scroll-offset); }
     body {
       margin: 0;
       font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
@@ -66,6 +68,7 @@
       word-break: keep-all;
     }
     a { color: inherit; text-decoration: none; }
+    [id] { scroll-margin-top: var(--scroll-offset); }
     .progress { position: fixed; inset: 0 0 auto 0; height: 3px; z-index: 80; background: transparent; }
     .progress__bar { height: 100%; width: 0%; background: linear-gradient(90deg, hsl(var(--gold)), hsl(var(--blue))); }
     .shell { width: min(1180px, calc(100% - 32px)); margin-inline: auto; }
@@ -96,7 +99,7 @@
     .card-title { display:flex; justify-content:space-between; gap:12px; align-items:flex-start; margin-bottom:12px; }
     .muted { color:hsl(var(--muted-foreground)); }
     .small { font-size: 13px; }
-    .section { padding: 48px 0; scroll-margin-top: 84px; }
+    .section { padding: 48px 0; scroll-margin-top: var(--scroll-offset); }
     .section-head { margin-bottom: 22px; max-width: 850px; }
     .image-card img { display:block; width:100%; height:auto; }
     .caption { padding: 10px 14px; border-top:1px solid hsl(var(--border)); color:hsl(var(--muted-foreground)); font-size:12px; background:hsl(var(--muted) / .45); }
@@ -176,8 +179,8 @@
         <a href="#two-views">두 관점</a>
         <a href="#subjective">주관적 관찰</a>
         <a href="#objective">객관적 관찰</a>
-        <a href="#relation">관계</a>
-        <a href="#truth">궁극 진실</a>
+        <a href="#relation">종합적 통찰</a>
+        <a href="#truth">진실한 모습</a>
         <a href="#destination">최종 목적</a>
       </div>
       <button class="btn" id="themeToggle" type="button" aria-label="테마 전환">◐</button>
@@ -242,7 +245,7 @@
 
     <section class="section shell" id="subjective">
       <div class="section-head">
-        <span class="badge">1. 주관적 관점</span>
+        <span class="badge"><span class="num">1.1</span>관찰과 분석 : 주관적 관점</span>
         <h2>‘나’와 ‘내게 보이는 세계’는 어떻게 구성되는가</h2>
         <p class="muted">주관적 관점의 세계란 1인 시점에서 ‘나’라고 느끼는 존재와 ‘세계’라고 느끼는 대상이 실제로 어떻게 구성되는지를 관찰한 세계이다. 자동차 안에서 차 안의 핸들과 문 손잡이 대시보드 등을 관찰하는 것처럼 나라는 존재와 이 세계는 감각·대상·의식·느낌·인식·의도 작용이라는 경험적 사건과 무관하게 존재하는 것이 아니다.</p>
       </div>
@@ -293,7 +296,7 @@
 
     <section class="section shell" id="objective">
       <div class="section-head">
-        <span class="badge">2. 객관적 관점</span>
+        <span class="badge"><span class="num">1.2</span>관찰과 분석 : 객관적 관점</span>
         <h2>생명은 어떤 세계에서 윤회하는가</h2>
         <p class="muted">객관적 관점이란 3인칭의 관점으로 나를 포함해 모든 생명들이 태어나고 머무르고 죽고 다시 태어나는 윤회라는 무대를 설명한다. 이것은 “우주는 어떻게 생겼는가?”라는 호기심의 문제가 아니라, 업을 지은 생명들이 어떤 조건의 세계에 태어나며 왜 그 세계가 해탈의 대상이 아니라 윤회의 장인가를 보여주는 설명이다.</p>
       </div>
@@ -435,7 +438,7 @@
 
     <section class="section shell" id="relation">
       <div class="section-head">
-        <span class="badge">3. 두 관찰의 관계</span>
+        <span class="badge"><span class="num">3</span>통찰 : 두 관찰의 관계</span>
         <h2>경험하는 주체와 경험되는 세계는 분리되지 않는다</h2>
         <p class="muted">주관적 관찰은 “윤회하는 나는 누구인가?”를 분석하고, 객관적 관찰은 “그 흐름은 어디에서 어떤 방식으로 계속되는가?”를 설명한다.</p>
       </div>
@@ -448,7 +451,7 @@
 
     <section class="section shell" id="truth">
       <div class="section-head">
-        <span class="badge">4. 궁극적 진실</span>
+        <span class="badge"><span class="num">4</span>진실과 발심 : 나와 세계의 진실</span>
         <h2>두 관찰이 가리키는 여덟 가지 결론</h2>
         <p class="muted">불교 세계관은 세계의 구조를 설명하지만, 그 최종 결론은 우주론이 아니라 수행론이다.</p>
       </div>
@@ -471,7 +474,7 @@
 
     <section class="section shell" id="destination">
       <div class="section-head">
-        <span class="badge">최종 목적지</span>
+        <span class="badge"><span class="num">5</span>최종 목적지</span>
         <h2>세계관의 결론은 해탈과 열반의 실천이다</h2>
         <p class="muted">불교가 세계를 복잡하게 설명하는 이유는 지적 호기심을 만족시키기 위해서가 아니다. 세계 분석의 목적은 고통을 알고, 고통의 원인을 끊고, 고통의 소멸을 실현하고, 그 길을 닦는 것이다.</p>
       </div>
@@ -518,6 +521,30 @@
       localStorage.setItem('worldview-theme', root.dataset.theme);
     });
 
+
+    function syncScrollOffset() {
+      const nav = document.querySelector('.nav');
+      const navHeight = nav ? Math.ceil(nav.getBoundingClientRect().height) : 64;
+      root.style.setProperty('--nav-height', navHeight + 'px');
+    }
+    syncScrollOffset();
+    window.addEventListener('resize', syncScrollOffset, { passive: true });
+
+    document.querySelectorAll('a[href^="#"]').forEach(link => {
+      link.addEventListener('click', event => {
+        const hash = link.getAttribute('href');
+        if (!hash || hash === '#') return;
+        const target = document.querySelector(hash);
+        if (!target) return;
+        event.preventDefault();
+        syncScrollOffset();
+        const offset = parseFloat(getComputedStyle(root).getPropertyValue('--scroll-offset')) || 88;
+        const top = target.getBoundingClientRect().top + window.scrollY - offset;
+        window.scrollTo({ top, behavior: 'smooth' });
+        history.pushState(null, '', hash);
+      });
+    });
+
     const progress = document.getElementById('progressBar');
     function updateProgress() {
       const doc = document.documentElement;
@@ -527,6 +554,16 @@
     }
     document.addEventListener('scroll', updateProgress, { passive:true });
     updateProgress();
+
+    window.addEventListener('load', () => {
+      if (!location.hash) return;
+      const target = document.querySelector(location.hash);
+      if (!target) return;
+      syncScrollOffset();
+      const offset = parseFloat(getComputedStyle(root).getPropertyValue('--scroll-offset')) || 88;
+      const top = target.getBoundingClientRect().top + window.scrollY - offset;
+      window.scrollTo({ top, behavior: 'auto' });
+    });
 
     document.querySelectorAll('[data-tabs]').forEach(tabs => {
       const triggers = tabs.querySelectorAll('.tab-trigger');
