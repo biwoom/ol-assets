@@ -1,0 +1,35 @@
+# The Story of Two Hermits (Devila and Nārada)
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365139.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365138.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365140.html
+- **수집일**: 2026-05-15 09:52
+
+> This page describes The Story of Two Hermits (Devila and Narada) contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as on Pāramitā. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+*Prologue*: An utterance not based on truth, but made just to consign others to destruction is not an oath, but merely a curse. An example may be seen in the following story.
+
+In the past, while King Brahmadatta was reigning in the city of Bārāṇasī, a hermit, Devila by name, was living in the Himalayas. On his visit to Bārāṇasī, in order to have acid and salt, he stayed in a potter’s hut near the city with the owner’s permission. Soon another hermit called Nārada came for a similar purpose and stayed at the same place. At night, when the time for sleeping came, the newcomer noted Devila’s sleeping place as well as the door at the entrance to the hut and went to bed. But, after lying down at his place, Devila moved to the entrance and slept crosswise in the middle of the doorway.
+
+When Nārada went out in the dead of the night, he happened to tread on Devila’s matted hair. Devila then said: “Who has stepped on my hair?” Nārada replied gently: “Sir, I have, because I did not know that you were sleeping here. Please accept my apology.” And he left the hut while Devila was grumbling.
+
+Then, just in case Nārada should do it again when he came back, Devila completely reversed his lying position and went to sleep. When Nārada returned, he thought: “When I went out, I wrongly stepped on his hair because I did not know where his head lay; I shall now go in by the other way.” Thus, he happened to tread on his neck. Devila asked: “Who trod on my neck?” “It is I, Sir,” said Nārada. “You wicked hermit!” said Devila, “The first time, you stepped on my hair. This time, you did the same but on my neck. Curse you, I will.” “Sir, I am not guilty,” said Nārada, “The first time I was wrong because I did not know the way you were sleeping. Now I came by way of the foot-end not to wrong again. Please pardon me,” apologized Nārada.
+
+“O wicked hermit, I am going to curse you,” threatened Devila. Then despite Nārada’s plea, Devila uttered a curse: “Tomorrow morning, as soon as the sun rises, may your head be split into seven pieces!” “In spite of my apologies you did curse me,” said Nārada, “May the guilty one’s head be split into seven pieces.” Thus Nārada put Devila under a curse in retaliation. (Unlike Devila’s curse, Nārada’s was free of anger and volition to harm him. He cursed him just to make him fear and admit his wrong. He was so powerful that he could see eighty *kappas*, i.e. the past forty and the future forty.) When he looked into Devila’s future, he foresaw that the latter would be destroyed. So out of compassion for Devila, he tried with his power to prevent the sun from rising.
+
+When the sun did not rise at the time it was due to, people thronged to the palace and shouted in unison: “O King, the sun does not rise while you are ruling over us. Please improve your conduct so that the sun reappears. The King pondered his conduct and did not see anything wrong. He thought that there must be some peculiar reason which might be a quarrel among ascetics in his country. On enquiry, he came to know the quarrel between the two hermits. The King then went overnight to the hermits. Under instructions from Nārada, he placed a solid mass of earth on Devila’s head and made him plunge into a pond by force. When Nārada withdraw his power, no sooner had the sun risen than the solid mass of earth was split into seven pieces. Devila then moved to another place in the water and came out of it safe and sound. (Dhammapada Commentary, I. Yamaka Vagga, 3. Tissa Vatthu.)
+
+*Epilogue*: Devila’s curse in this story, “Tomorrow morning, as soon as the sun rises, may your head be split into seven pieces!” is for Nārada, uttered with anger. Thus it was not an oath but a mere curse.

@@ -1,0 +1,33 @@
+# The Story of Venerable Sāriputta
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365123.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365122.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365124.html
+- **수집일**: 2026-05-15 09:51
+
+> This page describes The Story of Venerable Sariputta contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as on Pāramitā. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+Once, the Venerable Sāriputta, wishing to cultivate noble life, lived in a solitary place in a certain forest with the Venerable Mahā Moggallāna. One day, an affliction of colic arose in him, causing him great pain. In the evening, the Venerable Mahā Moggallāna went to confer with him and found him lying down. He asked: “What is the matter?” When the Venerable Sāriputta explained, he asked again: “What had helped you in the past?” The Venerable Sāriputta said: “When I was layman, friend, my mother gave me rice gruel prepared with a mixture of ghee, honey, sugar and so on. That used to make me recover.” Then the Venerable Mahā Moggallāna said: “So be it, friend, if either you or I have accumulated enough merit, perhaps tomorrow we shall get some.”
+
+Now, a deva, who lived in a tree at the end of the walk, overheard their conversation. Thinking: “I will find rice gruel for the Venerable tomorrow”, he went immediately to the family who was supporting the Venerable Mahā Moggallāna and entered the eldest son’s body to cause him discomfort. Then he told the boy’s family, who had gathered, that if they would prepare rice gruel of such and such a kind next day for the Venerable, he would set the boy free.
+
+They replied: “Even without being told by you, we regularly offer alms-food to the Venerable.” The next day they prepared rice gruel.
+
+The Venerable Mahā Moggallāna went to the Venerable Sāriputta in the morning and told him: “Stay here, friend, till I come back from the alms round.” Then he went into the village. The people met him, took his bowl, filled it with rice gruel prepared as required and gave it back to him. When the Venerable wanted to leave, they said: “Eat, Venerable Sir, we shall give you more.” When the Venerable had eaten, they gave him another bowlful. The Venerable left taking the alms-food to the Venerable Sāriputta, and told him to eat. When the Venerable Sāriputta saw it, he thought: “The rice gruel is very nice. How was it got?” He then reflected and, seeing how it had been obtained, said: “Friend, the alms-food is not fit to be used.” Instead of feeling offended and thinking: “He does not eat the alms-food brought by someone like me”, the Venerable Mahā Moggallāna at once took the bowl by the rim and turned it over. (Not because he was angry.)
+
+As the rice gruel fell on the ground, the Venerable Sāriputta’s affliction vanished. (And it did not re-appear during the remaining forty-five years of his life.) Then he said to the Venerable Mahā Moggallāna: “Friend, even if one’s bowels come out and fall to the ground in a whole coil through hunger, it is not fitting to eat gruel got by verbal intimation.”
+
+Herein, it should be noted: the Blessed One prohibited only verbal intimation about the food. The Venerable Sāriputta did not use verbal intimation to get the food. When the Venerable Mahā Moggallāna wanted to know what had cured his affliction before, he only related the relief given by rice gruel in the past. However, he was not pleased that a verbal intimation had been made at all and did not accept the rice gruel.

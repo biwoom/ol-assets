@@ -1,0 +1,31 @@
+# Part 6 - The Week at Mucalinda Lake (Mucalinda Sattāha)
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364468.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364467.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364469.html
+- **수집일**: 2026-05-15 09:44
+
+> This page describes The Week at Mucalinda Lake (Mucalinda Sattaha) contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as the Buddha’s stay at the Seven Places. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+After spending seven days reflecting on the Dhamma under Ajapāla banyan tree, the Buddha left it for the Mucalinda (Barringtonia acutangula) tree, near east of the Mahābodhi tree. There, at the foot of the Mucalinda tree, the Buddha spent seven days sitting crosslegged and enjoying the bliss of arahantship.
+
+At that time, the great untimely rain (the great rain before the rainy season) fell for seven days. (Such rain falls only on two occasions: one, when a Universal Monarch appears and the other, when a Buddha appears.) When the great rain fell, a very powerful *nāga* king, Mucalinda, who ruled the *nāga* abode underneath the lake thought thus: “This great unseasonal rain fell as soon as the Buddha took shelter in my abode. It will be good if the dwelling place for the Buddha can be found.” The *nāga* king was powerful enough to create by himself a big mansion with seven kinds of jewels but he considered that “It will not be of great benefit if I were to create a big mansion of jewels and offered it to the Buddha. I shall render my service to Him by means of my body.” So he assumed a huge physical frame and coiled around the Buddha with his body seven times and covered the Buddha’s head with his expanded hood so that He could not be harmed by the cold, heat, gnats, mosquitoes, flies, etc.
+
+(The inside of the coils was as vast as the lower storey of the Lohapasada. It was the intention of the *nāga* king to let the Buddha stay in the four attitudes of lying, sitting, standing and walking as He pleased. That was why the *nāga* king created such a vast place with his coils. The Buddha, however, spent seven days in sitting position. Inside of the coils, at the centre, was placed a bejewelled throne. Above the throne was a canopy from which fragrant festoons of flowers, exquisite with golden stars, were hanging. In the four corners were scented oil lamps which lighted brightly. Caskets containing sandalwood were left open in the four directions. On the bejewelled throne, at the centre of the coils, sat the Buddha enjoying the bliss of the attainment of Fruition (*Majjhima Aṭṭhakathā*).
+
+In this manner, the Buddha stayed inside the seven coils of Mucalinda, the *nāga* king, and spent seven days enjoying the bliss of arahantship as though He was passing the time in a scented chamber of not too narrow a size. When the *nāga* king looked up very high into the sky and saw it was free of clouds and as it was no longer necessary to cover the Buddha with his body and hood, he discarded the form of a *nāga* and assumed the guise of a handsome young man standing with his hands clasped in front of the Buddha.
+
+Then reflecting and realizing the fact that “To him who enjoys the bliss of Nibbāna occurs happiness wherever he sojourns.” the Buddha breathed forth the following two solemn verses of ecstasy as He was not able to contain His joy:

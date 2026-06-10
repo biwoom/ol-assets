@@ -1,0 +1,29 @@
+# Part 13 - The Appearance of Many Miracles on Attainment of Buddhahood
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364460.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364459.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364461.html
+- **수집일**: 2026-05-15 09:44
+
+> This page describes The Appearance of Many Miracles on Attainment of Buddhahood contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as the Attainment of Buddhahood. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+When the Bodhisatta attained Omniscience and became a genuine Buddha in the three worlds of beings at day break, thereby causing all the ten thousand world-systems to vibrate and resound, and reached the height of beauty with decorations as follows:
+
+The colours of cylindrical streamers, set up on the edge of the universe in the east, reached the edge of the universe in the west and the colours of cylindrical streamers, set up on the edge of universe in the west, also reached the edge of the universe in the east. Similarly, the colours of the cylindrical streamers, set up on the edge of the universe in the south, reached the edge of the universe in the north and the colours of the cylindrical streamers, set up on the edge of the universe in the north, reached the edge of the universe in the south. The colours of the cylindrical streamers, set up on the surface of the earth, reached the Brahmā-world; and the colours of streamers, set up in the Brahmā-world, reached the surface of the earth.
+
+All kinds of flowering trees, in the ten thousand world-systems, blossomed simultaneously, irrespective of the season. All kinds of fruit-bearing trees also bore fruit in bunches and clusters simultaneously, irrespective of the season. Flowers also blossomed strangely on the trunks, branches and creepers. Bunches of flowers dangled from invisible plants in the sky. Lotus flowers on leafless stems blooming strangely, each in seven layers, came out breaking through big slabs of rock which formed the lower stratum of the earth. This being the case, the ten thousand world-systems of *jāti-khetta* (the realm of birth of a Bodhisatta), quaked gently at that moment and looked like huge spheres of flowers flown up or like well-arranged flower-beds.
+
+Besides these miracles, the thirty-two Great Omens, described in the Chapter on the birth of the Bodhisatta, also made themselves manifest.

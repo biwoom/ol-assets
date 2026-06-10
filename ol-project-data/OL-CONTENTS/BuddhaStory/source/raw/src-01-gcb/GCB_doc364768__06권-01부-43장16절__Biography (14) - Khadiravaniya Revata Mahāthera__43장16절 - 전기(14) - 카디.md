@@ -1,0 +1,99 @@
+# Biography (14): Khadiravaniya Revata Mahāthera
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364768.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364767.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364769.html
+- **수집일**: 2026-05-15 09:49
+
+> This page describes Khadiravaniya Revata Mahathera contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as forty-one Arahat-Mahatheras and their Respective Etadagga titles. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+### (a) Aspiration expressed in The Past
+
+(The original name of this Mahāthera was Revata. He was a younger brother of Venerable Sāriputta. As he dwelt in an acacia forest which was uneven and full of stones, he was thus known as Khadiravaniya Revata, “Revata the dweller of acacia forest.” In giving his account only the name Revata will be used for convenience sake.)
+
+The Mahāthera was a citizen of Haṃsāvatī and a virtuous person during the lifetime of the Buddha Padumuttara, a hundred aeons ago. He was operating a ferry at the port of Payāga, on the river Gaṅgā. Buddha Padumuttara, in the company of a hundred thousand monks, arrived at Payāga port (to cross over the river).
+
+On seeing the Buddha, it occurred to the virtuous Revata thus: “It is impossible for me to see the Buddha always. Now that the Buddha has come, it is a good chance for me to do a meritorious deed.” So he made a huge barge (composed of boats) with a white canopy and he hung fragrant flowers on it. On the barge floor were spread exquisite coverings made of fibre of excellent quality. Then he ferried the Buddha and His one hundred thousand *bhikkhus* to the other shore on that barge.
+
+At that time, the Buddha declared a certain monk as the foremost (*etadagga*) *araññaka* (forest-dweller). Seeing this, the boatman thought: “I too should becomes one like this monk in the dispensation of a Buddha in future.” So he invited the Buddha, performed a grand *dāna* to Him and, prostrating at the foot of the Buddha, expressed his aspiration thus: “Exalted Buddha, like the *bhikkhu* on whom you have declared the foremost (*etadagga*) *araññaka* (forest-dweller), I too wish to become the foremost among those living in a forest in a Buddha’s dispensation in future.” Seeing that his wish would be fulfilled without a hitch, the Buddha made the prophecy: “In future, during Buddha Gotama’s dispensation, you will become the foremost forest-dweller!”and then He departed. (The Venerable’s further good works done during the interval were not mentioned in the Mahā-Aṭṭhakathā.)
+
+### (b) Ascetic Life adopted in His Final Existence
+
+Due to his meritorious deeds, the good boat-man was reborn either in the divine or human worlds (and never in any woeful state) and was conceived in the womb of his mother, Rūpasari, the brahmin lady, in the brahmin village called Nālaka, in the country of Magadha. He was the youngest among the three brothers: Upatissa, Cunda and Upasena and three sisters: Cālā, Upacālā and Sīsūpacālā. He was named Revata.
+
+Thereafter, Revata’s parents discussed between themselves and agreed thus: “Our children, whenever they grew up, were taken away and turned into novices by monks, sons of the Buddha. Let us bind him with the fetters of household life while he is still young (before he was made a novice by monks).”
+
+(Herein, after becoming an ascetic himself, Venerable Sāriputta had his three younger sisters: Cālā, Upacālā and Sīsūpacālā and two younger brothers: Cunda and Upasena, ordained. Only Revata, as a boy was left behind.)
+
+Having discussed and agreed, the parents brought a bride from a family of equal birth, wealth, and distinction and made them pay homage to the aged grandmother and they gave their blessings, saying: “Dear daughter, may you live longer than your grandmother here!”
+
+(The parents gave such a blessing because they wished for the longevity of the bride. At that time, their grandmother was 120 years of age with white hair, broken teeth, wrinkled skin, her whole body was covered with dark coloured spots (black moles) and her back was extremely bent like a rafter of a decaying house.)
+
+#### Revata Mentally Stirred
+
+On hearing that blessing given by the parents, it occurred to Revata thus: “This girl is young and in the first age-bracket. Such a youthful appearance of hers, it is said, would become sinewy and old like that of my grandmother! I shall first ask about the desire of my parents.” Then he asked: “With what in your mind did you say so?” The parents replied: “Dear son, we wish this girl, your spouse, attainment of longevity like your grandmother. That was what we uttered as a blessing.” “O mother and father!” asked Revata again, as he truly did not understand, “Will the youthful look of the girl become old like grandmother’s appearance?” “What are you talking about, son? Only those who are of great merit, such as your grandmother, enjoy long life.” Thus the parents tried to reason with him.
+
+Revata then reflected: “It is said that such a fair and tender look of the girl will decay, resembling my grandmother. She will become white-haired, toothless and wrinkly skin. What is the use of being infatuated with the physical beauty that has the nature of growing old and sinewy. Of course, there is none! I shall follow the footsteps of my older brothers. So he pretended to play games as boys would naturally do, he called his friends of his age, saying: “Come on friends, let us play runners-and-chasers.” The parents prohibited, saying: “Do not go outside the house on this day of your wedding!” Nevertheless, Revata pretended to play with his friends. When it was his turn to run, he ran only a little and delayed his return by pretending that he had to answer the call of nature. When a second time came for him to run, he ran and came back somewhat faster. On a third time, however, he considered that it was his best chance to run away for good and he ran as fast as he could in the direction he was facing. Arriving at a forest-dwelling of some monks who were observing *paṃsukūlika* form of asceticism (*dhutaṅga*). He paid respect to them and asked for novitiation.
+
+When the monks rejected his request, saying: “O virtuous young man, we do not know whose son you are. And you come here in full attire and ornaments as on usual occasion. Who would dare to ordain you as a novice. Nobody would.” Revata raised his two hands, crying: “I am being robbed! I am being robbed!”
+
+Other monks then gathered from around him and said: “O virtuous young man, no one is robbing you of your garments or ornaments. But you are crying that you are being robbed! What do you mean by so saying?” The boy Revata then said:
+
+“Venerable Sirs, I do not mean that I am being robbed off my garments or ornaments. In fact, I am being robbed of the threefold bliss of devas, humans and Nibbāna (as novitiation has been denied to me). (The expression such as the threefold bliss of devas, humans and Nibbāna was used through hearing from others). I am referring to the robbery of the threefold bliss. Let it be so, if you do not want to ordain me. However, do you know my eldest brother?” “What is the name of your eldest brother?” asked the monks. “My eldest brother’s name was Upatissa while a layman,” replied Revata, “Now he bears the name Sāriputta as a Thera, so they say, Venerable Sirs.”
+
+Then the monks discussed among themselves: “Friends, in that case, this young clansman happens to be our little younger brother! Our elder brother, Sāriputta, the Captain of the Dhamma, has formerly left a message with us, saying: ‘My relatives are all heretics. If somebody comes and says that he is a relative of ours, let him be ordained in any possible manner.’ This boy is our elder brother, Sāriputta, the Dhamma Captain’s very own younger brother, his closest relation. Let us therefore ordain him!” So they gave him the *tacapañacaka* meditation subject and ordained him as a novice. Later on, when he completed twenty years of age, they ordained him as a *bhikkhu* and made him put efforts in meditation.
+
+Having taken the meditation subject, Venerable Revata entered a forest of acacia trees, a rough and uneven place full of stones and pebbles, neither too near nor too far from his preceptors, and engaged in monkish practices. With a determination: “I will not see either the Exalted One or my elder brother Theras until I attain *arahatta-phala*.” Revata practised meditation assiduously and while he was so doing, three months had elapsed. For a tender clansman (son of a wealthy man) the food he ate was so coarse that his mind became perplexed like the wrinkled skin. (His mind could not become soft and splendid, according to the Sinhalese version.) He could not achieve his goal, i.e. attainment to *arahatta-phala*. But Revata was not discouraged, when the three months were over, he observed *pavāraṇā*;he did not move to another place at the end of *vassa* but remained in the same forest and continued to follow the ascetic practices. The more he kept on striving with energy and perseverance, the more his mind became concentrated. When the Venerable proceeded to deal with Vipassanā, he reached the state of an *arahat*.
+
+#### The Buddha’s Visit
+
+Even at the time when Sāriputta learnt the news about the ordination of his younger brother Revata, he said to the Buddha: “Exalted Buddha, it is learnt that my younger brother Revata has been ordained. He may or may not be happy in this dispensation of yours. Let me go and see him.” At that time, Revata was forcefully practising Vipassanā meditation and knowing this, the Buddha prohibited his going twice. When the third request came, knowing thoroughly that Revata had become an *arahat*, the Buddha said: "I too shall go along with you, dear son Sāriputta. Inform the monks!”
+
+Having gathered the monks, Venerable Sāriputta intimated them all thus: “Friends, the Buddha is going on a journey. Those who wish to go along may do so!” Whenever the Buddha travelled, the monks who stayed behind were very few. “We shall get a chance to have a continuous look at the golden complexioned Buddha and also to listen to His sweet sermons!” As expected, those who wish to follow the Buddha was overwhelming. The Buddha therefore left the monastery in a great company of monks with an intention: “I shall see Revata.”
+
+#### Supernatural Power of Sīvali Mahāthera
+
+When they were setting out thus, Venerable Ānanda asked, while coming to the juncture of two roads at one place: “Exalted Buddha, here is the juncture of two roads. By which road do you want the Sangha go?” “Dear son Ānanda, of the two roads which one is straight?” enquired the Buddha. “Exalted Buddha, the straight one (the short cut) is thirty *yojanas*. It is in the domain of demons, having scarce food and being rather dangerous. The curved road, (the beaten track of the majority), is sixty *yojanas*, safe with plenty of food,” replied Ānanda. Then the Buddha asked further whether the Venerable Sīvali came along with them, Venerable Ānanda answered in the affirmative. “In that case, Ānanda,” said the Buddha, “let the Sangha take the straight road full of danger and with less food. We shall test his supernatural power founded on his past meritorious deeds.”
+
+Having said thus, the Buddha took the dangerous road with food scarcity in the grove. From the time they took the road, devas had created a large city in advance at every *yojana*, as the lodgings for the Sangha headed by the Buddha. At every lodging occupied by the monks, devas in the disguise of workers sent by the king of the city, brought rice-gruel, hard and soft food, etc. and enquired: “Where is the Venerable Sīvali? Where is the Venerable Sīvali?” The Venerable had all these offerings collected and went to the Buddha. Together with the monks, the Buddha partake the food of various kinds offered to the Venerable Sīvali by the devas.
+
+Having the offerings in this way, the Buddha travelled a *yojana* each day and covered the difficult journey of thirty *yojanas* in one month, and eventually reached the agreeable dwelling which was prepared in advance by Revata, in the forest of acacia trees. As he knew beforehand of the Buddha’s visit, Venerable Revata had created in his acacia forest, by his supernatural power, dwellings adequate for the monks headed by the Buddha. For the Buddha, he had made the Fragrant Chamber, places for day, as well as for night-resort, and so on. Then he welcomed the Buddha, who entered the dwelling through the decorated and orderly way. Thereafter, He went into the Fragrant Chamber. Then only did the remaining monks bed according to their seniority in monkhood. Knowing that “this is not a time to partake of food”, the devas offered eight kinds of juice to the monks. Half a month had passed since the arrival of the Buddha.
+
+#### Misunderstanding by Restless Monks
+
+At that time, some restless monks sat down at one place, gossiping among themselves. “The Exalted Buddha, the Teacher of devas and humans, came to see the one whom he refers to as ‘a younger brother of my Chief Disciple’ but who spends his time by doing odd jobs. What are the Jetavana, Veḷuvana and other monasteries near Revata’s dwelling for? This monk Revata is only a chore-man busying himself with unimportant things of such nature. What kind of ascetic practice does such a busy man follow? Of course, nothing.”
+
+Then the Buddha considered: “If I stay here long, the place will be crowded with visitors of four kinds. Forest-dwellers want to be in quietude, if I remain too long, uneasiness will occur to Revata.” So he went to Revata’s day-resort. The Venerable Revata saw the Buddha coming from a distance where he was sitting alone on a stone slab and leaning against a wooden board at the end of the walk. Then he welcomed the Buddha and made obeisance to Him respectfully and adoringly.
+
+The Buddha asked: “Dear son Revata, this is a place inhabited by wild animals, such as lions, leopards, and tigers. What do you do when you hear the sounds of wild elephants, wild horses, etc?” “Exalted Buddha,” answered Revata, “to me the sounds of wild elephants, wild horses, etc. repeatedly bring delight in forest (*arañña-rati*).” The Buddha taught Revata a sermon on the benefits of forest-dwelling in five hundred verses. Next day, he went on alms-round in the nearby area and (without returning to Revata’s dwelling in the forest of acacia trees). The Buddha let Venerable Revata went back; besides, He managed His supernatural power in such a way that the restless monks, who had ill-spoken of Revata, forgetfully left behind their staffs, footwears, bottles of ointment, umbrellas.
+
+These restless monks went back to Revata’s dwelling to get back their belongings. Though they took the route by which they came, they could not remember their place. In fact, the monk on the previous days travelled by the decorated road (created miraculously) and on the day of their return journey they had to take the (natural) uneven road and could not help taking rest here and there (as they were so weary). At some places, they were compelled to walk on their knees. With such trouble and difficulty, they were bound to tread on small plants, bushes and thorns. When they reached a place which resembled their residence, they saw their umbrellas, footwears, ointment bottles and staffs, some hanging on and others standing by acacia stumps everywhere. Then only did the restless monks realised that “the monk Revata is a man of supernatural power indeed!” Getting back their paraphernalia, they talked among themselves in great astonishment before they travelled to Savatthi: “Oh, what a wonder is the honour done to the Buddha.”
+
+The monastery donor, Lady Visākhā, invited the monks, who arrived ahead in Sāvatthi, as they went ahead of others, and when they were seated, she asked them: “Venerable Sirs, is Venerable Revata’s residence pleasant?” The monks replied: “Yes, dear donor, Venerable Revata’s residence is pleasant and delightful. It is exactly like the celestial gardens of *Nandāna* and *Cittalatā*.” Later on, she asked the restless monks who were late-comers: “Venerable Sirs, is Venerable Revata’s residence pleasant?” The reply given by these monks was: “Do not ask us, dear lady donor. The residence of Revata is not worth talking about. Apart from being a barren high ground, his place is a great acacia forest with an extremely uneven surface full of pebbles, stone slabs and rocks. There lived Revata miserably.” Thus they recounted their experiences that they had very recently.
+
+Noticing the difference between the two answers; one given by the earlier group monks and the other by the latter, and wanting to know clearly which answer was right, she paid a visit to the Buddha, bringing with her unguent and flowers. Having sat down in a suitable place, she asked the Buddha: “Exalted Buddha, some monks praise the Venerable Revata’s residence while others ill-speak of it. Why are the two speeches different from each other, Exalted Buddha?” Then the Buddha said: “Visākhā, a place in which the minds of the Noble Ones take delight is pleasant, whether it is pleasant or unpleasant in worldly terms.”
+
+Then the Buddha uttered the following verse:
+
+——Aṅguttara Commentary——
+
+### (c) Etadagga Title achieved
+
+At a later time, in an assembly of monks, the Buddha declared the Venerable Revata the foremost (*etadagga*) ‘forest dwelling’, by praising him as follows:
+
+(Herein, though other *theras* dwelt in the forest, they did so only after studying the suitability of the place, the suitability of the water and the suitability of the village as an alms-resort. But Venerable Revata ignored these conditions and dwelt in an acacia grove on a barren high ground with an uneven surface, full of pebbles, stone slabs and rocks. Hence it was he alone who was foremost in the practice of forestdwelling.)
+
+The discourses connected with the Venerable Revata Khadiravaniya may be taken from the Apādāna Text and Commentary, the Dhammapada Commentary, etc.

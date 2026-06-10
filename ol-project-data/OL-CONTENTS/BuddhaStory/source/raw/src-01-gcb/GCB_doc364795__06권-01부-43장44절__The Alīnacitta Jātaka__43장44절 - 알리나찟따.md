@@ -1,0 +1,65 @@
+# The Alīnacitta Jātaka
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364795.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364794.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364796.html
+- **수집일**: 2026-05-15 09:50
+
+> This page describes The Alinacitta Jataka contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as forty-one Arahat-Mahatheras and their Respective Etadagga titles. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+“*Bhikkhus*, in the past, there lived, at the foot of a hill, five hundred carpenters who used to fell trees in the forest. They would cut them to suitable sizes and then float down the lumbers downstream, in rafts. At one time, an elephant was wounded in the forest by a piece of heavy bough which it tore off from the tree. The pointed piece of wood pierced its foot so severely that it was rendered immobile.
+
+After two or three days, the wounded elephant noticed that there were a big group of men passing its way everyday, and hoped that they might be able to help it. It followed the men. When the men saw it following them, they were frightened and ran away. The elephant then did not follow them but stopped. When the carpenters stopped running, the elephant drew near them again.
+
+The head of the carpenters, being wise, pondered on the behaviour of the elephant: “This elephant comes to us as we do not move on, but stops when we run away from it. There must be some reason.” Then the men went up the trees and observed the movements of the elephant. The elephant went near them and, after showing them the wound at its foot, lay down. The carpenters understood the elephant’s behaviour then: it was critically wounded and was seeking help. They went to the elephant and inspected the wound. Then they cut the end of the big wooden spike piercing the elephant’s foot into a neat groove, tied a strong rope around the groove, and pulled the spike out. They washed the wound with herbs, applied medicinal preparations to their best of ability and then dressed the wound. Soon the wound healed and the elephant was well.
+
+Deeply grateful to its healers, the elephant thought about repaying the debt of gratitude. It went back to its den and brought back a young calf which was white all over. This was a most auspicious kind of white elephant called *Gandha* species. The carpenters were very glad to see the elephant returned with a calf. The elephant was not merely showing them the noble calf but it meant to make a gift of it to the benefactors. To make its intention clear, it left the place alone.
+
+The calf followed it but the father elephant gave a signal sound to the calf to go back to the men. The calf obeyed. The men then said to the calf: “O dear boy, we have no use with you. Just go back to your father.” The calf went back but the father would not take him back. For three times, the carpenters sent him back, only to be refused by the father. So they were obliged to keep it. The five hundred carpenters each gave a handful of cooked rice to the calf which was sufficient nourishment for it. It would help them by piling up the cut-up logs, ready to be rafted.
+
+(The Commentary on the Aṅguttara relates the story up to this point only, to show the sense of gratitude of the Venerable Sāriputta when he was an elephant. We now continue the story as described in the Jātaka.)
+
+#### (Continuation of the Alīnacitta Jātaka:)
+
+From that time on, the white elephant calf became part of the team of carpenters. Obeying their commands, he assisted them in all their tasks. The carpenters fed him with their share of cooked rice. At the close of the day’s work, the men and the calf went into the river to bathe and play together.
+
+There is a noteworthy thing about noble elephants or noble horses or noble humans: they never defecate or urinate in the water, but go up to dry ground for the purpose.
+
+One day, great torrent came down from up-stream from Bārāṇasī. In that current, there floated down a piece of dried dung excreted by the white calf, and was caught in a bush at the public washing place in Bārāṇasī. The tenders of the royal elephants brought to the river five hundred elephants to be washed. These elephants sniffed around, got the smell of the dung of the white elephant and panicked. They dared not enter the water but tried to run away with raised tails. The elephant tenders reported the strange behaviour of the elephants to the physicians in charge of elephants. They knew that there must be something in the water that caused the panic of the King’s elephants. A close search was made and they discovered the piece of dung in the bush. Thus, the reason for the fright of the five hundred elephants was ascertained. A big jar was filled with water and in it the white elephant’s dung was made to dissolve. The five hundred elephants were then washed in that solution which had a pleasant odour. Then only the elephants would enter the water.
+
+The elephant physicians reported their experience to the King and strongly suggested to him that the noble white elephant should be searched for. The King led the expedition in a big flotilla up the stream until they reached the working place of the carpenters, at the foot of the hill. The white elephant calf was then bathing in the river. He heard the sound of the royal drums and ran to its masters, the carpenters, who welcomed the King. “Great King,” they said, “you do not need to come up personally to obtain timber. You could send someone for that.” The King answered: “Friends, we do not come here for timber. We have come to take this white elephant calf that is in your possession.” “Then, O King, take it by all means.”
+
+The young calf, however, was not willing to leave its masters, and did not budge from where it was standing. The elephant physicians were consulted. They explained to the King that the young calf would like to see its masters fully compensated for its upkeep. The King then ordered that a hundred thousand coins of silver be placed at each of the six parts of the body of the calf, i.e. at the four feet, at the trunk and at the tail. Still the calf would not budge. It wanted the King to give personal presents (as well). When every man in the party of carpenters, and their wives were given a piece of clothing and playthings for their children, who were his playmates, it then agreed to go with the King. It cast long parting looks at the men, their wives and children as it went along with the King.
+
+The calf was escorted to the city which it was made to go round clockwise thrice in pomp and ceremony, the whole of the city and the elephant-yard were decorated. He was then housed at the elephant-yard, fitted with the paraphernalia of a royal mount. Then it was anointed as the King’s personal associate, as well as the royal mount. It was assigned half of the royal estate, with every aspect of regal status. From the day of its arrival, Bārāṇasī acquired the dominance of the whole Jambudīpa.
+
+After some time, the future Buddha was conceived in the womb of the Chief Queen of Bārāṇasī. When the gestation period was due the King died. The news of the King’s demise was not revealed to the white elephant for fear that it might suffer broken-heart.
+
+However, the news could not be kept secret for long. For when news of the King’s death became known to the neighbouring province of Kosala, the King of Kosala besieged Bārāṇasī. The citizens of Bārāṇasī sent an envoy to the Kosalan King with the message which purported to say: “Our Queen is due to give birth to a child seven day’s hence, according to persons adept at reading people’s appearance. If the Queen gives birth to a son, we shall wage war. Meantime, would the Kosalan King hold his peace just for seven days?” The Kosalan King agreed.
+
+The Queen gave birth to a son on the seventh day. The birth of the child was marked by the citizens of Bārāṇasī being in cheerful spirits, hence the boy was named Prince Alīnacitta, (meaning ‘Prince who brings good cheer’).
+
+The war started, as mutually agreed, on the day of the birth of the Prince. The warriors of Bārāṇasī, lacking a general on the field, fought bravely yet their morale was running low. The ministers confided with the Queen that to avert defeat, the white elephant should be told of the death of the King, and the plight of a kingless city under siege by the Kosalan King. The Queen agreed. Then fitting the royal infant in regalia, placing it on a piece of white cloth, she carried it to the elephant-yard accompanied by her ministers and put down the child near the foot of the white elephant. She said: “O Great White Elephant, we have kept the news of the King’s death from you because we feared you might suffer brokenheart. Here is the Prince, the son of your deceased friend, the King. Now our city is under siege by the Kosalan King, your little child, the Prince, is in danger. The people defending the city are in low spirits. You may now destroy the child, or save him and his throne from the invaders.
+
+Thereupon the white elephant fondled the baby with his trunk, took it up, and placing it on his head, wailed bitterly. Then he put down the baby and placed it in the arms of the Queen. Making a signal, sound of his readiness for action, meaning: “I will capture the Kosalan King alive”, it went out of the elephant yard. The ministers then fitted the white elephant with chain-mail and, opening the city gate, led it out, surrounded by them. After getting out of the city, the white elephant gave out a shrill sound like that of the crane, ran through the besieging forces and, taking the Kosalan King by his hair knot, put him at the feet of the Princeling Alīnacitta. Frightening off the enemy troops who threatened to harm the Princeling, it seemed to say to the Kosalan King: “From now on, Kosalan King, be mindful. Do not take the Princeling as someone to trifle with.” The Kosalan King was thus properly subdued.
+
+From that time on, the suzerainty of the entire Jambudipa became secure in the hands of Prince Alīnacitta. No rival king dared challenge the authority of the Prince. When the Prince, the Bodhisatta, was aged seven, he was anointed King Alīnacitta. He ruled righteously and at the end of his life span, he was reborn in the deva realm.
+
+After discoursing on the story that had taken place in the past, the Buddha, in the present context, uttered these two verses:
+
+After ending the discourse with the attainment of the Deathless as its highest objective, the Buddha continued to show the Four Ariya Truths. At the end of which, the faltering *bhikkhu* attained Path-Knowledge. The Jātaka story ended with the usual identification of the personalities involved, namely, the Chief Queen, the Bodhisatta’s mother was Queen Māyā in the present existence; the King of Bārāṇasī, King Suddhodāna;the royal white elephant, the faltering *bhikkhu*; the noble tusker, father of the white calf, the Venerable Sāriputta; the Kosalan King, the Venerable Mahā Moggallāna; Prince Alīnacitta, the Buddha. This is the Alīnacitta Jātaka in the Duka Nipāta.
+
+*Epilogue*: The Buddha related the Jātaka story in connection with the Venerable Sāriputta’s sense of gratitude, how in the past existence he repaid his debt of gratitude. As regards the Venerable Rādha, the Buddha had made 46 discourses in four *vaggas* in connection with him. Refer to 2-Rādha Saṃyutta, Khandha Vagga Saṃyutta, Saṃyutta Nikāya.

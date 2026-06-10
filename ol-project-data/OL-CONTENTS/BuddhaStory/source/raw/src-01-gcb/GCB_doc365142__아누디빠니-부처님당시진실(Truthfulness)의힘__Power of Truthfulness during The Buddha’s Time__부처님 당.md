@@ -1,0 +1,37 @@
+# Power of Truthfulness during The Buddha’s Time
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365142.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365141.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365143.html
+- **수집일**: 2026-05-15 09:52
+
+> This page describes Power of Truthfulness during The Buddha’s Time contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as on Pāramitā. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+Once during the Buddha’s time, there befell threefold misfortune of disease, demons and famine in the city of Vesali. The Buddha went there accompanied by *bhikkhus* and taught the Venerable Ānanda how to recite the verses of oath. The Venerable Ānanda spent the whole night walking within the three walls of the city, chanting the verses by virtue of which all three misfortunes vanished. This story is mentioned in detail in the Commentary of the Ratana Sutta. The verses of oath comprising a number of verses forms a discourse of *paritta* (protection), called Ratana Sutta. It begins with an attribute of a Buddha: “In the worlds of devas, humans, *nāgas* and *garulas*, there exist various gems; but none is comparable to the gem of Buddha. By virtue of this truth may all beings be free of the threefold misfortune and be happy.” In the Ratana Sutta there are twelve verses of asseveration which reveal the various attributes of the Triple Gem, i.e. the Buddha, Dhamma and Sangha. (Together with the three verses ascribed to Sakka, there are fifteen verses of asseveration.) This Sutta was recorded in the Buddhist Councils as the first Sutta in the Cūla Vagga of the Sutta Nipāta and as the sixth sutta of the Khuddaka Pātha.
+
+The Angulimāla Sutta in the Rājavagga of the Majjhima Pannāsa contains another story that also took place in the lifetime of the Buddha. While the Buddha was sojourning at the Jetavana Monastery, Sāvatthi, the Venerable Aṅgulimāla reported to the Buddha about a woman in confinement who found difficulty in delivering a baby. Under instructions from the Buddha, the Venerable Aṅgulimāla went to the woman to help her by means of an oath of truth. “Since the day I became a noble one,” declared the Venerable, “I have never intentionally taken the life of a sentient being. By virtue of this truth may the mother and the son be well.” The mother then gave birth to her son without any more trouble and both were well.
+
+In this way, in the lifetime of the Buddha, too, solemn declarations of truth was efficacious and fruitful.
+
+Power of Truthfulness during Buddhist Period in Sri Lanka
+
+When Buddhism spread to Sri Lanka after the Parinibbāna of the Buddha, the Venerable Mahāmitta’s mother was suffering from breast cancer. The mother sent her daughter, a *bhikkhunī*, to the Venerable for some medicine. “I know nothing of normal drugs.” said the
+
+Venerable, “I will tell you a certain form of medicine. ‘Since the moment of my ordination, I have never looked at a woman with a lustful eye. Because of this truthful declaration, may my mother become well again.’ When you get back to mother, run your fingers over her body while repeating what I have just said.” The sister went back to the ailing mother and carried out his instructions. No sooner had she done so, the mother’s cancerous affliction dissolved like a foam. So says the Chapter on Analysis of Sīla in the Visuddhimagga.
+
+A similar story is told in the Dvāra Kathā, Cittuppāda Kaṇḍa, of the Aṭṭhasālinī Commentary. While explaining the word *sampattavirati*, it says that a woman was suffering from a certain disease. Being told by the physician that hare’s meat was needed for cure, the older brother sent the younger one, Jaggana, to a farm to look for a hare. On seeing Jaggana, a hare ran away in fright and was caught in a tangle of creepers. It then screamed. Jaggana rushed there and seized the hare. But he thought: “It is not justified to kill this little creature just to save my mother’s life,” and set the hare free and went home. “Have you got one?” asked the older brother. When Jaggana told his brother what he had done, the latter scolded him vehemently. Then Jaggana approached his mother and while standing by her, he uttered: “Since my birth, I have never known any instance of intentional killing of a creature by me. By virtue of this truth, may my mother become well and happy.” At that very moment, the mother became well and happy again.
+
+*Epilogue*: In this way, it should be noted that *icchāpūrana-sacca* was individually performed also after the Parinibbāna of the Buddha.

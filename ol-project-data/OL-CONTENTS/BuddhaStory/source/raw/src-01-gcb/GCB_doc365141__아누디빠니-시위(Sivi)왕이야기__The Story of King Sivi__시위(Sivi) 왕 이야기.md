@@ -1,0 +1,33 @@
+# The Story of King Sivi
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365141.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365140.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365142.html
+- **수집일**: 2026-05-15 09:52
+
+> This page describes The Story of King Sivi contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as on Pāramitā. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+It is the third story of the Visati Nipāta. In the city of Ariṭṭhapura, Sivi country, Bodhisatta, King Sivi, gave away six hundred thousand pieces daily in charity. Even then, he was not content and thought that he would like to give away parts of his body. In order to make the King’s desire fulfilled, Sakka came down in the guise of a blind brahmin to the King and said: “O King, both your eyes can see, but mine cannot. If you would give me one of yours, you can see with the remaining one and I will also see with the eye given by you. So kindly give me one of your eyes.” The King was delighted, for a recipient had come to him the very moment he was thinking of giving. He summoned his surgeon Sivika and ordered: “Take out one of my eyes.” The surgeon, ministers and queens all tried to dissuade him. But he stood by his order and Sivika could do nothing but take out one of the King’s eyes. Looking at the extracted eye with the one remaining, the King happily expressed his aspiration for Perfect Self-Enlightenment (*Sammāsambodhi*) and handed the gift of his eye over to the brahmin.
+
+When the brahmin, who in reality was Sakka, put the eye into his eye-socket, it fitted in like his original. King Sivi, seeing this, was so delighted that he asked Sivika: “Get also my other eye out.” Despite protests from his ministers, the King had his remaining eye taken out and given to the Brahmin. The latter put the King’s eye into the socket of his other eye which became as good as the original. He then gave his blessings and disappeared as though he had returned to his place.
+
+As King Sivi became totally blind and was not fit to rule, he moved to a dwelling place near a pond in the royal gardens, where he reflected on his act of charity. Sakka then came to him and walked to and fro nearby so that the King would hear his footsteps. When the King heard, he asked who it was. Sakka replied: “I am Sakka. Ask for any boon you want.” “I have plenty of wealth such as gems, gold and silver. I want only death, for both my eyes are gone now,” said the King. “O King, you say you want death. Do you really desire to die? Or do you say so only because you are blind?” When the King answered he desired so because he was blind. Sakka said: “O King, I am not able to make you see again. You can see only with the power of your truthfulness. Make a solemn declaration of truth.” The King then uttered: “I adore those many people who came to me for gifts and I also adore those who actually asked for what they needed. By virtue of this verbal truth may my eye sight be restored to me.” No sooner had he said so than the first eye appeared in him. Then again he made another declaration of truth:
+
+“When the blind brahmin came to me for my eye, I gave him both of mine. In so doing, my heart was full of joy. By virtue of this verbal truth, may the other eye be restored to me.”
+
+Accordingly, he regained his second eye. These two eyes were not the ones which were with him at his birth; neither were they divine eyes. In fact, they were the eyes which appeared by the power of his verbal Perfection of Truthfulness.
+
+*Epilogue*: This verbal truth of King Sivi was also *icchāpūrana-sacca* as it was spoken to have his wish for the restoration of his eyesight fulfilled.

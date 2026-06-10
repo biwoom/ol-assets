@@ -1,0 +1,79 @@
+# Biography (25): Dabba Mahāthera
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364778.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364777.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364779.html
+- **수집일**: 2026-05-15 09:49
+
+> This page describes Dabba Mahathera contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as forty-one Arahat-Mahatheras and their Respective Etadagga titles. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+### (a) Aspiration expressed in The Past
+
+The future Dabba Mahāthera was born as a worthy man in the city of Haṃsāvatī, during the time of Buddha Padumuttara. On coming of age, he visited the Buddha’s monastery and while listening to a discourse by the Buddha, he witnessed a *bhikkhu* being declared by Him as the foremost among those *bhikkhus* who prepared living place for the *bhikkhu*Sangha. He emulated that *bhikkhu* and after making great offerings to the Buddha, he expressed his aspiration for the similar distinguished recognition during the time of some future Buddhas. The Buddha saw that the donor’s aspiration would be fulfilled and made the prognostication before returning to the monastery.
+
+#### Meditating Atop A Mountain
+
+The future Dabba Mahāthera, having received the prognostication from the Buddha, lived a full life filled with good deeds. On his death, he was reborn in the deva realm and subsequently either in the deva realm or the human realm. During the waning years of the Teaching of Buddha Kassapa, he was reborn as a worthy man and took up bhikkhuhood. He found six other *bhikkhus* who shared the view that living among people was not the correct way for gaining enlightenment and that a real *bhikkhu* must live in seclusion. And so they went up a high steep mountain by means of a ladder. Once up at the top, they discussed among themselves: “He who has self-confidence, let him push away the ladder. He who clings to his life, let him go down by the ladder before it has been pushed away.” All the seven *bhikkhus* chose to remain on the mountain top until they attained enlightenment and so they pushed away the ladder. “Now, friends, be diligent in your *bhikkhu* practice,” they exhorted one another before choosing a place of their own on the mountain to strive, ignoring death, for the Path-Knowledge.
+
+Of these seven *bhikkhus*, the eldest attained arahatship on the fifth day. He knew he had finished what was required of the Noble Practice and went to Uttarakuru, the Northern Island Continent, by means of his powers to collect alms-food. Having collected the almsfood, he came back and offered it to his six *bhikkhu* companions with these encouraging words: “Friends, have this meal. Let me be responsible for alms-food collection. You just devote yourselves to your meditation.” Then the remaining six replied: “Friend, have we made an agreement among us that he who first realize the Supramundane Dhamma would be responsible to feed those who still have to reach that same goal?” The *arahat* said: “No, friends, there was no such agreement.” Then the six *bhikkhus* said: “Venerable Sir, you have attained *arahatta-phala* according to your past merit. We too would make an end of the woeful round of *saṃsāra* if we could. May the Venerable go wherever he pleases.”
+
+The eldest *bhikkhu*, being unable to persuade the six *bhikkhus* into accepting the almsfood, took the meal at a suitable place and left them. On the seventh day, the second eldest *bhikkhu*, attained *anāgāmī-phala*. He too went to the Northern Island continent by means of his powers and offered the alms-food to the remaining colleagues. Being refused by his friends, he ate his meal at some suitable place and left. After the death and dissolution of his body, he was reborn in the Pure Abode of the (*anāgāmī*) Brahmās.
+
+### (b) Ascetic Life adopted in His Final Existence
+
+The remaining five *bhikkhus* did not achieve the Path-Knowledge during that existence. After passing away from that existence, they were reborn in the deva realm and the human realm throughout the infinite world-cycle of the interval period between Buddha Kassapa and Buddha Gotama. During the time of Buddha Gotama, they were reborn in various countries: (1) one was born in Gandhāra, in the city of Takkasīlā, as a member of the royal family (and later became King Pukkusāti); (2) another in Pabbateyya (also called Majjhantika) region, as the son of a female wandering ascetic (and later became Sabhiya, the wandering ascetic); (3) the third one, in Bāhiya Country, in a household (and later became Bāhiya Thera); (4) the fourth, in Rājagaha household (and later known as Kumāra Kassapa); and (5) the last (who later became the Venerable Dabba) in Malla Country, in the city of Anupiya, in the royal family of a Malla prince.
+
+The mother of the future Dabba Mahāthera died when she was about to deliver the child. When her dead body was being cremated on a pyre, the womb burst open due to heat but, thanks to his past merit, he was shot up into the air and fell safely on a heap of *dabba* grass, and was thus named (by his grandmother) Dabba.
+
+(Note: The term ‘dabba’ has two meanings; ‘a kind of grass’ and ‘a pile of faggots.’ In the Apādāna (Book Two) in the explanation of verse no. 143 it is mentioned as: *“patito dabbapuñjamhi taro dabboti vissuto”*. In the Commentary on the Aṅguttara, Sāratthadīpanī Tika, and the Commentary on the Theragāthā, he is said to have fallen on the faggots. The present author prefers the meaning ‘grass’ here.)
+
+When young Dabba was seven years of age, the Buddha, in the company of many *bhikkhus*, arrived in Anupiya during a tour of the Malla Country, where He took up temporary abode in the Anupiya mango grove. Young Dabba was enthralled at seeing the Buddha and asked his grandmother for permission to enter the Order. The grandmother consented and she took the boy to the Buddha and asked for the boy’s admission into the Order.
+
+The Buddha gave a *bhikkhu* near Him the task of admitting the boy into the Order, saying: “See to this boy’s admission as a novice.” The *bhikkhu*-elder then taught him how to reflect on the loathsomeness of the body, which was represented by its five parts (i.e. hair, body hair, nails, teeth, skin). (As shaving the head in a first step in ordaining a boy into a novice, this reflection is a most appropriate thing which the preceptor invariably enjoins this boy for novitiation to say the five words aloud and reflect.) Young Dabba reflected on them while his head was being shaved.
+
+Young Dabba had sufficing conditions for enlightenment; moreover, he had aspired to a distinguished bhikkhuhood a hundred thousand world-cycles ago before Buddha Padumuttara. Hence, as soon as the first circle of hair on his head was shaved, he attained *sotāpatti-phala*;by the time the second circle of hair was shaved, he attained *anāgāmīphala*;by the time the third circle of hair was shaved, he attained the *sakadāgāmī-phala*;and when the head was clean-shaven, he attained arahatship. In short, the completion of the shaving his head and the attainment of his arahatship took place simultaneously.
+
+After spending such time as was needed for bringing enlightenment to those deserving release from *saṃsāra*, the Buddha returned to Rājagaha to dwell at the Veḷuvana monastery. Novice Dabba, now an *arahat*, also accompanied the Buddha there. Once settled in Rājagaha, the Venerable Dabba, going into seclusion, thought to himself: “I have nothing more to do for arahatship. It were well, if I served the Sangha by arranging for their living places and directing them to their respective donors of alms-food.” He disclosed his idea to the Buddha. The Buddha lauded him for it and assigned him the double task: (1) preparation of living places for the members of the Sangha, for which the Sangha was to recognize him as such (*Senāsana-paññāpaka sammuti*) and (2) directing members of the Sangha to their respective donors of alms-food, for which the Sangha was to recognize him as such (*Bhatt'uddesaka sammuti*).
+
+The Buddha was pleased to see the seven-year-old Dabba having attained such eminence in His Teaching as being endowed with the Four Analyticals, the Six Supernormal Powers and the three Knowledges. Therefore, although very young, the Buddha raised the novice, Arahat Dabba, to bhikkhuhood. (Incidentally, there were also other novice *arahats*, such as Sāmaṇera Pandita, Sāmaṇera Saṃkicca, Sāmaṇera Sopāka, Sāmaṇera Khadiravaniya (the youngest brother of the Venerable Sāriputta), who were raised to full bhikkhuhood although under twenty because they had attained arahatship. Although young in age, these *bhikkhus* had attained the acme of bhikkhuhood, and hence deserved to be called Elders, *Theras*.)
+
+From the time of becoming a full *bhikkhu*, the Venerable Dabba arranged living places and allocated alms-food (among the various donors to the Sangha) for all the *bhikkhus* residing at Rājagaha. This, he did with competence, not allowing a slip in the alms-lot distribution which had to be done by seniority.
+
+The good name of the young *arahat-bhikkhu*, who came of the Malla royal family, who was very caring to *bhikkhus*, who was very considerate in finding places where like-minded *bhikkhus* could stay together, who was able to get living places at far-off locations for visiting *bhikkhus* according to their instructions, helping disabled or sick *bhikkhus* by his own supernormal power, spread to all directions.
+
+Many visiting *bhikkhus* would ask for normally impossible living places at odd hours, at far-off locations, such as the mango grove monastery of Jīvaka, the sanctuary at Maddakucchi monastery, etc., and to their astonishment, they got them through the supernormal powers of the Venerable Dabba. The Venerable, by his powers, created as many mind-made replicas of himself, as his tasks demanded. Then, with his fingers emitting light in the darkness of night, serving as bright lamps, he, i.e. the replica of himself, could lead his guests to the places of their choice, show them their living place and sleeping place. (This is a brief description. For details see the Vinaya Pārājikakaṇḍa in the sections on Duṭṭhadosa Sikkhāpada.)
+
+### (c) Etadagga Title achieved
+
+In consideration of the Venerable Dabba’s noble services to the Sangha with experience competence, the Buddha, on one occasion, declared to the congregation of *bhikkhus*:
+
+(Note: Since the Buddha assigned the Venerable Dabba the duties of seeing to the accommodation of *bhikkhus*, the Venerable kept all the eighteen big monastic compounds around Rājagaha clean, both inside the dwelling places and around them. He never missed cleaning a sitting place or a sleeping place or placing water for drinking and washing for the *bhikkhus*.)
+
+#### Dabba as Victim of Slander
+
+Even though the Venerable Dabba was a truly virtuous *bhikkhu*, he was a victim of slander perpetrated by a group of evil *bhikkhus* led by Bhikkhu Mettiya and Bhikkhu Bhumajaka who accused him of complicity with a *bhikkhunī* named Mettiya. (For details refer to Vinaya Pārājikakaṇḍa, in the Chapter on Samghādisesa, in the section on Duṭṭhadosa Sikkhāpada; and Cūlavagga; 4-Smathakkhandhaka, 2-Sati vinaya.) This unhappy event was the consequence of his own past misdeed. Ninety-one world-cycles previously, during the time of Buddha Vipassī, he had slandered an *arahat* knowing him as a pure one.
+
+#### Mahāthera’s Parinibbāna
+
+On the day the Venerable Dabba was to pass away, he returned to the Veḷuvana monastery from his alms-round, having taken his meal, and after making obeisance to the Buddha, washed his feet to cool them; then he sat on the small mat at a secluded spot, and entered into the attainment of Cessation for a specified period.
+
+After rising from the *jhāna* absorption at the pre-determined time, he reviewed his lifefaculty and knew that he was going to live just for a couple of hours or so (lit., two or three *muhuttas*). He thought it improper for him to pass away in seclusion without saying farewell to the Buddha and the co-residents. He felt obliged to say farewell to the Buddha and to display miracles before he died, in the future interest of those who had wrong opinions of him (due to the slanderous attack of Bhikkhu Mettiya and Bhikkhu Bhūmajaka), who would thereby be enabled to see his true worth. So he went before the Buddha, made obeisance, and sitting in a suitable place, said: “O Sugata, my time to die has arrived.”
+
+The Buddha reviewed the life-faculty of the Venerable Dabba, knew that he was just about to die and said: “Dabba, you know the time for your death.” The Venerable Dabba then made obeisance to the Buddha, walked around Him thrice, with Him on his right, and then he stood at a suitable place and said: “Venerable Sir, we had fared in the world together in various existences for a period of a hundred thousand world-cycles. My performance of good deeds had been aimed at arahatship. The goal is now achieved. This is the last time I am seeing the Bhagava." It was a touching moment. From among the *bhikkhus*, those who were worldlings, *sotāpannas*, or *sakadāgāmins*, felt very miserable, while some wept.
+
+The Buddha knew what was in the mind of the Venerable Dabba and said: “Dabba, that being so, display miracles for us and the Sangha to witness.” No sooner had the Buddha said these words than all members of the community of *bhikkhus* were present on the scene. Then the Venerable Dabba displayed the miracles pertaining to the disciples of the Buddha, such as “from being one, he became many; from being many, he became one; now he was visible; and now he was invisible, etc.” Then he made obeisance to the Buddha again.
+
+Then the Venerable rose to the air and created mind-made earth in mid-air, on which he sat (cross-legged) and meditated on the devise of heat (*tejo-kasiṇa*) as the preliminary step. After emerging from the *jhāna*, concentrating on the element of heat, he made his solemn wish that his body rise in flames. Then he entered into the *jhāna* of the element of heat (*tejo*-*dhātu*) which is the basis of attaining supernormal powers. On emerging from that *jhāna*, the thought-process pertaining to supernormal power arose in him. At the first impulse thought-moment of that thought process, his body became ablaze which consumed the entire corporeality, comparable in power to the world-destroying fires, so that not a trace of the body, the conditioned physical phenomenon, remained. No ash of whatever was to be seen. Then the blaze was completely extinguished as desired by the Venerable. At the end of the supernormal thought-process, the mind reverted to life-continuum, which, in this moment, was identifiable with death. Thus ended the life of the Venerable Dabba, who passed away and realized Nibbāna, making an end of *dukkha*. (For details of the passing away refer to the Commentary on the Udāna.)

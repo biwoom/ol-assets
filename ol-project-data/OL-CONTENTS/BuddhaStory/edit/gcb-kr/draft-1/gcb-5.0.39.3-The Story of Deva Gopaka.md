@@ -1,0 +1,39 @@
+# The Story of Deva Gopaka
+
+## 본문
+
+“Venerable Sir, in this city of Sāvatthi, there was once, a Sakyan princess named Gopika, who had faith in the Triple Gem and was in the habit of observing the Five Precepts. She disliked being a female and conducting herself well with a view to being reborn as a male person. She was reborn in the Tāvatiṃsa Deva realm as my son. He is known as Deva Gopaka in Tāvatiṃsa realm.
+
+“Venerable Sir, three *bhikkhus*, on the other hand, practised the noble Practice under the Buddha but, at their death, they were reborn as *gandhabba*, devas inferior to Tāvatiṃsa devas. These *gandhabba* devas enjoy sensual pleasures fully and they come to the gathering of devas in the Assembly Hall to entertain the (Tāvatiṃsa) devas with their music. To them Deva Gopaka said:
+
+‘Revered Sirs, in what manner of attention did you listen the Bhagava’s Teachings? As for me, I was a mere woman (in my former human existence) who could observe just the Five Precepts, but being greatly dissatisfied with womanhood, I conducted myself well with a view to gaining manhood at the next rebirth, with the result that I am now reborn as a son of Sakka, Lord of Devas. In this Tāvatiṃsa Deva realm I am known as Deva Gopaka.
+
+‘As for you, revered Sirs, you had been *bhikkhus* who had practised the Noble Path under the Buddha, and yet you are now reborn as *gandhabba* devas, inferior to Tāvatiṃsa devas. That looks a very unsatisfactory matter to us.’
+
+On hearing these words of rebuke which sounded as a warning to the three *gandhabba* devas, two of them gained mindfulness that set them up at the first *jhāna* there and then, and were reborn in the Brahmapurohita realm. The third one continued enjoying himself in the Sensuous Sphere.” (*Sakka’s report not ended yet*.)
+
+In this story of Deva Gopaka, the destination of the three former *bhikkhus* is remarkable. Although they had conducted themselves well as *bhikkhus*, they were reborn as *gandhabba* devas, and were called *samaṇa* devas (devas who had been *samaṇas* in their former existence). This was because they had, in the past, been *gandhabba* devas for many existences so that there had in them a liking for that existence (*bhavanikanti*). *Gandhabba* devas belong to the realm of the Four Guardian Kings.
+
+When Deva Gopaka met the three *sammaṇa* devas, he reflected on what previous merit they were endowed with so that they had such attractive appearance. He saw that they had been *bhikkhus* in their previous existence. Then he reflected whether they had been established in morality and saw that they had been established in morality. He further reflected whether they had further merit and saw that they had attained *jhāna*. He again reflected where these *bhikkhus* lived and saw that they were the *bhikkhus* who went to his (the then Sakyan lady Gopaka) house for daily alms-food. He reviewed their case thus: “Persons established in morality can wish for any of the six deva realms. These *bhikkhus* do not have rebirth in the higher deva realms. Further, persons who have attained *jhāna* usually are reborn in the Brahmā realms. These *bhikkhus* do not get reborn in the Brahmā realms. As for me, I had followed their instruction and am now born as Sakka’s own son. These *bhikkhus* who are reborn as inferior devas as *gandhabbas* are the *aṭṭhiveda* type of persons who need goading to the extreme.” That was why he said the words of rebuke: “Revered Sirs, in what manner of attention did you listen to the Bhagava’s Teachings? (etc.)”
+
+“*Aṭṭhiveda* persons who need goading to the extreme” is a reference to the Patoda Sutta, Kesi vagga of Tatiya Paṇṇāsa Aṅguttara Nikāya (Catukka Nipāta) where four types of trained horses and four types of trained men are described. The gist of that exposition:
+
+### Four Types of Trained Horses
+
+(1) the horse that responds just by the hint of the use of the goading stick (the *chāyā diṭṭha*), (2) the horse that responds only when struck, so that his hair comes off, (the *lomavedha*), (3) the horse that responds only when struck, so that his skin is torn off (the *cammavedha*) and (4) the horse that responds only when struck, so that he feels unbearable pain (the *aṭṭhivedha*).
+
+### Four Types of Trained Men
+
+(on the analogy of the four types of trained horses)
+
+(1) On hearing that so and so in such and such place is suffering from illness, or had died, he has urgent religious awakening (*saṃvega*), and he strives to gain Insight and Path-Knowledge, (the *chāyādiṭṭha*);(2) On witnessing someone suffering from illness or die in his presence, he has urgent religious awakening, and he strives to gain Insight and Path-Knowledge, (the *lomavedha*); (3) On witnessing one of his family suffering from illness or die in his presence, he has urgent religious awakening, and he strives to gain Insight and Path-Knowledge (the *cammavedha*); (4) Only on meeting with some serious illness himself, he has urgent religious awakening, and he strives to gain Insight and Path-Knowledge, (the *aṭṭhivedha*).
+
+Deva Gopaka placed those three *bhikkhus* in the fourth category above and therefore considered that they ‘needed goading to the extreme’.
+
+In Sakka’s story the passage, “two of them gained mindfulness that set them up at the first *jhāna* there and then, and were reborn in the Brahmapurohita realm” needs some explanation. On hearing the words of Deva Gopaka, two out of the three *samaṇa* devas thought: “Normally, we ought to be rewarded for our service in entertaining them, but now, instead of any rewards, we are being scolded right from the start, like salt sprinkled onto a hotplate. How is this?” Reflecting on their past existence, they saw vividly that they had been *bhikkhus*, that they had pure morality, that they had attained *jhāna*, and that they used to go to Gopaka the Sakyan lady’s residence, for daily alms-food.
+
+They reflected their situation thus: “Person established in morality can wish for any of the six deva realms. Person who have attained *jhāna* usually are reborn in the Brahmā realms. Yet we have not been able to get rebirth in the higher deva realms or in the Brahmā realms. The young lady, who followed our instructions, is now reborn in the higher deva realm. Although we had been *bhikkhus* and practised the Noble Path under the Bhagavā, we are reborn as *gandhabba* devas, which are inferior class of devas (due to our liking for *gandhabba* existence where we had been repeatedly reborn before). That is the reason why this Deva Gopaka is saying words of rebuke.” The two of them took these words to heart and regained mindfulness of the first *jhāna* (i.e., they attained the first *jhāna*) and, based on that concentration, they contemplated, on the impermanence, woefulness and non-self nature of mind and matter, conditioned by causes, and attained *anāgāmī-phala* there and then.
+
+An *anāgāmī-puggala* or a Never-Returner has a class of supramundane consciousness that does not fit well with the Five Aggregates pertaining to the *gandhabba* existence of the Sensuous Sphere;that class of consciousness is superior to that of the Sense Sphere existence. Hence as soon as *anāgāmī-magga* was attained, these two *ariya* devas passed away from the deva existence and were reborn in the Brahmapurohita realm, the middle plane of the three Fine-material realms, because they attained the first *jhāna* which is the medium class of *jhāna*. Although it is said that they were reborn in the Brahmapurohita realm, their bodies did not appear in that Brahmā realm. They remained in Tāvatiṃsa Deva realm (at the Assembly Hall for the discussion of the Dhamma) in the form of Brahmapurohita Brahmās instead of the *gandhabba* deva forms.
+
+The third *gandhabba* deva was unable to give up his clinging to the *gandhabba* existence and so remained in his present existence as a Catumahārājikā deva. (*These details are as explained in the Commentary*.)

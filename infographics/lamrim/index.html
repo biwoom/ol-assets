@@ -1,6 +1,6 @@
-<!DOCTYPE html><html lang="ko"><head>
-
-
+<!DOCTYPE html>
+<html lang="ko">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>람림 三士道 — 보리도차제론의 수행체계 (A4)</title>
@@ -379,7 +379,360 @@ body { padding: 24px 0 48px; }
   .page:last-child { page-break-after: auto; }
 }
 
+/* ============================================================
+   MOBILE ONLY
+   A4 고정 인포그래픽 → 모바일 세로형 카드 레이아웃
+   ============================================================ */
 
+@media (max-width: 768px) {
+
+  html,
+  body {
+    width: 100%;
+    overflow-x: hidden;
+    background: var(--bg);
+  }
+
+  body {
+    padding: 0;
+  }
+
+  /* A4 고정 용지 해제 */
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    margin: 0;
+    padding: 24px 18px 36px;
+    overflow: visible;
+    display: block;
+    box-shadow: none;
+    background: var(--bg);
+  }
+
+  .page + .page {
+    border-top: 12px solid var(--surface-2);
+  }
+
+  /* 하단 풋터를 일반 문단형으로 전환 */
+  .foot {
+    position: static;
+    margin-top: 28px;
+    padding-top: 14px;
+    display: block;
+    font-size: 10px;
+    line-height: 1.7;
+    letter-spacing: 0.08em;
+    text-align: center;
+  }
+
+  .foot span {
+    display: block;
+  }
+
+  .foot span + span {
+    margin-top: 4px;
+  }
+
+  /* 상단 제목 영역 */
+  .masthead {
+    display: block;
+    padding-bottom: 22px;
+    border-bottom: 2px solid var(--ink);
+  }
+
+  .masthead .eyebrow {
+    font-size: 11px;
+    line-height: 1.6;
+    letter-spacing: 0.14em;
+    word-break: keep-all;
+  }
+
+  .masthead h1 {
+    margin-top: 14px;
+    font-size: clamp(30px, 9vw, 42px);
+    line-height: 1.18;
+    letter-spacing: -0.03em;
+    word-break: keep-all;
+  }
+
+  .masthead .sub {
+    max-width: none;
+    margin-top: 14px;
+    font-size: 15px;
+    line-height: 1.75;
+    word-break: keep-all;
+  }
+
+  .lineage {
+    margin-top: 22px;
+    text-align: left;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding-top: 18px;
+    border-top: 1px solid var(--border);
+  }
+
+  .lineage .src {
+    padding: 14px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: var(--surface-3);
+  }
+
+  .lineage .src .t {
+    font-size: 17px;
+    line-height: 1.4;
+  }
+
+  .lineage .src .m {
+    margin-top: 5px;
+    font-size: 11px;
+    line-height: 1.6;
+    white-space: normal;
+  }
+
+  /* A/B 예비 블록 */
+  .block {
+    margin-top: 32px;
+  }
+
+  .block-head {
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+
+  .block-head .letter {
+    width: 34px;
+    height: 34px;
+    border-radius: 8px;
+    font-size: 20px;
+  }
+
+  .block-head h2 {
+    font-size: 21px;
+    line-height: 1.35;
+    word-break: keep-all;
+  }
+
+  .block-head .tail {
+    display: none;
+  }
+
+  .pitems {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1px;
+    border-radius: 12px;
+  }
+
+  .pitem {
+    padding: 18px 16px;
+    grid-template-columns: 26px 1fr;
+    gap: 12px;
+  }
+
+  .pitem .ix {
+    font-size: 13px;
+  }
+
+  .pitem .pt {
+    font-size: 16px;
+    line-height: 1.45;
+    word-break: keep-all;
+  }
+
+  .pitem .pd {
+    margin-top: 7px;
+    font-size: 14px;
+    line-height: 1.75;
+    word-break: keep-all;
+  }
+
+  /* 삼사도 scope 블록 */
+  .scope {
+    margin-top: 32px;
+    display: block;
+    border-radius: 14px;
+    overflow: hidden;
+  }
+
+  .scope .rail {
+    padding: 24px 20px;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .scope.invert .rail {
+    border-bottom-color: rgba(255,255,255,0.18);
+  }
+
+  .scope .rail .sc {
+    font-size: 11px;
+    line-height: 1.5;
+    letter-spacing: 0.12em;
+  }
+
+  .scope .rail .num {
+    margin-top: 12px;
+    font-size: clamp(64px, 22vw, 96px);
+    line-height: 0.85;
+  }
+
+  .scope .rail .nm {
+    margin-top: 16px;
+    font-size: 28px;
+    line-height: 1.25;
+    word-break: keep-all;
+  }
+
+  .scope .rail .nm small {
+    margin-top: 7px;
+    font-size: 11px;
+    line-height: 1.5;
+  }
+
+  .scope .rail .tagline {
+    margin-top: 16px;
+    font-size: 15px;
+    line-height: 1.75;
+    word-break: keep-all;
+  }
+
+  .scope .rail .vehicle {
+    margin-top: 20px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 11px;
+    line-height: 1.5;
+  }
+
+  .scope.invert .rail .vehicle {
+    border-top-color: rgba(255,255,255,0.18);
+  }
+
+  .scope .rail .vehicle b {
+    margin-top: 5px;
+    font-size: 18px;
+    line-height: 1.4;
+  }
+
+  /* 수행 항목 2열 → 1열 */
+  .scope .practices {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1px;
+  }
+
+  .practice,
+  .practice.wide {
+    grid-column: auto;
+    padding: 18px 16px;
+    grid-template-columns: 26px 1fr;
+    gap: 12px;
+  }
+
+  .practice .ix {
+    font-size: 13px;
+  }
+
+  .practice .ptitle {
+    font-size: 16px;
+    line-height: 1.45;
+    word-break: keep-all;
+  }
+
+  .practice .ptitle .han {
+    display: inline;
+    font-size: 0.86em;
+  }
+
+  .practice .pdesc {
+    margin-top: 7px;
+    font-size: 14px;
+    line-height: 1.75;
+    word-break: keep-all;
+  }
+
+  /* 참고도서 */
+  .refs {
+    margin-top: 32px;
+    padding-top: 18px;
+  }
+
+  .refs .rh {
+    font-size: 11px;
+    line-height: 1.5;
+    letter-spacing: 0.12em;
+    margin-bottom: 14px;
+  }
+
+  .refs ul {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .refs li {
+    font-size: 14px;
+    line-height: 1.65;
+    padding-left: 18px;
+    word-break: keep-all;
+  }
+}
+
+
+/* 아주 작은 모바일 화면 보정 */
+@media (max-width: 420px) {
+
+  .page {
+    padding: 22px 15px 34px;
+  }
+
+  .masthead h1 {
+    font-size: 30px;
+  }
+
+  .masthead .sub {
+    font-size: 14.5px;
+  }
+
+  .lineage .src {
+    padding: 13px;
+  }
+
+  .block {
+    margin-top: 28px;
+  }
+
+  .block-head h2 {
+    font-size: 20px;
+  }
+
+  .pitem,
+  .practice,
+  .practice.wide {
+    padding: 17px 14px;
+    grid-template-columns: 24px 1fr;
+    gap: 10px;
+  }
+
+  .scope .rail {
+    padding: 22px 17px;
+  }
+
+  .scope .rail .nm {
+    font-size: 26px;
+  }
+
+  .pitem .pd,
+  .practice .pdesc,
+  .scope .rail .tagline,
+  .refs li {
+    font-size: 14px;
+  }
+}
 </style>
 
 <body style="">

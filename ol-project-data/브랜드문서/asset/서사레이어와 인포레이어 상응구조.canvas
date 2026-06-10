@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"743d752a42a0393b","type":"group","x":-800,"y":-380,"width":580,"height":630,"label":"Episode 1"},
+		{"id":"8b2732dc371794b6","type":"group","x":-780,"y":-320,"width":540,"height":340,"label":" Sequence 1.1"},
+		{"id":"024412ab8c276e7f","type":"group","x":-145,"y":-380,"width":290,"height":630,"label":"챕터 1"},
+		{"id":"540014ab1b17061c","type":"group","x":185,"y":-380,"width":255,"height":630,"label":"챕터 2"},
+		{"id":"57b37ba65d1970da","type":"group","x":-760,"y":-260,"width":410,"height":100,"label":"Scene 1.1#1"},
+		{"id":"6a0315c6ec9b0e7a","type":"group","x":-760,"y":-100,"width":410,"height":100,"label":"Scene 1.1#2"},
+		{"id":"01d6357b00e3cf82","type":"group","x":-780,"y":80,"width":540,"height":50,"label":" Sequence 1.2"},
+		{"id":"3ce1153413edc51a","type":"group","x":-780,"y":180,"width":540,"height":50,"label":" Sequence 1.3"},
+		{"id":"9f6f212325c489da","type":"text","text":"서사레이어","x":-800,"y":-540,"width":580,"height":80,"color":"5"},
+		{"id":"61a825586addbe5d","type":"text","text":"다큐먼트 1.3","x":-125,"y":80,"width":250,"height":105},
+		{"id":"a749ad617d1ea69a","type":"text","text":"인포레이어","x":-135,"y":-540,"width":575,"height":80,"color":"4"},
+		{"id":"3d2a3f5fd2099d91","type":"text","text":"다큐먼트 1.1","x":-125,"y":-310,"width":250,"height":100},
+		{"id":"fba959f72017d08e","type":"text","text":"다큐먼트 1.2","x":-125,"y":-130,"width":250,"height":110},
+		{"id":"983d65445f86a6ae","type":"text","text":"다큐먼트 2.1","x":205,"y":-310,"width":175,"height":100},
+		{"id":"91777cd9d44707b0","type":"text","text":"다큐먼트 2.2","x":205,"y":-125,"width":175,"height":100},
+		{"id":"da7817ca89bebc02","type":"text","text":"Cut(장면)","x":-740,"y":-240,"width":100,"height":60},
+		{"id":"a8b3bfffd0f7ec4f","type":"text","text":"Cut(장면)","x":-605,"y":-240,"width":100,"height":60},
+		{"id":"b36628de3099dcd4","type":"text","text":"Cut(장면)","x":-470,"y":-240,"width":100,"height":60},
+		{"id":"103a51be2fda0f0f","type":"text","text":"Cut(장면)","x":-740,"y":-80,"width":100,"height":60},
+		{"id":"9f265214ab0a6aec","type":"text","text":"Cut(장면)","x":-605,"y":-80,"width":100,"height":60},
+		{"id":"d1765ed254d52a78","type":"text","text":"Cut(장면)","x":-470,"y":-80,"width":100,"height":60}
+	],
+	"edges":[
+		{"id":"c4f9c132afea7d69","fromNode":"8b2732dc371794b6","fromSide":"right","toNode":"3d2a3f5fd2099d91","toSide":"left"},
+		{"id":"2ec8bb8c220a0235","fromNode":"01d6357b00e3cf82","fromSide":"right","toNode":"fba959f72017d08e","toSide":"left"},
+		{"id":"657ee00d51e0769c","fromNode":"3ce1153413edc51a","fromSide":"right","toNode":"61a825586addbe5d","toSide":"left"}
+	]
+}

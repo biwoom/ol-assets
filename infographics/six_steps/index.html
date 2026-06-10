@@ -2,6 +2,7 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>정화 안내 — 몸과 마음의 정화를 위한 불교명상 기초수행 프로그램</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -281,6 +282,276 @@
     line-height:1.55;
     color:var(--ink-soft);
   }
+
+/* ---------------- print ---------------- */
+@page { size: A4; margin: 0; }
+@media print {
+  html, body { background: #fff; }
+  body { padding: 0; }
+  .page {
+    margin: 0;
+    box-shadow: none;
+    page-break-after: always;
+  }
+  .page:last-child { page-break-after: auto; }
+}
+
+/* ====================================================
+   MOBILE ONLY
+   기존 A4 인포그래픽을 모바일 세로 카드형으로 전환
+   ==================================================== */
+
+@media (max-width: 768px) {
+
+  html,
+  body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    padding: 0;
+    background: #f6f1e6;
+  }
+
+  /* A4 고정 페이지 해제 */
+  .page {
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    margin: 0;
+    overflow: visible;
+    box-shadow: none;
+    background: var(--paper);
+  }
+
+  .page + .page {
+    margin-top: 0;
+    border-top: 10px solid var(--paper-deep);
+  }
+
+  .B .content {
+    height: auto;
+    min-height: auto;
+    padding: 22px 18px 34px;
+    display: block;
+  }
+
+  /* 상단 면 정보 */
+  .B .pageinfo {
+    position: static;
+    margin-bottom: 14px;
+    font-size: 10px;
+    letter-spacing: .22em;
+    color: var(--clay);
+  }
+
+  .B .pageinfo b {
+    display: inline;
+    margin-left: 8px;
+    font-size: 13px;
+  }
+
+  /* 헤더 */
+  .B header {
+    display: block;
+    padding-bottom: 18px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .B h1 {
+    font-size: clamp(24px, 7vw, 34px);
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+    word-break: keep-all;
+  }
+
+  .B h1 small {
+    margin-top: 10px;
+    font-size: 12px;
+    line-height: 1.6;
+    letter-spacing: .14em;
+    word-break: keep-all;
+  }
+
+  /* 3단 고정 그리드 해제 */
+  .B .grid {
+    display: block;
+    margin-top: 0;
+  }
+
+  /* 카드 */
+  .B .card {
+    display: block;
+    padding: 28px 0 30px;
+    border-top: 1px solid var(--rule);
+  }
+
+  .B .card:first-child {
+    border-top: none;
+    padding-top: 20px;
+  }
+
+  .B .left {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-areas:
+      "num konum"
+      "num name"
+      "num tag";
+    column-gap: 18px;
+    align-items: center;
+
+    border-right: none;
+    border-bottom: 1px solid var(--rule-soft);
+    padding-right: 0;
+    padding-bottom: 16px;
+    margin-bottom: 18px;
+    text-align: left;
+  }
+
+  .B .big-num {
+    grid-area: num;
+    font-size: clamp(56px, 18vw, 82px);
+    line-height: .85;
+    letter-spacing: -0.07em;
+  }
+
+  .B .ko-num {
+    grid-area: konum;
+    margin-top: 0;
+    font-size: 12px;
+    letter-spacing: .22em;
+  }
+
+  .B .stage-name {
+    grid-area: name;
+    margin-top: 6px;
+    font-size: clamp(21px, 6vw, 27px);
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    word-break: keep-all;
+  }
+
+  .B .stage-tag {
+    grid-area: tag;
+    margin-top: 6px;
+    font-size: 11px;
+    line-height: 1.5;
+    letter-spacing: .18em;
+    word-break: keep-all;
+  }
+
+  .B .right {
+    padding-left: 0;
+  }
+
+  .B .quote {
+    font-size: clamp(18px, 5vw, 22px);
+    line-height: 1.65;
+    margin-bottom: 18px;
+    letter-spacing: -0.01em;
+    word-break: keep-all;
+  }
+
+  /* 3열 방법론 → 1열 */
+  .B .method-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+    margin-bottom: 18px;
+  }
+
+  .B .method {
+    border-top: 2px solid var(--ink);
+    padding-top: 10px;
+  }
+
+  .B .method .mt {
+    font-size: 15px;
+    line-height: 1.45;
+    margin-bottom: 5px;
+    word-break: keep-all;
+  }
+
+  .B .method .md {
+    font-size: 15px;
+    line-height: 1.75;
+    word-break: keep-all;
+  }
+
+  /* 목표 */
+  .B .goal {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding-top: 14px;
+    border-top: 1px dashed var(--rule);
+  }
+
+  .B .goal .gl {
+    font-size: 13px;
+    letter-spacing: .24em;
+  }
+
+  .B .goal .gd {
+    font-size: 15px;
+    line-height: 1.75;
+    word-break: keep-all;
+  }
+
+  .pagenum {
+    position: static;
+    transform: none;
+    padding: 0 18px 28px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.6;
+    letter-spacing: .18em;
+  }
+
+  .sample-label {
+    width: auto;
+    margin: 0;
+    padding: 14px 18px;
+  }
+}
+
+
+/* 아주 작은 화면 보정 */
+@media (max-width: 420px) {
+
+  .B .content {
+    padding: 20px 15px 30px;
+  }
+
+  .B .left {
+    column-gap: 14px;
+  }
+
+  .B h1 {
+    font-size: 25px;
+  }
+
+  .B h1 small {
+    font-size: 11px;
+    letter-spacing: .1em;
+  }
+
+  .B .quote {
+    font-size: 18px;
+  }
+
+  .B .method .md,
+  .B .goal .gd {
+    font-size: 14.5px;
+  }
+
+  .pagenum {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
 
 </style>
 </head>

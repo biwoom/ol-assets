@@ -1,0 +1,35 @@
+# Story concerning a Donor of a Monastery
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365105.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365104.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365106.html
+- **수집일**: 2026-05-15 09:51
+
+> This page describes Story concerning a Donor of a Monastery contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as on Pāramitā. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+This incident happened on the other side of the ocean, i.e. in India. A rich householder, who had already donated a monastery, intended to make an offering to the Sangha. After making necessary preparations, he went to the Order of Bhikkhus and addressed them: “Venerable Sirs, may you designate someone to receive my offering for the Sangha?” It happened that it was the turn of an immoral *bhikkhu* to represent the Sangha for alms. Although the man knew well that the designated *bhikkhu* was immoral, he treated him with full respect: the seat for the *bhikkhu* was prepared as for a ceremonious occasion, decorated with a canopy overhead, and scented with flowers and perfumes. He washed the feet of the *bhikkhu* and anointed them with oil very reverentially as if he were attending upon the person of the Buddha Himself. He then made his offering to the *bhikkhu* paying full homage to the Sangha.
+
+That afternoon, the immoral *bhikkhu* went back to his house and standing at the doorway asked for a hoe, which he needed to make some repairs in the monastery. The donor of the monastery did not even bother to get up from his seat, he simply pushed the hoe towards the *bhikkhu* with his feet. The members of his family then asked him: “Respected Sir, this morning you had heaped upon this *bhikkhu* so much veneration; now you have shown him not even a small part of that deference. Why is this difference between the morning and the afternoon in your attitude towards the *bhikkhu*?” The man replied: “My dear ones, the respect I was showing this morning was towards the Sangha not to this immoral *bhikkhu*.” Some Considerations about Puggalika-dāna and Saṅghika-dāna
+
+There are some people who maintain that if some person should approach one for alms and if one knew beforehand that the person was of bad morality, one should not make any offering to that person; if one should do so, it would be like watering a poisonous plant.
+
+But it could not be said that every act of offering made knowingly to immoral persons is blameworthy. It is the volition of the giver that must be taken into account here. If the donor should approve of the bad habits of the recipient and give with a view to give him support and encouragement for continuance of his immoral practices, then only his gift would be like watering a poisonous plant. If the donor does not approve of the bad habits to the recipient and has no mind to encourage him to continue with his bad practices, but emulating the example of the monastery donor described above, if he makes his gift in such a way that it becomes a true *saṅghika-dāna*, then no blame can be attached to such an offering.
+
+Again there are some who maintain that whether the recipient is of good moral character or bad moral character is no concern of the donors; it only concerns the recipient. Therefore, remaining indifferent to the character of the recipient, whether good or bad, the donor should bear in mind: “This is a noble person, an *ariya* (or an *arahat*).” They maintain that this act of offering is blameless and as fruitful as making an offering to an *arahat*. This point of view is also untenable.
+
+Disciples of other teachers, who are not in a position to know whether a person is an *ariya* or an *arahat*, wrongly believe their teachers to be Noble Ones, *arahats*. This sort of belief, called ‘Micchādhimokkha’, making the wrong decision or conclusion, is demeritorious. Surely it would be demeritorious and would be making a wrong decision if one were to bear in mind ‘these are noble, *arahats*’ when one knew full well that they were not. It is not proper, therefore, to hold such views.
+
+When faced with such recipients in making one’s offering, the proper attitude to bear in mind should be “Bodhisattas, in fulfilment of Perfection of Generosity, make their offering without discriminating between persons of high, medium or low status of development. I will also emulate the examples of the Bodhisattas and make my offerings to whoever comes for them, without discrimination.” In this way, one would not be giving support and encouragement to the practice of bad habits and would not be “making wrong decisions or conclusions about the recipient’s” development; the act of offering would thus be free from blame or fault. Controversies and difficulties arise only in the case of offerings made to individuals, *puggalika-dāna*, because there exist various kind of individuals, good or bad. In the case of offerings made to the Sangha, *saṅghika-dāna*, there exists only one kind of Sangha, not two i.e. good and bad. (Here the noble disciples of the Buddha, the *ariyas*, are meant). There is no distinction amongst the Ariya Sangha as high, medium or low status of development, as they are all equally noble. Therefore, as explained above, whenever a donee appears before one, without taking into consideration his character, one should make the offering with the thought: “I make my offering to the disciples of the Buddha, the noble community of *bhikkhus*.” Then this offering is of *saṅghika-dāna* type and the recipient is the Sangha; the person who appears before him to receive the offering is merely the representative of the Sangha. However low that person may be in his morals, the true recipient of the offering is the noble Sangha and therefore this is truly a noble gift.

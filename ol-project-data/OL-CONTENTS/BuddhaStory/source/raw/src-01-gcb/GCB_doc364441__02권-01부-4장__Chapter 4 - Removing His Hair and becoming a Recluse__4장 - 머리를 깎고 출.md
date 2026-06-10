@@ -1,0 +1,99 @@
+# Chapter 4 - Removing His Hair and becoming a Recluse
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364441.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364440.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364442.html
+- **수집일**: 2026-05-15 09:44
+
+> This page describes Removing His Hair and becoming a Recluse contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+### Crossing The River Anomā
+
+Having reached the other bank of the River Anomā, the Prince brought the royal horse to a halt at the edge of the river and asked Minister Channa: “What is the name of this river?” When the minister replied that it was Anomā, he took it as a good omen, saying: “Mine being a recluse will not be of poor quality; in fact, it will be a superior one,” (for the word ‘*anomā*’ means ‘not inferior’). Then by striking Kaṇḍaka with the heel he gave it the signal for crossing the river, and Kaṇḍaka jumped over to the other side of the eight*usabha* wide Anomā and stood there.
+
+After alighting from Kaṇḍaka, and while standing on the pearly sandbank, the Prince addressed Minister Channa: “Friend Channa, take Kaṇḍaka together with my ornaments and return home. I will become a recluse.” When Channa said that he would also like to do the same, the Prince forbade him three times saying: “You cannot have permission to become a recluse, Friend Channa. Just go back to the city.” And he handed over Kaṇḍaka and the ornaments to Channa.
+
+Thereafter, considering: “These locks of mine do not suit a recluse, I shall cut them with my sword,” the Prince, with the sword in his right hand, cut off the hair-knot and seized it together with the diadem by his left hand. His hair of two finger-breadths in length that was left behind cuffed to the right and lay close to the head. The length of the hair remained two fingers breadth till the end of his life with no further cutting. The beard and the whisker also existed for the whole life with their length good enough to look beautiful like the hair. There was no necessity for the Prince (the Bodhisatta) to shave them again.
+
+### Throwing up The Severed Locks into The Sky with A Solemn Resolution
+
+The Bodhisatta, holding the hair-knot together with the diadem, made a solemn resolution thus: “If I am one who will become a Buddha, let this hair-knot stay in the sky. If not, let it fall to the ground,” and threw them up into the sky. Thereupon, the hair-knot together with the diadem went as far up as one *yojana* and marvellously remained in the sky like a hanging festoon of flowers.
+
+### Erection of The Cūlamaṇi Cetīya in Tāvatiṃsa by Sakka
+
+At that time, Sakka, the King of Devas, saw the Bodhisatta’s hair by means of his Divine Eye; and he received it and the diadem with a jewel casket, one *yojana* in size, and took them to his abode of Tāvatiṃsa. He then enshrined them in the Cūḷamaṇi Cetīya which he erected and embellished with seven kinds of precious gems and which was three *yojanas* high.
+
+### Becoming A Recluse with The Requisites offered by Ghaṭīkāra Brahmā
+
+Again, the Bodhisatta reflected: “These garments of mine, made in the country of Kāsi, are priceless. They are not proper to one who is an ascetic.” Then Ghaṭīkāra Brahmā, who happened to be an old friend in the lifetime of Buddha Kassapa, considered with his genuine and noble *mettā* that had remained throughout the whole *Buddhantara-kappa*: “Ah, today my friend the Bodhisatta, seeing danger in such miserable phenomena as birth, etc., has gone forth on noble renunciation (*mahābhinikkhamana*). I shall go, taking the requisites of a recluse for this old friend of mine, the Bodhisatta Prince.” So he brought the eight requisites, namely, (1) a big robe, (2) an upper robe called *ekacci*, (3) a lower robe, (4) a girdle, (the four requisites that are close to and go along with the body) (5) a needle and thread, (6) an adze, a kind of knife for making teeth-cleaning sticks and for peeling sugarcane), (7) a bowl with its bag, and (8) a water-strainer, (the four external requisites) and offered them to the Bodhisatta.
+
+Thereupon, the Bodhisatta assumed the appearance of a noble recluse by putting on the robes properly——the robes which may be termed the banner of *arahatta-phala* and which were offered by the Brahmā. Then he threw up also the set of his (lay man’s) garments into the sky.
+
+(The intervening period of time between the rise of one Buddha and another Buddha is called *Buddhantara-kappa*. The *buddhantara-kappa* in this episode of the Brahmā’s offerings was the intervening period between the time of Buddha Kassapa’s appearance and that of Buddha Gotama’s. After Buddha Kassapa appeared at the time when the life span of beings was twenty thousand years, it gradually dwindled down to ten years and from that stage it rose again up to *asaṅkhyeyya*. On its decline, it went down to a hundred years when Buddha Gotama appeared. Therefore, the intervening period in this case was more than one *antara-* *kappa* long. Though there was nobody who would instruct the Bodhisatta Prince how to use the robes, etc., it should be understood that he knew the manner of using the requisites because he was experienced in so doing, as he was a recluse in the presence of former Buddhas and as he was of great intelligence.)
+
+### Erection of The Dussa Cetīya in Akanittha Brahmā Abode
+
+Thereupon, Ghaṭīkāra Brahmā seized the Bodhisatta’s garments that were thrown up into the sky. He erected a cetiya, twelve *yojanas* in size and finished with various kinds of gems, where he kept these garments in reverence. As the *cetiya* contains the garments, it is called Dussa Cetīya.
+
+### Sending Minister Channa Back to The City
+
+After thus becoming a recluse, the Bodhisatta sent back Minister Channa, saying: “Friend Channa, convey these words of mine to my mother (meaning stepmother Mahāpajāpati Gotamī) and father that I am in good health.” Then Channa, after doing obeisance respectfully to the Bodhisatta and circumambulating him, took the bundle of the Bodhisatta’s ornaments along with the horse and departed.
+
+### Rebirth of Kandaka in Deva World
+
+Since he overheard the Bodhisatta’s conversation with Minister Channa, Kaṇḍaka the horse had been lamenting with the thought: “From now on, I shall have no opportunity of seeing my master.” When he went beyond the seeing distance of the Bodhisatta, he could not bear the grief that rose from the suffering of separation from one’s beloved (*piyehi vippayoga*). As he was leaving behind the Bodhisatta, whom he loved so dearly, he died of broken-heart and was reborn in Tāvatiṃsa a celestial being by the name of Kaṇḍaka. As for Minister Channa, he had at first a single grief caused by his separation from the Bodhisatta and now that Kaṇḍaka had died, the second grief occurred in him. Oppressed by the double sorrow, he made his way home to the city of Kapilavatthu, weeping and crying.
+
+(On his death, Kaṇḍaka was reborn a deva by the same name amidst great luxury and retinue in the deva World of Tāvatiṃsa. Since he had been closely associated with the Bodhisatta and at his service in many existences, he died being unable to withstand the misery of separation from the Bodhisatta. His rebirth in Tāvatiṃsa was not due to that sorrow. In the Bodhisatta’s speech made to him while he was about to be mounted, immediately before his master’s renunciation, he heard: “Kaṇḍaka, I am giving up the world in order to gain Omniscience.” On hearing the words of the Bodhisatta’s renunciation which had nothing to do with sensual pleasures, he became filled with joy and satisfaction that accompanied his clarity of mind, leading to development of merit headed by faith. As a result of this merit, his rebirth as a deity took place in Tāvatiṃsa. Later on, when he visited the Buddha and listened to the Dhamma, he became a *sotāpanna*.——All this is mentioned in the Vimānavatthu Commentary. Those who wish to have a detailed account may referred to this Commentary.)
+
+### The Bodhisatta’s Visit to Rājagaha City
+
+After becoming a recluse, the Bodhisatta, after spending seven full days in ascetic bliss in the nearby mango grove called Anupiya, travelled a journey of thirty *yojanas* on foot in one single day and entered the city of Rājagaha. (This is the statement made in the Buddhavaṃsa Commentary and the Jātaka Commentary.)
+
+(According to the Sutta Nipāta Commentary, however,) the Bodhisatta, after becoming a recluse, observed the *Ājīvatthamaka* *sīla*, the Precepts with pure livelihood as the eighth, and journeyed to Rājagaha, thirty *yojanas* away from the banks of Anomā in seven days.
+
+### Entering Rājagaha for Alms-Round
+
+When he was about to visit the city of Rājagaha for alms-food, he stood at the eastern gate of the city, then it occurred to him thus: “If I send a message to King Bimbisāra about my visit, he will know that Prince Siddhattha, the son of King Suddhodāna, has come to my city and, with due regard and attention, he will send plenty of offerings. It is not proper for me as an ascetic to inform him and receive the four requisites. Right now, I should go on alms-round.” So, after putting on the *paṃsukūlika* robes offered by Ghaṭīkāra Brahmā and taking the bowl with his hand, the Bodhisatta entered the city by the eastern gate and went round from house to house for alms-food.
+
+Seven days before the Bodhisatta went into Rājagaha for alms, a festival was celebrated on a big scale and enjoyed by all. The day the Bodhisatta entered the city, King Bimbisāra had the proclamation made to the people by beating the drum: “The festival is over. The people should now attend to their respective trades.” At that time, the citizens were still assembled in the palace ground. When the King opened the window, which was supported by a lion figure, and looked out to give necessary instructions, he saw the Bodhisatta, who was entering Rājagaha for alms, with his sense-faculties well composed.
+
+On seeing the incomparably graceful appearance of the Bodhisatta, the people of Rājagaha, as a whole, became wildly excited and the whole city turned into a state of commotion in the same way as it happened when Nāḷāgīri, the elephant, also known as Dhanapāla, entered the city, or in the same way as the male and female residents of celestial Tāvatiṃsa became agitated and perturbed when Vepacitti, King of Asuras, entered their abode.
+
+When the noble Bodhisatta went round with the elegance of a Chaddanta elephant-king for alms, from house to house in the city of Rājagaha, the citizens, seeing the incomparably graceful appearance of the Bodhisatta, were filled with strong feeling of joy and astonishment and became occupied with the sole intention of viewing the Bodhisatta’s unique demeanour.
+
+One of the people then said to another: “Friend, how’s that? Is it the lunar mansion that has come down to the human abode with all its rays concealed in fear of Rahu the Asuraking?”
+
+The second man ridiculed the first by saying: “What are you talking, friend? Have you ever seen the big disc of the full moon coming down to the human world? The fact is that Kāma Deva, God of Desire, seeing the splendour of our King and his people, has come in disguise to play and have fun with us.”
+
+Then the third person ridiculed the second by saying: “O friend, how’s that? Are you crazy? Kāma Deva is one whose body is jet-black as he has been terribly burnt by the flame of hegemony, arrogance and anger. The truth is that the person we are seeing now is Sakka, King of Gods, endowed with a thousand eyes, who has come into our city mistaking it for his abode of Tāvatiṃsa.”
+
+That third person was told in a rather smiling manner by the fourth: “How could you say so? Your words are self-contradictory. To name him Sakka, where are his thousand eyes? Where is his weapon of the thunderbolt? Where is his riding elephant Erāvaṇa? (If he is really Sakka, he must have a thousand eyes, the thunderbolt as his weapon and Erāvaṇa as his conveyance. He has none of them.) In fact, he is Brahmā, who, knowing that Brahmins have forgotten their Vedas and all, has come to urge them not to forget their learning and to practise in accordance with them.”
+
+Another man, a man of learning, reproached them and stopped them, saying: “This is neither the moon-disc, nor Kāma Deva, nor Sakka nor Brahmā. As a matter of fact, he is the most extraordinary man, the chief among men, the leader and teacher of the three worlds.”
+
+While the citizens of Rājagaha were thus talking among themselves, each from his own point of view, royal servants went to King Bimbisāra and reported thus: “Great King, a wonderful person whom nobody knows whether he is a celestial being, or a *gandhabba* or a *nāga* or *yakkha*, is going round for alms-food in our city of Rājagaha.” Upon hearing their words, the King, who had already seen the Bodhisatta while standing on the upper terrace of the palace, was struck with wonder and sent his ministers with the order: “Go and make careful inquiries about this man; if he is a *yakkha*, he will disappear when out of the city; if he is a celestial being, he will go through the air; if he is a *nāga*, he will sink into the earth and disappear. If he is a real human being, he will eat his alms-food at a certain place.”
+
+With his sense-faculties and mind well composed and in his unique elegance, with downcast eyes seeing only one length of a yoke (about four cubits) as if he were captivating the eyes of the Rājagaha people, he went round and collected food just enough for his sustenance. The food, which he received, included all kinds of eatables, coarse and fine of various colours mixed up together. Then he asked the people: “Where do those ascetics who come to this city usually stay?” The people answered: “They usually stayed at the entrance of the cave, facing east, on top of Paṇḍava mountain.” And so the noble Bodhisatta left the city by the eastern gate, through which he had entered. Thereafter he sat facing east at the entrance of the cave on the mountain and tried to eat the mixed meal of coarse and fine food that he had received.
+
+Having enjoyed the kingly bliss which was as great as that of a Universal Monarch only a few days ago, he made an effort to eat a morsel of food which was a mixture of coarse and fine edible things in assorted colours. As he was about to put the morsel into his mouth, he felt miserable and almost vomited with the intestines turning upside down, for he had never seen such kind of food in his life and found it particularly disgusting. Then he admonished himself by saying: “You, Siddhattha, in spite of the fact that you have been reigning supreme in a palace where food and drinks are available at your pleasure and where you have meals of three-year-old seasoned fragrant rice with different delicacies whenever you like, you, on seeing a recluse in robe of rags contemplated: ‘When shall I eat the meals obtained by going on alms-round from house to house after becoming a recluse like him? When will the time come for me to live on meals thus collected?’ And have you not renounced the world and become a recluse with such thoughts? Now that your dream has come true, why do you like to change your mind?” Then without the slightest revulsion, he took the meal that was so rough.
+
+The three ministers, sent by King Bimbisāra to investigate, approached the Bodhisatta and explored all the facts concerning him. Then two of the three stayed behind while the third returned to the King and reported: “Great King, that recluse who had gathered alms-food is still sitting peacefully at the entrance of the cave, facing east, on top of Mount Paṇḍava absolutely without fear like a lion king, or a tiger king or a bull king, after eating, in a normal manner, the meal that he had obtained.” Thereupon, King Bimbisāra made haste and went in an excellent chariot to the Bodhisatta’s place on Paṇḍava mountain, as far as the chariot could go; and then leaving the chariot, he continued his journey on foot. When he got near the Bodhisatta, he sat down on the cold stone slab with permission and being very much impressed with the Bodhisatta’s deportment, he gladly conversed with him. He said: “Friend, you are still young and tender in age. You are also endowed with handsome physique and characteristics. I think that you are of good birth belonging to a pure ruling class. I offer you as much royal pleasure and wealth as you want in these two countries of Anga and Magadha which are under my rule. Be a king and reign! Please also tell me your lineage.” Thus the King asked about the Bodhisatta and offered kingship to him.
+
+Then the Bodhisatta considered: “If I had the desire to be a king, such deva king as the Four Great Kings of the celestial world and others would have proposed to offer me their respective regal fortunes. Or, if I remained living a kingly life in my palace, it would have been certain that I would become a Universal Monarch. Not knowing this, this King Bimbisāra has made such a proposal to me saying in such a way I will now let him know of my royal life.”
+
+So thinking he stretched out his right hand pointing in the direction whence he had come; and then he said in verse:
+
+With these three verses, the Bodhisatta told King Bimbisāra that he had come from the lineage of Sākiya and had taken up an ascetic life; that he had no desire at all for material pleasures; and that, having become a recluse with the aim to achieve Nibbāna, he would be retreating to the forest for practice of *dukkaracariyā* in order to attain that very state of Nibbāna speedily. When told thus, King Bimbisāra replied: “Venerable Sir, I have already heard that ‘Prince Siddhattha, the son of King Suddhodāna, after seeing the four omens with his own eyes, and renouncing the world to become a recluse, would attain Perfect Self-Enlightenment, the Supreme leadership in the three worlds.’ Having seen by myself your great aspiration after Nibbāna, I firmly believe that you will certainly become a Buddha. Venerable Sir, let me make a supplication to you. When you have attained Buddhahood, please visit my country first and foremost!” After thus solemnly extending his invitation, King Bimbisāra went back into the city.

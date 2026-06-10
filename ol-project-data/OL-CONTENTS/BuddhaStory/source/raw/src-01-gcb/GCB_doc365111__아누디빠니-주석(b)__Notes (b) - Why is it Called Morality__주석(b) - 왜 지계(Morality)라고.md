@@ -1,0 +1,55 @@
+# Notes (b): Why is it Called Morality?
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365111.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365110.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc365112.html
+- **수집일**: 2026-05-15 09:51
+
+> This page describes Why is it Called Morality? contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as on Pāramitā. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+The Pāli word ‘*sīla*’ is translated as ‘morality’ or ‘virtue’; it is adopted in toto in the
+
+Myanmar language. ‘*Sīla*’ has two meanings: first, it is employed to convey the sense of natural character, behaviour or habit. We find it used in this sense in such expression as ‘*pāpakarana-silo*——one who is in the habit of doing evil’; ‘*dubbhāsana-silo*——one who is in the habit of speaking evil’; ‘*abhivādana-silo*——one who is in the habit of showing reverence to those worthy of homage’; ‘*dhammakathana-silo*——one who is in the habit of teaching the doctrines’. It is also employed to describe natural phenomena: ‘*vassānasamaye rukkha ruhana-sīla*——trees usually grow during the rainy season’; ‘*gimhasamaye patta patana-sīla*——leaves usually fall in summer’. In this first sense, *sīla* is employed to describe the habits of both moral and immoral persons; and also natural events which are outside the domain of moral, good or bad.
+
+Secondly, it has the meaning of good practice which implies only that practice which is noble, moral, ethical. This is the sense employed in this chapter on the ‘Perfection of Morality’. And in this sense also, there are two meanings, namely, (a) orientating and (b) upholding.
+
+(a) ‘Orientating’ means controlling one’s physical and verbal actions and steering them towards the right direction so that they do not get out of hand. In a person, who does not observe the precepts, physical and verbal actions take place in a haphazard manner, like loose yarn, not properly wound in a roll, is uncontrolled and undirected. But a person, who observes the precepts, watches closely over his physical and verbal actions to see that they take place in an orderly manner under his proper control. Even a person of ill-humour, who is easily irritated and loses temper at the slightest provocation, can manage to keep his physical and verbal actions under control when he is observing the precepts.
+
+(b) *Sīla* is ‘upholding’ because no act of merit can be accomplished without accompaniment of moral virtue. Meritorious acts can arise only in persons of morality; thus *sīla* serves as the basis or foundation of all acts of meritoriousness; it facilitates the arising of meritoriousness through performance of meritorious deeds that would lead to rebirths in the four planes of existence (*catubhūmaka*), viz. the sensuous world, the fine material world, the non-material world and the supra-mundane states.
+
+In this chapter on the Perfection of Morality, it is mentioned that the hermit Sumedha, having received the definite prophecy that he would become a Perfectly Self-Enlightened One, admonished himself to establish first in the Perfection of Alms-giving. But this does not imply that he should practise generosity first without observance of precepts. In his investigation of the Buddha-making factors, by the exercise of Perfection Investigating Wisdom (*Pāramī pavicaya ñāṇa*), it was the Perfection of Alms-giving that appeared first in his mind’s eye, followed, in succession, by Perfection of Morality, Perfection of Renunciation, etc. The order of Perfection given in the Text is the order in which they appeared in the mind’s eye of Hermit Sumedha. It was not possible for him to discern all the ten *pāramīs* simultaneously; they were investigated one after another and were mentioned accordingly. The first Perfection reviewed happened to be the Perfection of Almsgiving; hence it heads the list of the *pāramīs*, but this does not mean that the order in the list is the order in which *pāramīs* are to be fulfilled.
+
+In actual practice, an act of giving is pure only when the donor is established in morality; alms-giving is made more fruitful when it is preceded by observance of precepts. That is the reason why when bhikkhus are invited by lay people to accept robes and other gifts, they see to it that the lay people are first established in the precepts (even though taking of precepts is not mentioned when making the invitation).
+
+Thus to the question “Why is it called Sīla?” The plain, clear-cut answer is: It is called *Sīla* because (1) it does not permit physical and verbal actions to take place in a violent, disorderly manner; it controls and directs them to become quiet and gentle, (2) it serves as a foundation for the arising, by stages, of four classes of moral consciousness, namely, the moral consciousness pertaining to the sensuous world, the moral consciousness pertaining to the material world, the moral consciousness pertaining to the non-material world and the supra-mundane consciousness.
+
+Out of these discussions may arise the following questions:
+
+(1) If both morality (*sīla*) and concentration (*samādhi*) are orientating, how do they differ in their functions? *Sīla* promotes calm and peace by keeping physical and verbal actions under proper control;whereas concentration prevents the mind and mental factors that are associated with it from distraction by directing them to converge on a single object. In this manner, morality differs from concentration in its function of orientating.
+
+(2) If both Morality and the Element of Solidity (*pathavī*) are ‘upholding’, what is the difference in their functions? Morality is the fundamental cause of the arising of the four classes of moral consciousness;hence it is said to serve as the foundation for the arising of the moral consciousness pertaining to the sensuous world, the moral consciousness pertaining to the material world, the moral consciousness pertaining to the immaterial world and the supra-mundane consciousness.
+
+Just as a royal wet-nurse holds the infant prince in her arms to keep him from crawling all over the royal chamber, so also the Element of Solidity holds together other elements that arise along with it, preventing them from dispersing and scattering in all directions. In this manner, Morality and the Element of Solidity differ in their respective functions of upholding and facilitating. (Visuddhi-magga Sub-commentary*-*Chapter on Morality).
+
+The Visuddhi-magga mentions only two grammatical meanings as explained above. But there are different views expressed by other teachers. According to them, the Pāli word, ‘*sīla*’, for morality, is derived from the words, ‘*sira*’ or ‘*sisa*’, both meaning ‘head’. When the head is cut off, the whole body of a being is destroyed; so also when morality is ruined, all forms of meritoriousness come to ruins. Thus morality is like the head of the body of meritoriousness and termed ‘*sīla*’, a derivative of ‘*sira*’ or ‘*sisa*’ by replacing the letter 'r' or 's' with 'l'.
+
+But the author opines that this alternative view is far-fetched since it draws only upon the similarity of the sounds produced by uttering the words ‘*sira*’, ‘*sisa*’ and ‘*sīla*’ and does not deal with the intrinsic meaning of the word *sīla* as defined in the Abhidhānappadīpikā verse no. 1092.
+
+He concludes that morality is called *sīla* because, according to the Abhidhānappadīpikā, it conveys two meanings of (1) natural characteristic, and (2) good practice.
+
+Although natural characteristic may mean both good and bad ones, as explained above, since we are dealing with the habit and practices of ancient sages or of future Buddhas, Arahats, etc. we should take that *sīla* refers only to good aspects. For instance, although *dhamma* may be meritorious or demeritorious when we say: ‘I take refuge in the Dhamma,’ the *dhamma* here can only be the meritorious *dhamma*. So also, although *sangha* means ‘a group’, ‘an assemblage’ in such words as ‘*manussa-sangha*——a group of people’, ‘*sakuna-sangha*——a flock of birds’, when we say: “I take refuge in the Sangha*”*, it implies only the Order of Bhikkhus.
+
+Considering in this manner, *sīla* should also be taken in the sense of the Abhidhānappadīpikā definition of ‘natural characteristic’. Thus, it should be stated that it is called Morality because it is the natural characteristic of ancient sages, future Buddhas, *arahats*, etc.

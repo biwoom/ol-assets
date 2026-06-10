@@ -1,0 +1,111 @@
+# Biography (11-12): Two Panthaka Mahātheras
+
+**Maha Buddhavamsa—The Great Chronicle of Buddhas**
+
+---
+
+## 서지 정보
+
+- **출처**: WisdomLib (wisdomlib.org)
+- **URL**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364765.html
+- **도서**: Maha Buddhavamsa—The Great Chronicle of Buddhas
+- **서지**: by Ven. Mingun Sayadaw | 1990 | 1,044,401 words
+- **이전**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364764.html
+- **다음**: https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas/d/doc364766.html
+- **수집일**: 2026-05-15 09:49
+
+> This page describes Two Panthaka Mahatheras contained within the book called the Great Chronicle of Buddhas (maha-buddha-vamsa), a large compilation of stories revolving around the Buddhas and Buddhist disciples. This page is part of the series known as forty-one Arahat-Mahatheras and their Respective Etadagga titles. This great chronicle of Buddhas was compiled by Ven. Mingun Sayadaw who had a thorough understanding of the thousands and thousands of Buddhist teachings (suttas).
+
+---
+
+## 본문
+
+### (a) Aspirations expressed in The Past
+
+A hundred thousand aeons ago, during the time of Buddha Padumuttara, the householder brothers, who were native of Haṃsāvatī City, having profound faith in the three Gems, constantly went to the Buddha to listen to His Dhamma. One day, the younger of the two saw a monk being declared foremost (*etadagga*) in two qualities: (1) among those who created mind-made images and (2) those who were clever in engaging in *rūpāvacara-jhāna*. It then occurred to him thus: “Great, indeed is this monk. Despite his such being, he roamed about practising two things. It would be nice if I too should roam about practising these two things in the dispensation of a future Buddha.”
+
+The younger brother invited the Buddha and performed a grand alms-giving to Him for seven days. Then he expressed his wish to the Buddha, saying: “Venerable Sir, seven days ago, you declared a certain monk: ‘This monk is foremost (*etadagga*) in my dispensation by virtue of his two qualities, namely, ability of creating mind-made images of oneself and skill in engaging in *rūpavacara-jhāna*. As a result of this specially performed act of merit, may I be foremost with those two qualities also.”
+
+When the Buddha surveyed the future, He saw that this householder’s wish would be fulfilled and said: “In future, a hundred thousand aeons from now, there will arise Buddha Gotama. That Buddha will declare you as the foremost concerning these two qualities.” After giving an appreciative sermon, the Buddha departed. (This was the wish expressed by the younger brother.)
+
+As for the older householder brother, one day he saw a certain monk being declared by the Buddha the foremost (*etadagga*) in the field of *saññā-vivaṭṭa-kusala* or having skill in *arūpāvacara-jhāna*, and like his younger brother, he too performed special act of merit and, thereafter, expressed his wish: “May I be the foremost (*etadagga*) in the field of *arūpāvacara*-*jhāna*!” “Your wish would be fulfilled,” predicted the Buddha.
+
+Both householder brothers did good works during the lifetime of the Buddha and when the Buddha attained Parinibbāna, they did homage by offering gold at the shrine which was built for the Buddha’s bodily relics. Upon their death, they were reborn in the abode of devas. While they were being reborn either in the divine or human worlds only, a hundred thousand aeons had elapsed.
+
+(Of the two brothers, an account of the meritorious deed done by the elder brother, Mahāpanthaka, in that interval existence, was not given particularly in the Mahā Aṭṭhakathā). As for the younger brother, Cūḷapanthaka, he became a monk in the dispensation of Buddha Kassapa, and for twenty thousand years he practised *odāta-kasiṇa* meditation (meditation on a white device) and was reborn again in a deva-world. Later, our Buddha attained Enlightenment, after teaching the Dhammacakka sermon, He went to stay in the Bamboo Grove of Rājagaha.
+
+(An account of the emergence of the two Panthaka brothers will be inserted herewith). The daughter of Dhanaseṭṭhi, a wealthy merchant in the city of Rājagaha, fell in love with her male servant, and fearing that others would come to know about their affair, she discussed with her lover: “We shall no longer live here. If my parents were to know of this affair of ours, they would kill me, and cut me into pieces. Let us go and live elsewhere!” They agreed with each other. Secretly taking her jewellery, she went out through the door that was opened first. They then fled to live in another place which unknown to others.
+
+While the two were living in this unknown place, the lady became pregnant owing to their intimacy. When her pregnancy reached maturity, she consulted her husband, saying: "Sir my pregnancy is now mature. It is too miserable for both of us, if I give birth at a place away from our relatives or friends. Let us return to our parents' house.” Her husband delayed the decision by saying, just to please his wife: “We shall go today.” or “We shall travel tomorrow.” Then the lady thought: “This stupid man dared not go, for his guilt is so serious. Parents certainly desire, as a rule, the welfare of their children. Whether the stupid man follow me or not, I should go.” So thinking, while her husband was out, the lady departed alone after storing up her belongings and leaving a message with her next-door neighbour that she was going to her parents.
+
+When her husband returned later and finding out that his wife had left for her parents' residence, he followed her in haste and eventually caught up with her in midway. At the very spot of their meeting, the lady gave birth to a child. Asked by her husband: “What is this thing dear?” the lady answered: “Sir, a son has been born.” “What shall we do now?” they discussed between themselves and decided, saying: “We are going to our parents' home to deliver the child. Now the delivery of the child has taken place in the middle of the journey. What is the use of going to our parents' place. Let us go home!” So the two agreed and went home. The baby was named Panthaka, “Master Road,” (as he was born on the road).
+
+Before long, the lady conceived again, when the second son was nearing his birth, he too was born on the way to the home of his mother’s parents. Hence the first son was renamed Mahāpanthaka, “Master Big Road,” and the second named Cūlāpanthaka, “Master Small Road.”
+
+The husband and the wife then returned home, each carrying a son. While they were living there, hearing such terms as ‘younger uncle’, ‘older uncle’, ‘grand father’, ‘grandmother’, etc. in the conversation of other children, the older son, Mahāpanthaka, asked her mother: “O mother, other children mentioned, ‘grandfather’, ‘grandmother’ and so forth. Do we have our relatives?” The mother said: “Well, you are right, dear son! You have no relatives here but in Rājagaha, however, your grandfather is a great merchant of wealth. Your relatives are many in that city too.” “O mother, why do we not go to Rājagaha?” asked Mahāpanthaka.
+
+The mother did not give her son the reason for not going to the city of Rājagaha. When she was repeatedly asked by her sons, she said to her husband: “Sir, the children are troubling my mind very much. On seeing us, our parents will not cut our flesh and eat. Let us go! Let us show the sons their grandparents' house? Let us send them there!”
+
+“Madam, I dare not go to your parents' house,” said the husband, “but I shall manage to send you, so that you will certainly get there.” “All right Sir,” said the wife, “the house of their grandparents should be shown to the children in one way or another.” The couple then headed for Rājagaha, carrying their boys and in due course arrived in that city. At a resthouse, near the city-gate they lodged. The mother took the boys and informed through somebody of their visit.
+
+When the parents received the information, they considered as follows: “For those who roamed in *saṃsāra* there is none who has not been their son, or their daughter. These two, however, have committed a great offence against us. Both cannot live in our presence. They do not deserve to be with us. But let them take this much of money and live in a comfortable place. Let them send the two boys to us.” Then they sent a messenger. The lady took the money sent by her parents and handed over the two little sons to the messengers, to be taken to their grandparent. The two brothers, Mahāpanthaka and Cūḷapanthaka grew up in comfort in the house of their grandparents.
+
+### (b) Ascetic Life adopted in His Final Existence
+
+Of the two brothers, Cūḷapanthaka was very young and tender, Mahāpanthaka, however, always went along with his grandfather to the Buddha to listen to His discourses. As he had always been listening to the discourses in the presence of the Buddha, he was inclined to become a monk. Therefore, he sought permission from his grandfather, Dhanaseṭṭhi, saying: “Grandfather, if you will permit me, I would like to become a monk.” “What a wonderful thing you have said,” replied the wealthy merchant. “For me, your becoming a monk is far better than the whole world! Go ahead, as you wish, grandson!” Replying thus gladly, the merchant accepted Mahāpanthaka’s request and took him to the Buddha. “Merchant,” addressed the Buddha, “how is it? Have you got a boy?” “Yes, Exalted Buddha,” answered the merchant, “this boy is my older grandson. He is asking me to make him a monk under You.”
+
+Then the Buddha ordered a nearby monk who used to go on alms-round: “Have the boy initiated!” After explaining the meditation on the five component parts of the body ‘with skin as the fifth’ (*taca-pañcaka kammaṭṭhāna*) to the boy, the monk made him a novice.
+
+Since he became Sāmaṇera Mahāpanthaka, he had learnt the words of the Buddha, (the Canonical Texts), and having completed twenty years of age, he took monkhood upon himself. After becoming a monk, he engaged seriously in meditation that led him to mastery over the four *arūpāvacara* *jhānas*. Having emerged from the *jhānas*, he assiduously devoted himself to *vipassanā* meditation and finally attained arahatship. In this way the Arahat Mahāpanthaka become foremost among those *bhikkhus* who were extremely skilful in engaging in that meditation.
+
+#### Initiation of The Younger Brother
+
+Venerable Mahāpanthaka spent the time by enjoying the bliss of Fruition. One day, after considering whether it would be possible for him to give his younger brother such wonderful bliss, he went to the wealthy merchant, his grandfather, and requested: “Dear donor, Sir, if you agree, I would like to make Cūḷapanthaka a novice.” When the grandfather gave his consent, saying: “Do as you wish! You may make him a novice!” Venerable Mahāpanthaka had him initiated and established in the ten precepts.
+
+Sāmaṇera Cūḷapanthaka tried to learn from his older brother the following verse:
+
+Whatever words that he had been learnt previously disappeared from his memory whenever he proceeded to learn the next one. For four months, he was still trying to commit the verse to memory. (Although four months had passed, he still could not learn it by heart.)
+
+(During the lifetime of Buddha Kassapa, Cūḷapanthaka was a learned monk. He jeered at a dull monk in his learning Pāli. As a result, the dullard gave up his pursue in learning, for he felt so shameful on account of the jeering and lost self confidence. Owing to that evil act, as Culapanthaka, he alarmingly became a dullard after his novitiation. Hence, he surprisingly forgot all that had been memorised as soon as he went on to the next portions.)
+
+——Aṅguttara Nikāya——
+
+Thereupon the elder brother, Mahāpanthaka, drove him out, saying: “Cūḷapanthaka! You are one in this dispensation who is not worthy of the Path and the Fruition (*adhabba*). You cannot learn even a single verse in four months. How are you, who cannot learn a verse in four months, able to reach the apex (arahatship) of your monkhood? So get out of this dwelling!” As driven out by his elder brother, the novice Cūḷapanthaka dared not stay there and stood, weeping at the edge of the dwelling (where his brother would not see).
+
+At that time, the Buddha was sojourning in the Mango-grove monastery, built and dedicated by the physician Jīvaka, with Rājagaha as His resort for alms-food. Then Jīvaka sent a man to the Buddha to invite him along with five hundred monks for the next day’s meal. At that moment Venerable Mahāpanthaka was the *bhatt'udesaka*, ‘in-charge of food distribution’. The man therefore referred the matter to him, saying: “Venerable Sir, please accept the food offerings for five hundred monks.” “I accept the food for the monks” he replied, “except Cūḷapanthaka.”
+
+#### Meditation Subject given by The Buddha
+
+Hearing the reply, Venerable Cūḷapanthaka was extremely dejected. Seeing the Venerable’s plight and knowing that he would achieve liberation ‘on my visit’, the Buddha went to him and, showing Himself from a distance neither too near nor too far, asked: “Dear son Cūḷapanthaka, why are you weeping?” “Because, Venerable Sir, my brother Thera expels me,” answered Cūḷapanthaka. “Dear son Panthaka,” addressed the Buddha, “your brother possesses no *asayānusaya*-*ñāṇa*, the power of knowing intentions and inclinations of beings. But you are *buddhaveneyya-puggala*, ‘an individual to be led by a Buddha.’ ” With these encouraging words, the Buddha gave him a piece of clean but rough cloth created by his power. The Buddha added: “Dear son Panthaka, keep this in your fist, muttering ‘*Rajo haraṇaṃ, rajo haranaṃ*——This cloth is liable to take dirt! This cloth is liable to take dirt.’ Thus you meditate on it.”
+
+(Herein, Cūḷapanthaka in a pervious birth was a king and while touring the city for inspection, his forehead sweated and he wiped the sweat with his clean waistgarment. The garment became dirty. The King then talked to himself: “Because of the impure body, such a clean cloth becomes impure, abandoning its own nature. Impermanent indeed are things conditioned!”
+
+Thus he gained the perception of impermanence. Hence for Cūḷapanthaka, the meditation subject of ‘*rajo haraṇaṃ*’ was a forceful contribution to his attainment of arahatship. Therefore the Buddha gave him the clean rough cloth as he saw the Thera’s previous good act and as He wished to urge him to engage meditation on the subject that matched with that good act.)
+
+#### Attainment of Arahatship
+
+Venerable Cūḷapanthaka sat down rubbing with his hand the cloth given by the Buddha and muttering “*Rajo haraṇaṃ, rajo haraṇaṃ*——It is liable to take dirt! It is liable to take dirt!” When he did the rubbing several times, the threads of the garment began to get dirty. When he repeated the rubbing, the cloth became dirtier like a kitchen-cloth. As the time came for his wisdom to ripen, the law of extinction and destruction manifested itself in his mind. And he reflected: “This piece of cloth was originally white and clean. But on account of its association with my body (*upādinnaka*), it is now full of dirt. My mind is also like this cloth. It happens like the cloth. The mind, originally pure and clean in its unperturbed state, tends to become soiled on account of its association with such unwholesome concomitant factors as greed, hate, delusion, etc. Having thus reflected on his person and heart, he proceeded to strive for mental concentration and gained the four *rūpārvacarajhānas*. When he, on the basis of these *jhānas*, engaged in *vipassanā* meditation, he attained arahatship together with the fourfold Analytical Knowledge. As he had mastered the *manomaya*-*rūpāvacara-jhāna*, i.e. the *rūpāvacara-jhāna* involving mentally produced forms, he was able to create many bodies from one or one body from many and had other similar powers. Besides, he was accomplished in the Teaching (Three Piṭakas) and endowed with the six psychic powers. (Such happenings are called *maggasiddha-pariyatti* and *maggasiddha-abhiññā*, “without particularly learning and without particularly striving”, one becomes learned in the Teaching and possessed of psychic powers as soon as one attains *arahatta-magga*. Both learning and powers took place by the force of the *magga*, so may it be said.)
+
+The following day, the Buddha visited the house of the physician Jīvaka together with 499 *bhikkhus* and sat there for meal offerings. Venerable Cūḷapanthaka could not go along as his brother Venerable Mahāpanthaka did not accept the invitation for him. The Physician Jīvaka managed first to make offerings of rice gruel. The Buddha did not take the gruel but covered His alms-bowl with His hand. When Jīvaka asked: “Exalted Buddha, why do you not receive the gruel?” “There is a monk still left behind at the monastery,” said the Buddha.
+
+Thereupon Jīvaka sent a man saying: “Go, friend! Bring the monk who had been left behind at the monastery.” Prior to the arrival of the man, the Venerable Cūḷapanthaka had created, by his power, a thousand *bhikkhus*, one different from another in shape as well as in action, such as making a robe, etc.
+
+Because the man sent by Jīvaka saw too many *bhikkhus* at the monastery, he did not invite them all, for he had been asked by Jīvaka to bring just one person. So he went back and said to the physician: “Master Jīvaka, the monks left behind at the monastery are more more than all these monks who are here in your house. I was at lost and could not think of the right one I should bring.” Jīvaka asked the Buddha: “What is the name of the *thera* who was left behind at the monastery, Exalted Buddha?” When the Buddha said that it was Cūḷapanthaka, Jīvaka sent the man again, saying: “Go again, friend! Ask: ‘Who is the noble Thera named Cūḷapanthaka?’ and bring him.”
+
+The man returned to the monastery and asked: “Who is the noble *thera* named Cūḷapanthaka?” “Cūḷapanthaka am I! Cūḷapanthaka am I!” answered the whole thousand monks. The man returned again and said to Jīvaka: “Master, all the thousand monks replied: ‘Cūḷapanthaka am I! Cūḷapanthaka am I!' I am puzzled as to whom I should invite, not knowing this one or that?” As the physician Jīvaka was an *ariya* donor who had realized the Four Truths, even by the way the man informed him, he came to know that the one left behind at the monastery was of supernormal power. “Go again, friend!” said Jīvaka, “Tell the one who answered first, tell him that he is summoned by the Buddha and bring him by taking the edge of his robe.” Saying thus Jīvaka sent the man back once more. The man went again to the monastery and did as his master had ordered. Instantly the thousand *bhikkhus* disappeared. Then only could the man bring Cūḷapanthaka. Then only did the Buddha accepted the gruel and partook of it.
+
+Having gone back to the monastery after partaking of the food, a discussion took place at a meeting of the monks thus: “Supreme indeed are Buddhas. He could cause a monk, who failed to learn by heart a single verse in four months, to become such a powerful one!” Knowing the minds of the monks, the Buddha came to the meeting and sat on the Buddha’s seat. Then He asked: “Monks, what are you talking about?” When the monks replied: “Exalted Buddha, we were talking about nothing but Your grace. We were talking that Cūḷapanthaka has received a big favour from You!” The Buddha said: “Monks, receiving supramundane inheritance now by following My advice is not wonderful enough. While he was of immature wisdom long long ago in the past, Cūḷapanthaka received mundane inheritance by taking My advice.” “When was it, Exalted Buddha?” asked the monks. And at their request the Buddha related the Cūḷaseṭṭhi Jātaka to the monks in the following manner:
+
+[*Cūḷaseṭṭhi Jātaka*]
+
+### (c) Etadagga Title achieved
+
+At a late time, while the Buddha was sitting on the Dhamma-throne, surrounded by monks, He spoke in praise of Venerable Cūḷapanthaka as follows:
+
+Thus the Buddha declared Venerable Cūḷapanthaka the foremost (*etadagga*) in two qualities.
+
+With regard to Venerable Mahāpanthaka, the Buddha said in praise of him as follows:
+
+With these words of praise, the Buddha declared the Venerable Mahāpanthaka the foremost (*etadagga*) in the matter of *saññā vivaṭṭa-kusala*, “having skill on making oneself free from consciousness.”
+
+(Herein, when other monks created mind-made bodies through psychic powers, they were able to create only a few, say, three or four, etc. They could not create a large number of such bodies. And when they did, they could bring about only the figures that resembled the creator and in the case of action, theirs was the one and the only kind. Cūḷapanthaka, however, created a thousand figures at one stroke of advertence in the process of consciousness. Such mentally created figures were different in shape from one another, and that was why he was declared the foremost (*etadagga*) in creating mind-made bodies. Though the words are explained in the Commentary in various ways, the explanations are omitted here lest the reader should get confused. The sermons connected with these two *bhikkhus* should be taken in detail from the Apadāna Theragāthā Dhammapada, Udāna and their respective Commentaries.)
