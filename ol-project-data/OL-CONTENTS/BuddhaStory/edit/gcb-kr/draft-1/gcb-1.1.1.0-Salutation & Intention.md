@@ -4,19 +4,19 @@ tags:
   - "인물/고따마-부처님"
   - "인물/디빵까라-부처님"
   - "인물/수메다-수행자"
-  - "문헌/마하-붓다왐사"
-  - "문헌/붓다왐사"
-  - "개념/수기"
-  - "개념/삼계"
-  - "개념/삼학"
+  - "경전/마하-붓다왐사"
+  - "경전/붓다왐사"
+  - "주제/수기"
+  - "주제/삼계"
+  - "주제/삼학"
 tagAliases:
   "인물/고따마-부처님": ["Gotama", "Gotama Buddha", "석가모니", "고따마"]
   "인물/디빵까라-부처님": ["Dīpaṅkara", "Dīpaṅkara Buddha", "디빵까라"]
   "인물/수메다-수행자": ["Sumedha", "Hermit Sumedha", "수메다"]
-  "문헌/붓다왐사": ["Buddhavaṃsa"]
-  "개념/수기": ["definite prophecy", "Niyata-vyākaraṇa", "수기"]
-  "개념/삼계": ["three worlds", "욕계", "색계", "무색계", "kāma", "rūpa", "arūpa"]
-  "개념/삼학": ["threefold practice", "지계", "선정", "지혜", "sīla", "samādhi", "paññā"]
+  "경전/붓다왐사": ["Buddhavaṃsa"]
+  "주제/수기": ["definite prophecy", "Niyata-vyākaraṇa", "수기"]
+  "주제/삼계": ["three worlds", "욕계", "색계", "무색계", "kāma", "rūpa", "arūpa"]
+  "주제/삼학": ["threefold practice", "지계", "선정", "지혜", "sīla", "samādhi", "paññā"]
 ---
 
 # Chapter 1 - Salutation & Intention

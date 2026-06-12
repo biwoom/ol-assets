@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OL-HOME/OL 홈페이지 업데이트 아이디어.md",
+                "file": "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OL 홈페이지 업데이트 아이디어"
+              "title": "gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OL-HOME/브랜드/OL 불교콘텐츠 개발 방향 v0.1.md",
+                "file": "공용문서/로컬 개발 터미널 명령어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OL 불교콘텐츠 개발 방향 v0.1"
+              "title": "로컬 개발 터미널 명령어"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTENTS/BuddhaStory/translation-agent-manual.md",
+                "file": "OL-CONTENTS/BuddhaStory/toc/gcb-kr-TOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "translation-agent-manual"
+              "title": "gcb-kr-TOC"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-1.1.1.0-Salutation & Intention.md",
+                "file": "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gcb-1.1.1.0-Salutation & Intention"
+              "title": "gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Malalasekera",
+                "query": "vemattāni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -199,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OL-HOME/브랜드/OL 불교콘텐츠 개발 방향 v0.1.md",
+                "file": "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "OL 불교콘텐츠 개발 방향 v0.1 의 개요"
+              "title": "gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha 의 개요"
             }
           }
         ],
@@ -226,46 +225,46 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "d8635686be0d5dec",
+  "active": "ece6a84de356a124",
   "lastOpenFiles": [
-    "OL-HOME/OL 홈페이지 업데이트 아이디어.md",
-    "OL-HOME/브랜드/OL 불교콘텐츠 개발 방향 v0.1.md",
+    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.1.0-Salutation & Intention.md",
+    "OL-CONTENTS/BuddhaStory/term/gcb-1.1.1.0-Salutation & Intention-term.md",
+    "OL-CONTENTS/BuddhaStory/source/raw/src-01-gcb/GCB_doc364347__01권-01부-1장__Chapter 1 - Salutation & Intention__1장 -부처님께 올리는.md",
     "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-1.1.1.0-Salutation & Intention.md",
-    "OL-HOME/BOOK 세부 페이지 컨셉이미지1.png",
-    "OL-HOME/works 세부페이지 컨셉 이미지.png",
-    "CONTENTS/BuddhaStory/outputs/manuscripts/gcb-revised-kr-draft-1/gcb-kr-005-3-the-rare-appearance-of-a-buddha.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.8.0-Epilogue.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.9-(Mark 28) - The Mark of the Voice having Eight Qualities as a Br.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.8-Explanations of The Thirty-two Major Marks.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.7-A Brief History of the Royal Lineage of the Bodhisatta.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.6-The Story of Kāladevila The Hermit.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.5-The Birth of The Bodhisatta.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.4-Queen Mahā-Māyā’s Journey from Kapilavatthu to.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.3-The Conception of The Bodhisatta.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.2-The Request made to the Bodhisatta Deva.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.1-Five Kolāhalas.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.7.0-The Story of Sataketu Deva, The Future Buddha.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.9-The Story of The Dāna given by Dāru.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.8-Four Kinds of Offerings to the Sangha.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.7-Story concerning a Donor of a Monastery.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.6-Brief Story of The Householder Ugga.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.5-Seven Kinds of Gifts to the Sangha (.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.49-Mahā Lomahaṃsa Cariya.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.48-(10) Tenth Pāramī - The Perfection of Equanimity (upekkhā.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.47-Ten kinds of iddhi (supernormal power).md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.46-(9) Ninth Pāramī - The Perfection of Loving-kindness (mett.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.45-(8) Eighth Pāramī - The Perfection of Resolution (adhiṭṭ.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-6.3.6.44-Power of Truthfulness during The Buddha’s Time.md",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-appendix-1.1-Definition of Adhimuttimaraṇa.md.zip",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/src-01-gcb",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-3",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-2",
-    "CONTENTS/BuddhaStory/edit/gcb-kr/draft-1",
-    "CONTENTS/BuddhaStory/edit/gcb-kr",
-    "CONTENTS/BuddhaStory/edit/draft-3",
-    "CONTENTS/BuddhaStory/edit/draft-2",
-    "CONTENTS/BuddhaStory/edit/draft-1",
-    "CONTENTS/BuddhaStory/edit",
+    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-2/gcb-1.1.1.0-Salutation & Intention.md",
+    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-2/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
+    "OL-HOME/보고서/PROJECT_STATUS_REPORT_2026_06_02.md",
+    "OL-HOME/브랜드/OL 홈페이지 전략 분석 및 향후 개발 로드맵.md",
+    "OL-HOME/브랜드/올(OL) 브랜드 정의서 초안.md",
+    "OL-HOME/사용법/DESIGN 메뉴 파일 저장 구조와 관리법 최종.md",
+    "OL-HOME/브랜드/OL_프로젝트_존재_선언문_V1.md",
+    "OL-HOME/사용법/OL 홈페이지 콘텐츠 관리 매뉴얼-2026-06-11.md",
+    "OL-HOME/브랜드/OL 브랜드 정의서-2026-06-12.md",
+    "OL-HOME/브랜드/스타일 구현 정책 및 수정 로드맵.md",
+    "OL-HOME/브랜드/OL 불교콘텐츠 개발 방향 v0.1.md",
+    "OL-HOME/OL 홈페이지 업데이트 아이디어.md",
+    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
+    "OL-CONTENTS/BuddhaStory/log/draft-2/gcb-1.1.1.0-Salutation & Intention-draft2-log.md",
+    "OL-CONTENTS/OL-CONTENTS.code-workspace",
+    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.2-Bodhisatta (a future Buddha).md",
+    "OL-CONTENTS/BuddhaStory/log/draft-2/gcb-1.1.2.2-Bodhisatta (a future Buddha)-draft2-log.md",
+    "OL-CONTENTS/BuddhaStory/log/draft-2/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha-draft2-log.md",
+    "OL-CONTENTS/BuddhaStory/log/draft-2",
+    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.2.2-Bodhisatta (a future Buddha)-log.md",
+    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha-log.md",
+    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.2.0-Rare Appearance of a Buddha-log.md",
+    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.1.0-Salutation & Intention-log.md",
+    "OL-CONTENTS/BuddhaStory/log/draft-1",
+    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/migrate_logs.py",
+    "OL-CONTENTS/BuddhaStory/log/gcb-1.1.2.2-Bodhisatta (a future Buddha)-draft2-log.md",
+    "OL-CONTENTS/BuddhaStory/edit/term",
+    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__/validate_translation.cpython-313.pyc",
+    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__/lint_glossary.cpython-313.pyc",
+    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__/format_footnotes.cpython-313.pyc",
+    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__",
+    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/run_pipeline.py",
+    "OL-HOME/TEXT 세부페이지 컨셉 이미지.png",
+    "OL-HOME/STORY 세부 페이지 컨셉이미지1.png",
     "Pasted image 20260604223418.png",
     "Pasted image 20260604223457.png",
     "Pasted image 20260604223446.png",
