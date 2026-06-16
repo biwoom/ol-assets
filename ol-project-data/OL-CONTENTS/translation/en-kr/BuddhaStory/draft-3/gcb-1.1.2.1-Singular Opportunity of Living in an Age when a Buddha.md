@@ -1,0 +1,113 @@
+---
+title: "Part 1 - Singular Opportunity of Living in an Age when a Buddha appears"
+tags:
+  - "인물/아나타삔디까"
+  - "장소/라자가하-왕사성"
+  - "장소/제따와나-사원"
+  - "인물/셀라-바라문"
+  - "인물/께니야-수행자"
+  - "주제/에히빅쿠"
+  - "주제/육사외도"
+  - "주제/보살"
+  - "주제/부처님"
+tagAliases:
+  "인물/아나타삔디까": ["Anāthapiṇḍika", "Sudatta", "급고독장자", "수다따"]
+  "장소/라자가하-왕사성": ["Rājagaha", "왕사성"]
+  "장소/제따와나-사원": ["Jetavana monastery", "기원정사", "제따와나 사원"]
+  "인물/셀라-바라문": ["Sela"]
+  "인물/께니야-수행자": ["Keṇiya"]
+  "주제/에히빅쿠": ["ehi-bhikkhu", "오라 비구여"]
+  "주제/육사외도": ["six heretical teachers", "여섯 사특한 스승", "Pūraṇa Kassapa", "Makkhali Gosāla", "Ajita Kesakambala", "Pakudha Kaccāyana", "Nigaṇtha Nātaputta", "Saṅjaya Belaṭṭhaputta"]
+  "주제/보살": ["Bodhisatta", "미래의 부처님"]
+  "주제/부처님": ["Buddha", "정등각자"]
+---
+
+# Part 1 - Singular Opportunity of Living in an Age when a Buddha appears
+
+[KO]
+# 2장 1절: 부처님의 가르침이 있는 시대에 태어난 아주 특별한 행운
+[/KO]
+
+## 본문
+
+The wealthy Anāthapiṇḍika[^1], who was to become the donor of Jetavana monastery, was on his visit to Rājagaha when he saw the Buddha for the first time, having heard the word “Buddha” from his wealthy brother-in-law[^2] in Rājagaha. As soon as he heard the sound “*Buddha*”, he exclaimed, *“Ghoso’ pi kho eso gahapati dullabho lokasmim, yad idaṃ ‘Buddho Buddho’ ti”*, meaning “Friend, rare indeed it is in the world even to hear the utterance, *'Buddha, Buddha*’.”
+
+[KO]
+장차 제따와나(Jetavana) 사원의 큰 보시자가 될 아나타삔디까(급고독장자)[^1]는 라자가하(Rājagaha)를 방문했을 때, 그곳의 부유한 처남[^2]에게서 처음으로 '부처님'이라는 말을 듣고 부처님을 뵙게 되었습니다. 그는 '부처님'이라는 소리를 듣자마자 감격하여 외쳤습니다. *"고소 삐 코 에소 가하빠띠 둘라보 로까스밍, 야디당 '붓도 붓도' 띠(Ghoso' pi kho eso gahapati dullabho lokasmiṃ, yad idaṃ 'Buddho Buddho' ti)"* 곧, "장자여, 세상에서 '부처님, 부처님'이라는 말소리를 듣는 것조차 참으로 희유한 일입니다!"
+[/KO]
+
+While the Buddha was staying in the market town of Āpaṇa, in the country of Aṅguttarāpa, Sela[^3], a leading brahmin teacher, heard from Keṇiya the matted-hair ascetic, the word “*Buddha*”. As soon as he heard the sound “*Buddha*”, it occurred to him thus: *“Ghoso’ pi kho eso dullabho lokasmiṃ yad idaṃ ‘Buddho Buddho’ ti”*, meaning “Rare indeed it is in the world even to hear the utterance, ‘*Buddha. Buddha*.’ ” Not long after, together with three hundred followers, he gained *ehi-bhikkhu*[^4] monkhood, and seven days thence he attained arahantship with them.
+
+[KO]
+부처님께서 앙굿따라빠(Aṅguttarāpa) 나라의 시장 마을 아빠나(Āpaṇa)에 머무실 때, 바라문 스승들의 지도자였던 셀라(Sela)[^3]는 머리를 땋아 올린 고행자 께니야(Keṇiya)에게서 '부처님'이라는 말을 들었습니다. 그는 그 소리를 듣자마자 이렇게 생각했습니다. *"고소 삐 코 에소 둘라보 로까스밍 야디당 '붓도 붓도' 띠(Ghoso' pi kho eso dullabho lokasmiṃ yad idaṃ 'Buddho Buddho' ti)"* 곧, "세상에서 '부처님, 부처님'이라는 말소리를 듣는 것조차 참으로 희유한 일이다." 그 뒤 오래지 않아 셀라 바라문은 삼백 명의 제자들과 함께 부처님에게서 직접 '오라, 비구여(에히빅쿠, ehi-bhikkhu)'[^4]라는 부름을 받아 출가하였고, 그로부터 7일 만에 모두 함께 아라한과를 성취했습니다.
+[/KO]
+
+In the light of these canonical extracts, it is very rare and difficult in the world even to hear the word, “*Buddha, Buddha”*; inexpressibly and extremely more so indeed is the appearance of a Buddha.
+
+[KO]
+이러한 경전 구절들에 비추어 보면, 세상에서 '부처님, 부처님'이라는 이름을 듣는 것조차 매우 드물고 어려운 일입니다. 하물며 부처님께서 직접 세상에 출현하시는 일은 말로 다 표현할 수 없을 만큼 더없이 희유합니다.
+[/KO]
+
+In this respect, it may be noted that the utterance, “diamond”, may refer to a genuine diamond or a fake. Likewise, because rumours of a coming Buddha had been widespread prior to the Buddha’s appearance, both Anāthapiṇḍika and Sela must have heard before, the false claim of six heretical teachers[^5] to be “Buddhas.” But just as the sound (of the word) “diamond,” only when spoken of a genuine one, would please one who can differentiate between a genuine diamond and a fake; so also, to such men of highly developed intelligence as Anāthapiṇḍika and Sela, the utterance, *“Buddha”*, could have been delightful only when spoken of the true Buddha.
+
+[KO]
+여기서 한 가지를 짚어 둘 필요가 있습니다. '다이아몬드'라는 말은 진짜 다이아몬드에도 쓰이고 모조품에도 쓰입니다. 이와 마찬가지로, 참된 부처님께서 세상에 출현하시기 전부터 장차 부처님이 오실 것이라는 소문이 널리 퍼져 있었으므로, 아나타삔디까와 셀라도 육사외도, 곧 여섯 명의 그릇된 스승들[^5]이 스스로를 '부처님'이라고 내세운 거짓 주장을 이미 들어 보았을 것입니다. 그러나 '다이아몬드'라는 말이 진짜 다이아몬드를 가리킬 때에만 진짜와 가짜를 구별할 줄 아는 사람을 기쁘게 하듯이, 아나타삔디까와 셀라처럼 지혜로운 이들에게도 '부처님'이라는 말은 참된 부처님을 가리킬 때에만 온전한 기쁨을 줄 수 있었습니다.
+[/KO]
+
+Just as taking a fake diamond to be genuine by unworthy persons of poor intelligence is a wrong notion, even so taking their masters (the six heretical teachers) to be genuine Buddhas by those who followed them was a wrong and harmful conclusion (*micchādhimokkha*).
+
+[KO]
+지혜가 부족한 사람들이 가짜 다이아몬드를 진짜로 여기는 것이 그릇된 생각인 것처럼, 육사외도를 따르던 사람들이 자기 스승을 참된 부처님으로 여긴 것도 그릇되고 해로운 판단, 곧 미혹된 확신(*micchādhimokkha*)이었습니다.
+[/KO]
+
+In order to appreciate more profoundly the rare phenomenon of a Buddha’s appearance in the world, it is important to know briefly (at the beginning) the following (matter) concerning a Bodhisatta and a Buddha:
+
+[KO]
+세상에 부처님께서 오시는 이 희유한 일을 더 깊이 이해하려면, 먼저 보살(Bodhisatta)과 부처님(Buddha)에 관한 다음 기본 개념들을 간략히 알아둘 필요가 있습니다.
+[/KO]
+
+(1) Bodhisatta: A Being destined to attain Enlightenment, i.e. a future Buddha.
+
+[KO]
+(1) 보살(Bodhisatta): 마침내 깨달음을 성취하도록 확정된 존재, 즉 미래의 부처님.
+[/KO]
+
+(2) Bodhisatta-kicca: Daily duties of a future Buddha.
+
+[KO]
+(2) 보살행(Bodhisatta-kicca, 보살의 임무): 미래의 부처님이 날마다 실천하고 닦아야 하는 수행과 의무.
+[/KO]
+
+(3) Buddha: A Supreme Being who has fulfilled the duties of a future Buddha and has consequently attained Enlightenment.
+
+[KO]
+(3) 부처님(Buddha): 미래 부처님으로서의 수행과 의무를 완수하고 마침내 위없는 깨달음을 얻으신 지고하신 분.
+[/KO]
+
+(4) Buddha-kicca: Daily duties of a Buddha.
+
+[KO]
+(4) 부처님의 일과(Buddha-kicca, 불사): 부처님께서 중생들을 이롭게 하기 위해 날마다 행하시는 일.
+[/KO]
+
+---
+
+## 각주
+
+[^1]: A merchant of Sāvatthi and a staunch supporter of the Buddha and His Sangha. Anāthapiṇḍika means “one who feeds the destitute". His personal name was Sudatta. He came to Rāiagaha on business and found his brother-in-law making elaborate preparations to treat the Buddha and His bhikkhus to a meal. It was on this occasion during the first year of the Buddha’s Enlightenment that he heard the word Buddha for the first time. Ref: the Senāsanakkhandhaka of the Vinaya Cūḷavagga.
+[^2]: They were related as each had married the other’s sister.
+[^3]: He visited his friend Keniya who was then preparing to shower his lavish hospitality on the Buddha and His Order of Bhikkhus, an incident similar to that of Anāthapiṇḍika. Both were filled with joy on hearing such a great name as Buddha. Ref: Sela Sutta of the Majjhima-paṇṇāsaof the Majjhima Nikāya.
+[^4]: Literally, “Come bhikkhu!” It was the command made by the Buddha in order to bring a deserving person to the Order of the Buddha’s followers in the yellow robe. Accordingly, it formed the oldest formula of admission to the Order.
+[^5]: Cha-satthara in Pali simply means “six teacher”. They were Pūraṇa Kassapa, Makkhali Gosāla, Ajita Kesakambala, Pukdha Kaccāyana, Nigaṇtha Nātaputta and Saṅjaya Belaṭṭha-putta. They were all non-Brahmanical teachers and contemporaries of the Buddha but older in age.
+
+[KO]
+[^1]: 사왓티(Sāvatthi)의 대부호 상인이자 부처님과 승가(Sangha)를 굳건히 후원한 대시주이다. 아나타삔디까(Anāthapiṇḍika)는 '의지할 곳 없는 이들에게 먹을 것을 베푸는 사람'이라는 뜻이며, 본명은 수다따(Sudatta)였다. 그는 상업적 용무로 라자가하(Rājagaha)에 들렀다가, 그의 처남이 부처님과 비구 승가에게 공양을 올리기 위해 정성껏 준비하는 모습을 보았다. 그가 '부처님'이라는 이름을 처음 들은 것은 바로 이때로, 부처님께서 깨달음을 성취하신 첫해에 있었던 일이다. (참고: 율장 소품(Vinaya Cūḷavagga)의 세나사낙칸다까(Senāsanakkhandhaka))
+
+[^2]: 두 사람은 서로 상대방의 누이와 결혼하여 처남매부 관계가 되었다.
+
+[^3]: 그는 당시 부처님과 비구 승가에게 큰 공양을 올리려고 준비하던 친구 께니야(Keniya)의 처소를 방문했다. 이는 아나타삔디까의 경우와 매우 비슷한 상황이었다. 두 사람 모두 '부처님'이라는 위대한 이름을 듣고 큰 환희를 느꼈다. (참고: 맛지마 니까야(Majjhima Nikāya, 중부) 중분 오십경(Majjhima-paṇṇāsa)의 셀라 경(Sela Sutta))
+
+[^4]: 문자 그대로는 "오라, 비구여!"라는 뜻이다. 이는 부처님께서 가사를 입고 승가(제자단)에 들어올 자격과 근기를 갖춘 이를 직접 부르실 때 쓰신 말씀이다. 이에 따라 이는 불교 교단에서 출가를 허가하는 가장 오래된 공식 절차가 되었다.
+
+[^5]: 빠리어 짜삿따라(Cha-satthara)는 단순히 '여섯 명의 스승'을 뜻한다. 이들은 뿌라나 깟사빠(Pūraṇa Kassapa), 막칼리 고살라(Makkhali Gosāla), 아지따 께사깜발라(Ajita Kesakambala), 빠꾸다 깟짜야나(Pakudha Kaccāyana, 영어 원고의 Pukdha는 오기임), 니간타 나타뿟따(Nigaṇtha Nātaputta), 산자야 벨랏티뿟따(Saṅjaya Belaṭṭhaputta)를 가리킨다. 이들은 모두 바라문교 전통 밖에서 독자적인 가르침을 편 비바라문 계열의 스승들이었으며, 부처님과 같은 시대에 활동했지만 나이는 부처님보다 많았다.
+[/KO]

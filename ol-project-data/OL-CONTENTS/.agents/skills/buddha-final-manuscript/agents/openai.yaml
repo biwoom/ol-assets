@@ -1,0 +1,4 @@
+interface:
+  display_name: "Buddha Final Manuscript"
+  short_description: "Handle explicit final extraction"
+  default_prompt: "Use $buddha-final-manuscript only when explicitly asked to inspect, run, or repair BuddhaStory final Korean-only extraction."

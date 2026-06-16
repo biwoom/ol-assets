@@ -1,0 +1,4 @@
+interface:
+  display_name: "Buddha Review Block"
+  short_description: "Compose inline review block"
+  default_prompt: "Use $buddha-review-log to compose or update the inline [review] block inside a BuddhaStory draft-3 file."

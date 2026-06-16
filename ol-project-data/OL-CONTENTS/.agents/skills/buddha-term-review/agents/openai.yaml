@@ -1,0 +1,4 @@
+interface:
+  display_name: "Buddha Term Review"
+  short_description: "Decide draft-3 terms"
+  default_prompt: "Use $buddha-term-review to compare BuddhaStory term choices and record draft-3 terminology decisions in the inline [review] block."

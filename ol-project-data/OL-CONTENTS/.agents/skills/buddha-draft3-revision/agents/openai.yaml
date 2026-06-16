@@ -1,0 +1,4 @@
+interface:
+  display_name: "Buddha Draft 3 Revision"
+  short_description: "Revise draft-3 in place"
+  default_prompt: "Use $buddha-draft3-revision to directly polish a specified BuddhaStory draft-3 manuscript while preserving source and [KO] structure."

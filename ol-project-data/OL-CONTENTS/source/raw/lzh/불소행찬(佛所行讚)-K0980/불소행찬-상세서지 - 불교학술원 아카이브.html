@@ -1,0 +1,1315 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="ko" class="ko">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta name="format-detection" content="telephone=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	
+	<title>상세서지 - 불교학술원 아카이브</title>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="icon" href="/resources/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/resources/images/apple-icon.png">
+<link rel="apple-touch-icon" href="/resources/images/apple-icon.png"> 
+	
+<script src="/resources/libs/jquery-1.11.3.min.js"></script>
+<script src="/resources/libs/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="/resources/libs/jquery-ui/jquery-ui.css" type="text/css">
+
+<script src="/resources/libs/backbone/underscore-min.js"></script>
+<script src="/resources/libs/backbone/backbone.js"></script>
+<script src="/resources/libs/core/underscore.string.min.js"></script>
+<script src="/resources/libs/core/string.js"></script>
+
+<link rel="stylesheet" href="/resources/css/base.css?v=20210202" />
+<link rel="stylesheet" href="/resources/css/common.css?v=20210208" />
+<link rel="stylesheet" href="/resources/css/content.css?v=20210207" />
+<link rel="stylesheet" href="/resources/css/xsl_style.css?v=20210203" />
+
+<script src="/resources/js/common.js?v=20210708"></script>
+<script src="/resources/js/search.js?v=20210201"></script>
+
+<script src="/resources/js/analysis.js?v=20210201"></script>
+
+<script>
+
+
+ga('create', 'UA-166772332-1', 'auto');
+ga_send_pageview();
+	    
+	    	
+
+</script>
+
+
+<script src="/resources/libs/jquery.blockUI.js"></script>
+<script>
+	new Image().src="/resources/images/common/busy.gif";
+	$(document).ajaxStop($.unblockUI); 
+	$.blockUI.defaults.css = {}; 
+	$.blockUI.defaults.overlayCSS ={};
+</script>
+
+<script>
+var g_servletPath = s.rtrim("/",'/');
+
+function resizeMainLayout() { 
+	var winH = $(window).height();
+	$(".content--scroll1").css({height:winH-239+"px"});
+	$(".snb--scroll").css({height:winH-235+"px"});
+} 
+
+$(document).ready(function(){
+	// scroll
+	$(window).resize(resizeMainLayout); 
+	resizeMainLayout();	
+
+
+	$(document).on('click','.wrap__page--util .totop', function() { 
+		//scrollToVisibleNode(node, ".wrap__snb .snb--scroll", 0, 10);
+		//$(window).scrollTop(100);
+		$("#content .content--scroll1").scrollTop(0);
+	});
+
+	// snb 영역 토글
+	$(document).on('click','.snb--open .btn__snb--toggle', function() {
+		$('#container').removeClass('snb--open snb--more');
+		$('#container').addClass('snb--close');
+		
+		if(localStorage)
+			localStorage.treeOpenClose = "close";
+
+	});
+	$(document).on('click','.snb--close .btn__snb--toggle', function() { 
+		$('#container').removeClass('snb--close');
+		$('#container').addClass('snb--open');
+		
+		if(localStorage)
+			localStorage.treeOpenClose = "open";
+	});
+
+	$(document).on('click','.snb--open .btn__snb--toggle--more', function() {
+		$('#container').addClass('snb--more');
+		if(localStorage)
+			localStorage.treeOpenClose = "open-more";
+	});
+	$(document).on('click','.snb--open.snb--more .btn__snb--toggle--more', function() {
+		$('#container').removeClass('snb--more');
+		if(localStorage)
+			localStorage.treeOpenClose = "open";
+	});
+	$(document).on('click','.snb--close .btn__snb--toggle--more', function() { 
+		$('#container').removeClass('snb--close');
+		$('#container').addClass('snb--open snb--more');
+		if(localStorage)
+			localStorage.treeOpenClose = "open-more";
+	});
+
+	// snb
+	$(document).on('click','.wrap__snb nav:not(.tree) > ul > li > a',function() {
+		if($(this).hasClass('open')) {
+			$(this).removeClass('open');
+			$(this).next('div').stop(true, false).slideUp();
+		} else {
+			$('.wrap__snb nav:not(.tree) > ul > li > a').removeClass('open');
+			$('.wrap__snb nav:not(.tree) > ul > li > div').slideUp();
+			$(this).addClass('open');
+			$(this).next('div').stop(true, false).slideDown();
+		}
+	});
+	
+
+	// 공통 alert 레이어
+	$('.pop--alert1-open').click(function() {
+		$('.pop--alert1, .pop--overlay').fadeIn('');
+		$('body').css('overflow','hidden')
+	});
+	$('.pop--alert1-close').click(function(){	
+		$('.pop--alert1, .pop--overlay').fadeOut('');
+		$('body').css('overflow','auto')
+	});
+
+}); // <-- ready function
+</script>
+
+
+</head>
+
+<body>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+/*.tit__pop2:target h2:before {content:'☞ '; color:red; font-weight:bold;}*/
+</style>
+
+<div id="wrap">
+
+	<header class="header__pop">
+		<h1>서지</h1>
+		
+		
+		<a class="btn__list--small c01" style="position:absolute;right:60px;top:12px;" href="#hejeTit">해제</a>
+		
+		
+		<a class="btn__pop--close" onclick="window.close()"><img src="/resources/images/btn-viewer-close.png" alt="닫기" /></a>
+	</header>
+
+	<div class="content__pop scroll" data-item-id="ABC_IT">
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="tit__pop2">
+		<h2>불소행찬(佛所行讚)</h2>
+	</div>
+	
+
+	<div class="wrap__view--sj text-font-change">
+
+<style>
+/* .wrap__view--sj {font-size:0.95rem} */
+.wrap__view--sj {letter-spacing: 0em;}
+.wrap__view--sj dl.hide, .wrap__view--sj tr.hide {display:none;}
+.wrap__view--sj table th {vertical-align:top;}
+.wrap__view--sj .link__list.c01 {font-weight:normal; vertical-align: middle;} /*color:#0561b1;*/
+.wrap__view--sj .link__list.c01:hover {} /*color:#a04418;*/
+</style>
+
+<script>
+$(document).ready(function(){
+	$(".wrap__view--sj td").each(function(index, item) {
+		if($.trim($(item).text())=='') {
+			$(item).parent().addClass('hide');
+		}
+	});
+	
+	$(".wrap__view--sj dl").each(function(index, item) {
+		if($(item).find("tr").not(".hide").length<=0)
+			$(item).addClass('hide');
+	});
+	
+	var thName = "";
+	$(".wrap__view--sj dl[data-pnode-name='학술정보'] tr > th,.wrap__view--sj dl[data-pnode-name='현존정보'] tr > th,.wrap__view--sj dl[data-pnode-name='연계정보'] tr > th").each(function(index, item) {
+		if($(item).text() ==  thName) {
+			$(item).text('');
+		} else {
+			thName = $(item).text();
+		}
+	});
+});
+</script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.wrap__view--sj .summary{margin:10px 0; padding:3px 15px; border:1px solid #dfdede; background:#f9f9f9; box-shadow: 2px 2px 3px rgba(200,200,200,.75)}
+.wrap__view--sj .summary .tit {padding:5px 0 8px 0; color:#d86616; font-size:1.2em; font-weight:bold; border-bottom:1px solid #dfdede;}
+.wrap__view--sj .summary ul{padding:5px 5px;}
+.wrap__view--sj .summary ul li{margin:5px 0}
+</style>
+
+	
+
+
+	
+	
+		
+		
+		
+		<dl data-pnode-name="분류정보">
+			<dt><div>분류정보</div></dt>
+			<dd>
+			
+			
+			
+			
+				<table>
+					<colgroup><col style="width:150px" /><col/></colgroup>
+					
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>주제분류</th>
+							<td>통불교(通佛敎)-전기(傳記)-석가모니(釋迦牟尼)</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>분류체계</th>
+							<td>正藏-初雕藏經部-聖賢集-印度人撰述</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+				</table>
+			
+			
+			</dd>
+		</dl>
+		
+
+		
+
+		
+		
+		<dl data-pnode-name="제목정보">
+			<dt><div>제목정보</div></dt>
+			<dd>
+			
+			
+			
+			
+				<table>
+					<colgroup><col style="width:150px" /><col/></colgroup>
+					
+					
+					<tr>
+						
+						
+							<th>대표서명</th>
+							<td>불소행찬(佛所行讚)</td>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+							<th>경명</th>
+							<td>불소행찬(佛所行讚) 5권</td>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+							<th>병음</th>
+							<td>FOSUOXINGZAN</td>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+							<th>약경명</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+							<th>별명</th>
+							<td>불소행찬경(佛所行讚經), 불소행찬전(佛所行讚傳)</td>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+				</table>
+			
+			
+			</dd>
+		</dl>
+		
+
+		
+
+		
+		
+		<dl data-pnode-name="저자정보">
+			<dt><div>저자정보</div></dt>
+			<dd>
+			
+			
+			
+			
+				<table>
+					<colgroup><col style="width:150px" /><col/></colgroup>
+					
+					
+					<tr>
+						
+						
+						
+							<th>저자</th>
+							<td style="line-height:1.5">
+								
+								
+								
+									마명(馬鳴, Aśvaghoṣa)
+								
+								
+							</td>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+							<th>역자</th>
+							<td style="line-height:1.5">
+								
+								
+								
+									담무참(曇無讖, Dharmakṣema)
+								
+								
+							</td>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+				</table>
+			
+			
+			</dd>
+		</dl>
+		
+
+		
+
+		
+		
+		<dl data-pnode-name="형태정보">
+			<dt><div>형태정보</div></dt>
+			<dd>
+			
+			
+			
+			
+				<table>
+					<colgroup><col style="width:150px" /><col/></colgroup>
+					
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							<th>권사항</th>
+							<td>5</td>
+						
+						
+					</tr>
+					
+				</table>
+			
+			
+			</dd>
+		</dl>
+		
+
+		
+
+		
+		
+		<dl data-pnode-name="확장정보">
+			<dt><div>확장정보</div></dt>
+			<dd>
+			
+			
+			
+			
+				<table>
+					<colgroup><col style="width:150px" /><col/></colgroup>
+					
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>고려_위치</th>
+							<td>29-0638</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>고려_주석</th>
+							<td>通檢은 번역년대를 A.D.414-421로 표기.</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>신수_NR</th>
+							<td>T.0192</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>신수_위치</th>
+							<td>04-0001</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>속장_NR</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>속장_위치</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>만속_위치</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_NAME</th>
+							<td>[장] Saṅs rgyas kyi spyod pa shes bya baḥi sñan dṅags chen po</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_북경_NR</th>
+							<td>5656</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_북경_위치</th>
+							<td>129-121, ?e1</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_DU_NR</th>
+							<td>4156</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_DU_위치</th>
+							<td>Ge1b1</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_DT_NR</th>
+							<td>4161</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_DT_위치</th>
+							<td>46-272, Ge2</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>티벳_NOTE</th>
+							<td>P. Saṅs rgyas kyi spyod pa shes bya baḥi sñan ṅags chen po.</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>산스_NAME</th>
+							<td>[범] Buddhacarita</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>산스_NOTE</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>적사_VOL</th>
+							<td>27</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>적사_PAGE</th>
+							<td>487</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>적사_NOTE</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>불광_VOL</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>불광_PAGE</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>불광_ROW</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>가흥_NR</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>가흥_VOL</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>가흥_PAGE</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>송장_VOL</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>송장_PAGE</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>중화_NR</th>
+							<td>1067</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>중화_VOL</th>
+							<td>050</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>중화_PAGE</th>
+							<td>0403</td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+					<tr>
+						
+						
+						
+						
+						
+						
+							<th>중화_NOTE</th>
+							<td></td>
+						
+						
+						
+						
+						
+						
+						
+					</tr>
+					
+				</table>
+			
+			
+			</dd>
+		</dl>
+		
+
+		
+
+		
+	
+	
+	</div>
+
+
+		
+
+		
+		
+		
+		
+			
+			<div id="hejeTit" class="tit__pop2" style="margin-top:70px;">
+				<h2>[서지해제]</h2>
+			</div>
+			
+
+			
+			<div data-xsl-gubun="해제" data-xsl-tag="해설" class="xsl_body xsl_heje">
+				
+				
+					<div data-xsl-tag="제목" class="xsl_para_tit">
+<span>1. 개요</span>
+</div>
+					<div data-xsl-align="" data-xsl-tag="문단" class="xsl_para">불소행찬(佛所行鑽, Buddhacarita) 5권은 마명(馬鳴, Asvaghosa)이 지은 것을 북량(北涼)시대에 담무참(曇無讖, Dharmaksema)이 414년에서 426년 사이에 고장(姑藏)에서 번역하였다. 별칭으로 『불소행찬경』ㆍ『불소행찬전』이라고도 한다. 서기 1세기 경에 마명(馬鳴)이 지은 부처님의 생애에 대한 서사시이다. 현존하는 범본 『불소행찬』은 17장으로 구성되어 있는데 부처님의 탄생에서 시작하여 환국(還國)으로 결말짓고 있다.</div>
+					<div data-xsl-tag="제목" class="xsl_para_tit">
+<span>2. 성립과 한역</span>
+</div>
+					<div data-xsl-align="" data-xsl-tag="문단" class="xsl_para">저자 마명(馬鳴)은 심원한 사상을 가진 불교 사상가인 동시에, 재기(才氣)가 빛나는 천재적 시인이다. 그는 서기 1세기 후반부터 2세기 전반 무렵에 중인도 사위국(舍衛國) 바기다(婆枳多) 지방에서 출생하였다.<br data-xsl-tag="br">그는 바라문족의 출신으로서 바라문 교육을 받았고, 4베다(Veda)ㆍ6논(論)에 통달하였으며, 지혜는 깊고 식견은 높았으며, 말재주가 교묘하였다 한다.<br data-xsl-tag="br">그는 처음에는 유아사상(有我思想)을 주장하여 불교를 반대하였으나, 부나사(富那奢) 존자와 논쟁하다가 그에게 굴복하고 그의 제자가 되어 교화를 받고 불교에 귀의하여, 수도(修道)에 정진하는 동시에 교의의 그의 불교 사상은 대체로 소승의 일체유부(一切有部)에 속하여 있으므로 원시불교를 탈피하지는 못했지만 대중부(大衆部) 등의 진보 사상을 어느 정도 수용하였고, 그 문체와 내용을 보아 자유 사상을 가진 불교 시인으로 생각된다.<br data-xsl-tag="br">그의 저작으로 확실한 것은 이 『불소행찬』과 『손타라난타시(孫陀羅難陀詩)』이며, 다소 이론(異論)의 여지는 있으나, 『대장엄론경(大莊嚴論經)』ㆍ『금강침론(金剛針論)』ㆍ『대승기신론(大乘起信論)』등도 그의 작품으로 간주하고 있다.</div>
+					<div data-xsl-tag="제목" class="xsl_para_tit">
+<span>3. 주석서와 이역본</span>
+</div>
+					<div data-xsl-align="" data-xsl-tag="문단" class="xsl_para">『불소행찬』은 불전 문학 중 백미로 평가받는 작품이다. 불전 중에서 비교적 완벽한 불본행집경(佛本行集經), 불본행경(佛本行經), 보요경(普曜經) 등은 모두 불소행찬의 영향을 받아서 성립된 것이다.</div>
+					<div data-xsl-tag="제목" class="xsl_para_tit">
+<span>4. 구성과 내용</span>
+</div>
+					<div data-xsl-align="" data-xsl-tag="문단" class="xsl_para">한역 『불소행찬』은 5권 28품으로 구성되어 있다. 역문(譯文)은 아름다운 운문으로서 격조있고 장엄하며 그 말이 매우 아름답다. 현존하는 범본 『불소행찬』은 17장으로 구성되어 있는데, 원래 14장 32송까지만 남아 있던 것에 14장 33송부터 17장까지는 후대에 부가하였다.  부처님의 탄생에서 시작하여 환국(還國)으로 결말짓고 있다.<br data-xsl-tag="br">그러나 한역(漢譯)과 서장역(西藏譯)은 모두 28장으로서 「생품(生品)」에서 시작하여 「분사리품(分舍利品)」으로 결말짓고 있다. 운문으로 이루어진 서사시이므로 번역본 또한 시로서 옮기고 있다.<br data-xsl-tag="br">제1 생품(生品)은 싯달타 태자의 출생을 기록하면서 그의 타고난 덕을 찬탄한다. 싯달타 태자는 석가족의 가장 우수한 왕인 정반왕(淨飯王)을 아버지로, 의지가 굳고 마음이 깨끗한 마야 부인을 어머니로 태어났다. 그의 탄생으로 말미암아 중생들이 마음을 의지할 곳을 찾고 온갖 욕심에서 벗어나 어두운 이 세상을 멀리하고 안온한 경지에 이를 수 있게 된 것이다. 제2 처품(處品)은 화려했던 궁중 생활을 묘사한다. 싯달타 태자가 탄생한 지 며칠 지나지 않아서 어머니 마야 부인이 죽자, 이모가 태자를 양육하였다. 자라서는 야쇼다라를 아내로 맞이하여, 아들 라훌라를 낳았다. 또 아버지 정반왕은 즐거운 생활을 하도록 궁전을 새로 지어 주기도 하였다. 제3 염환품(厭患品)은 거리에 나갔다가 늙은 사람, 병자, 시체 등을 만남으로써 인간 세상을 싫어하고 집을 떠나 수행하려는 마음을 지니게 되었음을 보여 준다. 제4 이욕품(離欲品)은 여자에 대한 욕망을 떠났음을 말한다. 정반왕이 새로운 궁전을 마련하여 준 것은 애욕에 빠져서 쾌락을 즐기고 집을 떠나려는 생각을 하지 말라는 뜻에서였다. 그러나 태자는 늙음, 병, 죽음 등의 한계 상황을 목격하였으므로 그 같은 무상한 욕락에서 벗어나는 출가의 길을 생각하게 되었다. 제5 출성품(出城品)은 출가하는 모습을 담고 있다. 부왕은 "집을 떠나 도를 닦기에는 아직 이르다."라고 하면서 출가의 뜻을 포기하도록 만류하였다. 그러나 태자는 세상에서의 삶이 곧 불이 난 집에 있는 것과 같다고 하면서 궁녀들이 모두 잠든 사이에 시중을 드는 차닉(車匿)과 함께 몰래 궁을 빠져 나와 출가하였다. 제6 차닉환품(車匿還品)은 태자를 모시던 차닉이 홀로 왕궁으로 돌아간다. 태자는 차닉에게 스스로 가지고 있던 보배 구슬을 풀어 주면서 "왕에게 사랑하고 그리워하는 인정을 버리라고 말씀드려라. 나는 태어나고, 늙고, 죽는 괴로움에서 벗어나기 위하여 이 숲속에 들어왔다."라고 말했다. 이에 차닉은 태자의 옷을 바꾸어 입고 왕궁으로 돌아갔다. 제7 입고행림품(入苦行林品)은 태자가 숲속으로 들어가 고행자들과 함께 생활한다. 숲속의 고행자들이 닦는 고행은 속세에서 나지 않는 맑은 찬물을 마시기도 하며, 나무‧뿌리‧줄기‧잎‧꽃‧열매를 먹기도 하고, 사슴이 먹는 풀을 먹기도 해야 한다. 물 속에 있으면서 고기의 흉내도 내야 한다. 이러한 고행들을 통하여 인간 세상의 안락이나 죽은 다음에 하늘에 태어나기를 목적으로 하고 있었다. 이에 대하여 태자는 “고행으로 얻는 것이 인간의 안락이나 천상에 태어나는 것이라 한다면 작은 괴로움은 면할 수 있으나 마침내는 더욱 큰 괴로움에 떨어질 것이다.”라고 비판하고 고행자들을 떠났다. 제8 합궁비우품(合宮悲愚品)은 태자가 출가한 뒤 온 왕궁이 슬픔에 잠겼음을 이렇게 말한다. “차닉과 백마가 절망 속에서, 통곡하며 돌아오는 모습 보고서, 흐느끼고 울부짖는 소리, 마치 부모 잃은 초상집 같다.” 제9 추구태자품(推求太子品)은 왕의 지시로 태자를 찾아나선 두 대신의 이야기다. 태자를 찾은 두 대신은 왕이 매우 슬퍼하고 괴로워한다고 말하면서 왕궁으로 돌아가자고 청하였다. 이에 대하여 태자는 “나를 왕으로 만들기 위하여 애쓰는 아버지의 사랑을 어기기는 어렵다. 그렇지만 그것은 환자에게 맞지도 않는 약을 먹이는 것과 같다. 그러므로 나는 차마 높은 곳의 어리석은 자리에 앉아 사랑하고 미워하는 속세의 일을 따라 갈 수 없다.”라고 거절하였다. 제10 병사왕예태자품(甁沙王詣太子品)은 석가족의 태자가 집을 떠났다는 소문을 듣고 병사왕 즉 빔비사라 왕이 태자를 찾아간다. 그 역시 자기 나라의 절반을 줄 용의가 있음을 말하면서 출가를 만류하고 있다. 태자의 출가에 대한 이 같은 만류는 “늙으면 그 기운 허하고 약하리니, 그때 가서 도를 닦으라.”라는 것이다. 이 같은 만류는 태자의 출가가 노년에 출가하는 브라만교의 출가와는 달랐기 때문이라는 것을 알 수 있다. 제11 답병사왕품(答甁沙王品)은 병사왕의 권유에 대답하는 내용이다. “젊어서는 경솔하고 조급하므로 늙어서 도를 닦으라 하지만, 늙은 사람은 힘이 모자라 견디지 못하고, 뜻도 굳세지 못하여 소원을 이루지 못한다.”라고 대답한다. 태자를 설득하려던 병사왕은 오히려 태자의 논리에 설득을 당하고 말았다. 제12 아라람울두람품(阿羅藍鬱頭藍品)에서는 아라람 즉 아라다와 울두람 즉 웃다카라는 두 선인(仙人)을 찾아가서 문답한 내용을 기록하고 있다. 먼저 찾아간 아라람과의 문답이 주된 것이며, 뒤에 찾아간 웃다카와의 문답은 간략하게 제시되어 있다. 아라람의 견해는 수론(數論) 학파가 정립한 전변설(轉變說)의 초기 형태를 보여 주는 것으로 평가된다. 싯달타 태자는 궁극적 자성이 있다면 그 역시 연기(緣起)의 이치에 따라야 한다는 입장에서 아라다의 견해를 비판한다. 제13 파마품(破魔品)은 보리수 아래에서 수행하는 태자에게 악마 파순(波旬)이 독 화살, 갖가지 흉기로 무장한 악마의 무리, 여자들을 동원하여 방해하였으나 모두 물리친다는 내용이다. 제14 아유삼보리품(阿惟三菩提品)에서 아유삼보리는 위없이 높고 바른 깨달음이라는 의미이다. 태자는 악마를 항복받은 뒤 마음을 더욱 굳건히 하고 깊은 명상에 들어가 깨달음을 얻기 위하여 노력하였다. 그 결과 마침내 12인연의 이치를 깨달은 것이다. 제15 전법륜품(轉法輪品)은 최초의 설법을 담고 있다. 부처님은 바라나시로 가서 과거 함께 고행했던 교진여(憍陳如) 등 5비구에게 깨달음을 얻기 위해서는 양 극단을 떠나 어디에도 집착하지 않는 중도를 얻어야 한다고 설하였다. 제16 병사왕제제자품(甁沙王諸弟子品)은 병사왕과 여러 제자들을 교화한 일을 서술한다. 부처님은 장자의 아들 야사(耶舍)를 비롯한 54명을 교화하였다. 부처님은 이들을 각처로 보내서 부처님의 가르침을 전하게 하였다. 그런 뒤 스스로 병사왕을 찾아가서 모든 고통의 근원은 나와 내 것에 집착하는 데 있으므로, 열반을 얻으려면 나와 내 것이 없음을 알아야 한다고 설하셨다. 제17 대제자출가품(大弟子出家品)은 병사왕이 마련해 준 죽림 정사에서 지혜가 가장 뛰어난 제자 사리불(舍利弗), 신통력이 가장 뛰어난 제자 목련(目連), 검소한 생활에 철저하였던 가섭(迦葉) 등을 교화한 인연을 서술하였다. 제18 화급고독품(化給孤獨品)은 급고독 장자를 교화한 일을 서술한다. 죽림 정사에서 부처님의 설법을 들은 급고독 장자가 부처님에게 귀의하고 사위성(舍衛城)에 기원 정사를 세우겠다고 발원한다. 제19 부자상견품(父子相見品)은 부처님이 정반왕을 만난 일을 서술한다. 부처님이 애욕으로 인하여 생사의 길을 윤회함을 설하자 왕족 대신 귀족 출신의 여러 사람들이 다투어 집을 떠나 비구가 되었다. 부처님의 아들 라훌라도 그 후 집을 떠나 불도를 닦게 되었다. 제20 수기원정사품(受祇洹精舍品)은 급고독 장자가 세운 기원 정사를 헌납받고, 파사닉왕(波斯匿王)과 그 나라 사람들을 교화한 일을 서술한다. 제21 수재취상조복품(守財醉象調伏品)은 제바달다(提婆達多)가 부처님을 해치기 위해서 술에 취한 코끼리를 내몰았으나 부처님의 설법으로 술에 취한 코끼리가 감복한 이야기이다. 제22 암마라녀견불품(菴摩羅女見佛品)은 재물과 덕망과 미모를 겸비한 여인, 암마라(菴摩羅)를 교화한 일을 서술한다. 제23 신력주수품(神力住壽品)은 세상에서 할 일을 다한 부처님이 악마 파순과 3개월 뒤에 열반에 들겠다는 약속을 하고 신통력으로 목숨을 부지하였음을 말한다. 제24 이차사별품(離車辭別品)은 부처님은 열반에 들겠다는 말을 듣고 슬퍼하는 아난을 위로하고 이차(離車) 즉 릿차비족과 작별한 일을 서술한다. 이차족의 장자(長者)들은 부처님과의 작별을 몹시 슬퍼하며 세상의 일을 한탄하고 있다. 제25 열반품(涅槃品)은 부처님의 열반 이전의 여러 가지 일을 말하고 있다. 부처님이 열반에 들기 위하여 비사리 즉 바이샬리를 떠난 일, 순다(純陀)의 마지막 공양, 아난이 부처님의 열반을 위하여 행한 여러 가지 일을 서술하였다. 제26 대반열반품(大般涅槃品)에서는 부처님의 열반을 기록한다. 부처님은 열반에 들기 이전에 마지막으로 제자들에게 "계율을 스승으로 삼아라. 모든 것은 무상(無常)하므로 방일(放逸)하지 말고 부지런히 정진하라."고 설법하셨다. 제27 탄열반품(歎涅槃品)은 부처님의 열반을 맞은 제자들이 슬퍼하였음을 전하고 있다. 가섭과 아나율(阿那律)을 비롯하여 하늘과 땅의 모든 중생들이 부처님의 열반을 슬퍼하였다. 제28 분사리품(分舍利品)은 부처님을 화장한 뒤 사리를 서로 가지려는 왕들이 많아서 사리를 공평하게 8등분하였음을 서술하였다.</div>
+					<div data-xsl-tag="제목" class="xsl_para_tit">
+<span>5. 가치</span>
+</div>
+					<div data-xsl-align="" data-xsl-tag="문단" class="xsl_para">기존의 불교 작품은 대개 무미건조하고 기술(記述)이 산만하거나 졸렬하였다. 그러나 이 불소행찬에 이르러 비로소 불전문학사(佛傳文學史) 적으로 여러 인도 순수문학 작품들에 견줄 수 있는 걸작을 가지게 된 것이다. 또 체계 없이 단편적이고 부분적이었던 기존의 부처님 전기가 이 불소행찬에 이르러 어느 정도 정확한 부처님 일대기의 면모를 갖출 수 있게 되었다.<br data-xsl-tag="br">인도의 대서사시 『마하바라와(Mahabharata)』와 『라미야나(Ramavana)』 등의  인도 문학과 아함경(阿含經) 이후에 육성된 불교사상, 특히 불타관(佛陀觀)이 인도 문화에 배양된 천재 마명의 용광로에 용해되어 창작된 것이, 『불소행찬』이었던 것이다. 여기에는 숭고한 부처님의 인격과 언행, 심원한 불교사상과 인도 사상이 인도 문학의 수려한 수사(修辭)에 의하여 장렬하고 생생하게 표현되어 있다. 실로 『불소행찬』은 인도 문화의 다른 순문학 작품과 반짝이는 불교의 마니(摩尼) 중에서도 특히 그 광명이 찬연한 주옥이라 할 것이다.<br data-xsl-tag="br">불교의 교조(敎祖)인 부처님께서는 불교 이상(理想)인 보리(菩提)의 체득자(體得者)인 동시에 승단의 지도자로서 불고의 교리도 부처님의 인격과 깨달음을 그 기본 내용으로 하고 있다. 그러나 부처님께서 열반에 드신 후 얼마 동안은 체계를 갖춘 전기같은 것은 존재하지 않았고, 단지 율장(律藏) 중 단편적 항목과 『장아함경(長阿含經)』의 「대본경」 정도만 산재해 있을 뿐이었다. 그러다가 부처님께서 입멸하신지 오랜 시일이 지나고 그 제자들도 세상을 뜨게 되자 부처님을 추모하고 그리워하는 풍조가 높아짐과 동시에 부처님에 대한 기억을 온전하게 갖추어 전하기 위한 전기의 필요성이 대두되었다.<br data-xsl-tag="br">그래서 마침내 불교 성전(聖典)에 전해지는 전설에 자신의 상상력과 이해를 바탕으로 한 불타관(佛陀觀)을 보탠 전기가 성립되었는데 현존하는 『본생담(本生譚)』 등의 많은 불전문학(佛傳文學)이 그것이다.<br data-xsl-tag="br">그 많은 불전 중에서 이 『불소행찬』은 기존의 자료에 충실하면서도 사실적 내용을 적절히 가미한 아름다운 서사시로서 부처님의 생애와 그 교의와 인격을 찬탄함으로서 사람들에게 인격적 감화를 불러일으키고 있다. 석가 왕족의 계보(系譜)와 부처님의 탄생에서부터 부처님의 입멸(入滅)에 이르기까지 장중한 내용을 기술하면서도 너무 과장되거나 조잡하지 않고, 역사적 사실을 계통적으로 너무 과장되거나 조잡하지 않고, 역사적 사실을 계통적으로 상세하게 기술하고 있다. 때문에 부처님의 생애 속에 불교의 교의가 교묘하게 녹아 있고, 생전의 부처님을 만난 듯한 생생한 묘사로 부처님께서 걸으신 고뇌의 도정(道程)과 자각자(自覺者)로서의 일깨움이 다른 불전과 비교할 수 없을 만큼 독자들에게 감동을 준다.<br data-xsl-tag="br">부처님께서는 인생의 무상(無常)함을 절실하게 느껴 다시는 윤회함이 없는 열반의 경지를 구하여 고행설(苦行說)과 수론(數論)의 해탈론의 배격하여 오직 중도(中道)에 의해 득도하신 분이다. 『불소행찬』 속에서는 부처님의 이러한 깨달음이 성제(聖諦)와 팔정도(八正道)ㆍ육바라밀(六波羅密) 등의 수도관(修道觀)으로 정리되어 있고 법신(法身)의 상주(常住)를 중심으로 한 불신관(佛身觀) 등이 총망라 되어있다. 따라서 이 작품은 마치 불교요설(佛敎要設)이라 할 정도로 불교의 이해를 돕는 지침서 역할을 하기도 한다.<br data-xsl-tag="br">한문을 자유자재로 사용한 점으로 볼 때 이것은 번역작품이라기 보다 하나의 독립된 문학작품으로도 여겨진다. 한역 작품은 대부분 축자역(逐字譯)을 하면서도 때로는 원문을 생략하거나 아주 삭제하기도 하였고 또는 내용을 늘이거나 보충하기도 하였다. 더구나 그 사상(思想)에 있어서도 범본에 없던 후대의 사상을 삽입한 듯한 곳이 적잖게 보이고 있다. 이 외에도 문장이 간결하기는 하나 이로 인해 내용을 이해하기 어렵다는 평을 듣기도 한다.<br data-xsl-tag="br">최근 중앙 아시아에서 마명의 작품이라고 생각되는 희곡 『사리불극(舍利弗劇)』외에 두 작품이 발견되었는데, 인도의 희곡 및 언어 발달에 대한 중요한 자료가 되고 있다.</div>
+					<div data-xsl-tag="제목" class="xsl_para_tit">
+<span>6. 연구서 및 참고문헌</span>
+</div>
+					<div data-xsl-align="" data-xsl-tag="문단" class="xsl_para">우리나라에서는 박윤진(朴允進)에 의해 1939년 『문장』을 통해 소개되었다. 朴允進, 「佛所行讚私記」, 『文章』(문장사, 1939.10.)이 있다. 일본에서는 1928년 평등통소(平等通昭)에 의해 연구가 시작되었다. 연구논문으로 平等通昭, 「佛敎文獻に現れた數論瑜伽思想に就いて: 特に佛所行讚の數論思想發達史上の地位に留意して」, 『宗敎硏究』 新5卷6號(45號)(일본 동경 : 東京大學 文學部 宗敎學硏究室內 日本宗敎學會, 1928.11), 平等通昭, 「佛所行讚と佛本行集經との關係」, 『宗敎硏究』 123號(일본 동경 : 東京大學 文學部 宗敎學硏究室內 日本宗敎學會, 1950.10.) 등이 있다. 중국에서는 무백혜(巫白慧)에 의해 1960년대에 잡지에 소개되기 시작하였다. 巫白慧, 「新譯《佛所行讚》 新譯《佛所行讚》十八頌」, 『現代佛學』 125期(중국 : 現代佛學社, 1961.11.)의 연재가 시작되었다.<br data-xsl-tag="br">학술적 연구는 김잉석(金芿石)에 의해 1968년부터 연구성과가 소개되었다. 金芿石, 「佛陀와 佛敎文學」(Ⅰ, Ⅱ, 完), 『東國思想』 Vol.4, 5, 6(동국대학교 불교대학, 1968, 1970, 1971)을 주목한다.<br data-xsl-tag="br">석사학위논문으로 김호성, 「Buddhacarita(佛所行讚)에 나타난 初期 Samkhya 思想 硏究: 第XII品의 Parinama-vada(轉變說)와 그 批判을 中心으로」(동국대학교 대학원 인도철학과 석사학위논문, 1988)과 김숙이, 「『佛所行讚』을 통해 본 佛陀傳記 硏究」(동국대학교 대학원 불교학과 석사학위논문,  2002)가 있다.<br data-xsl-tag="br">불소행찬에 대한 번역과 단행본은 일본의 池田貞然 著, 『佛所行讚』(東京 : 佛敎經典叢書刊行會, 大正11[1921]), 石上善應 著, 『佛所行讚』(東京: 大藏出版株式會社, 1993), 平川 彰 저, 『佛陀の生涯 : [佛所行讚] を讀む』(東京 : 春秋社, 1998), 寺本婉雅 譯, 『西藏傳譯 佛所行讚』(東京 : 世界文庫刊行會, 大正13[1924])과 우리나라의 김달진 역주, 『붓다차리타』(서울: 고려원, 1993(c1988), 나가성타 번역, 『佛所行讚 / [마명(馬鳴) 저』(상, 하)(서울 : 두배의 느낌, 2010) 등이 있다.</div>
+				
+			</div>
+		
+
+		
+
+		
+	</div>
+
+</div>
+
+	
+	
+</body>
+</html>

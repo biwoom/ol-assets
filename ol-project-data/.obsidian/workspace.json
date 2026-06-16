@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ece6a84de356a124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha"
-            }
-          },
-          {
             "id": "d8635686be0d5dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공용문서/로컬 개발 터미널 명령어.md",
+                "file": "OL-STORY/붓다스토리 기획 아이디어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "로컬 개발 터미널 명령어"
-            }
-          },
-          {
-            "id": "67291152c2a11922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OL-CONTENTS/BuddhaStory/toc/gcb-kr-TOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gcb-kr-TOC"
+              "title": "붓다스토리 기획 아이디어"
             }
           },
           {
@@ -55,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
+                "file": "OL-STORY/붓다스토리 기획 구조안-20260615.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha"
+              "title": "붓다스토리 기획 구조안-20260615"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 366.5
   },
   "right": {
     "id": "84fb7c82415e308e",
@@ -198,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
+                "file": "OL-STORY/붓다스토리 기획 구조안-20260615.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha 의 개요"
+              "title": "붓다스토리 기획 구조안-20260615 의 개요"
             }
           }
         ],
@@ -225,53 +198,53 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ece6a84de356a124",
+  "active": "8067c1c6ef97bf28",
   "lastOpenFiles": [
-    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.1.0-Salutation & Intention.md",
-    "OL-CONTENTS/BuddhaStory/term/gcb-1.1.1.0-Salutation & Intention-term.md",
-    "OL-CONTENTS/BuddhaStory/source/raw/src-01-gcb/GCB_doc364347__01권-01부-1장__Chapter 1 - Salutation & Intention__1장 -부처님께 올리는.md",
-    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-1/gcb-1.1.1.0-Salutation & Intention.md",
-    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-2/gcb-1.1.1.0-Salutation & Intention.md",
-    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-2/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
-    "OL-HOME/보고서/PROJECT_STATUS_REPORT_2026_06_02.md",
-    "OL-HOME/브랜드/OL 홈페이지 전략 분석 및 향후 개발 로드맵.md",
-    "OL-HOME/브랜드/올(OL) 브랜드 정의서 초안.md",
-    "OL-HOME/사용법/DESIGN 메뉴 파일 저장 구조와 관리법 최종.md",
-    "OL-HOME/브랜드/OL_프로젝트_존재_선언문_V1.md",
-    "OL-HOME/사용법/OL 홈페이지 콘텐츠 관리 매뉴얼-2026-06-11.md",
-    "OL-HOME/브랜드/OL 브랜드 정의서-2026-06-12.md",
-    "OL-HOME/브랜드/스타일 구현 정책 및 수정 로드맵.md",
+    "OL-STORY/붓다스토리 기획 아이디어.md",
+    "OL-STORY/붓다스토리 기획 구조안-20260615.md",
+    "OL-SPECIAL/무제.md",
+    "OL-SPECIAL/부처님의 깨달음-무상정등정각에 대하여.md",
+    "OL-DESK/아이디어 체크리스트.md",
     "OL-HOME/브랜드/OL 불교콘텐츠 개발 방향 v0.1.md",
-    "OL-HOME/OL 홈페이지 업데이트 아이디어.md",
-    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
-    "OL-CONTENTS/BuddhaStory/log/draft-2/gcb-1.1.1.0-Salutation & Intention-draft2-log.md",
-    "OL-CONTENTS/OL-CONTENTS.code-workspace",
-    "OL-CONTENTS/BuddhaStory/edit/gcb-kr/draft-3/gcb-1.1.2.2-Bodhisatta (a future Buddha).md",
-    "OL-CONTENTS/BuddhaStory/log/draft-2/gcb-1.1.2.2-Bodhisatta (a future Buddha)-draft2-log.md",
-    "OL-CONTENTS/BuddhaStory/log/draft-2/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha-draft2-log.md",
-    "OL-CONTENTS/BuddhaStory/log/draft-2",
-    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.2.2-Bodhisatta (a future Buddha)-log.md",
-    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha-log.md",
-    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.2.0-Rare Appearance of a Buddha-log.md",
-    "OL-CONTENTS/BuddhaStory/log/draft-1/gcb-1.1.1.0-Salutation & Intention-log.md",
-    "OL-CONTENTS/BuddhaStory/log/draft-1",
-    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/migrate_logs.py",
-    "OL-CONTENTS/BuddhaStory/log/gcb-1.1.2.2-Bodhisatta (a future Buddha)-draft2-log.md",
-    "OL-CONTENTS/BuddhaStory/edit/term",
-    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__/validate_translation.cpython-313.pyc",
-    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__/lint_glossary.cpython-313.pyc",
-    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__/format_footnotes.cpython-313.pyc",
-    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/__pycache__",
-    "OL-CONTENTS/BuddhaStory/skills/buddha-translation-helper/scripts/run_pipeline.py",
-    "OL-HOME/TEXT 세부페이지 컨셉 이미지.png",
-    "OL-HOME/STORY 세부 페이지 컨셉이미지1.png",
-    "Pasted image 20260604223418.png",
-    "Pasted image 20260604223457.png",
-    "Pasted image 20260604223446.png",
-    "Pasted image 20260604223439.png",
-    "CONTENTS/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-7.png",
-    "CONTENTS/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지 복사본.png",
-    "CONTENTS/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-6.png",
-    "CONTENTS/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-5.png"
+    "OL-STORY",
+    "OL-BOOK/OL-BOOK 콘텐츠 명상동화 제작아이디어 v0.1.md",
+    "OL-BOOK/OL-BOOK 콘텐츠 명상동화 제작아이디어 초고.md",
+    "OL-SPECIAL/대승적 관점에서 부처님의 깨달음이 특별한 이유.md",
+    "OL-HOME/브랜드/OL 브랜드 정의서-2026-06-12.md",
+    "OL-HOME/브랜드/올(OL) 브랜드 정의서 초안.md",
+    "OL-CONTENTS/outputs/manuscripts/en-kr/BuddhaStory/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
+    "OL-CONTENTS/outputs/manuscripts/en-kr/BuddhaStory/final/gcb-1.1.2.1-Singular Opportunity of Living in an Age when a Buddha.md",
+    "OL-CONTENTS/outputs/manuscripts/en-kr/BuddhaStory/gcb-1.1.1.0-Salutation & Intention.md",
+    "OL-SPECIAL/donam-kim-sung-chul/assets/systematic_buddhology/thumb.jpg",
+    "OL-SPECIAL/donam-kim-sung-chul/assets/systematic_buddhology/preview1.jpg",
+    "OL-SPECIAL/donam-kim-sung-chul/assets/systematic_buddhology/preview2.jpg",
+    "OL-SPECIAL/donam-kim-sung-chul/test/modern-buddhist-studies-problem.md",
+    "OL-SPECIAL/donam-kim-sung-chul/part1/systematic_buddhology.md",
+    "OL-SPECIAL/donam-kim-sung-chul/assets/systematic_buddhology",
+    "OL-SPECIAL/donam-kim-sung-chul/index.md",
+    "OL-SPECIAL/donam-kim-sung-chul/test",
+    "OL-SPECIAL/donam-kim-sung-chul/part1",
+    "OL-SPECIAL/donam-kim-sung-chul/assets",
+    "OL-SPECIAL/donam-kim-sung-chul",
+    "OL-CONTENTS/translation/en-kr/BuddhaStory/draft-3/gcb-1.1.2.9-Let it be a Fruitful Buddh’uppada-navamakhaṇa.md",
+    "OL-CONTENTS/log/en-kr/BuddhaStory/draft-2/gcb-1.1.2.9-Let it be a Fruitful Buddh’uppada-navamakhaṇa-draft2-log.md",
+    "OL-CONTENTS/translation/en-kr/BuddhaStory/draft-2/gcb-1.1.2.9-Let it be a Fruitful Buddh’uppada-navamakhaṇa.md",
+    "OL-CONTENTS/log/en-kr/BuddhaStory/draft-1/gcb-1.1.2.9-Let it be a Fruitful Buddh’uppada-navamakhaṇa-log.md",
+    "OL-CONTENTS/term/en-kr/BuddhaStory/gcb-1.1.2.9-Let it be a Fruitful Buddh’uppada-navamakhaṇa-term.md",
+    "OL-CONTENTS/translation/en-kr/BuddhaStory/draft-3/gcb-1.1.2.8-Hard to become even a Future Buddha.md",
+    "OL-CONTENTS/log/en-kr/BuddhaStory/draft-2/gcb-1.1.2.8-Hard to become even a Future Buddha-draft2-log.md",
+    "OL-CONTENTS/translation/en-kr/BuddhaStory/draft-2/gcb-1.1.2.8-Hard to become even a Future Buddha.md",
+    "OL-CONTENTS/log/en-kr/BuddhaStory/draft-1/gcb-1.1.2.8-Hard to become even a Future Buddha-log.md",
+    "OL-CONTENTS/source/raw/lzh/fobenxingjijing-k0802",
+    "OL-CONTENTS/source/raw/lzh/fobenxingjing-k0979",
+    "OL-CONTENTS/source/raw/en/Buddhacarita-EHJ/The Buddhacarita or, acts of the Buddha-by E.H. Jhonston-Publication date 19353735.repaired.pdf",
+    "OL-CONTENTS/source/raw/en/Buddhacarita-EHJ",
+    "OL-SPECIAL/불교의 세계관-두 가지 관찰 방식/주관적 관점-자동차비유.png",
+    "OL-SPECIAL/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지.png",
+    "OL-SPECIAL/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-7.png",
+    "OL-SPECIAL/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-6.png",
+    "OL-SPECIAL/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-5.png",
+    "OL-SPECIAL/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-4.png",
+    "OL-SPECIAL/불교의 세계관-두 가지 관찰 방식/불교의 세계관 - 두 가지 관점에 근거한 나와 세계에 대한 이해-첨부이미지-3.png"
   ]
 }

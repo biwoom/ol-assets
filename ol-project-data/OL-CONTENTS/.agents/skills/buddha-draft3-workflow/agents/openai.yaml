@@ -1,0 +1,4 @@
+interface:
+  display_name: "Buddha Draft 3 Workflow"
+  short_description: "Run requested draft-3 workflow"
+  default_prompt: "Use $buddha-draft3-workflow to revise the specified BuddhaStory draft-3 file in place and add an inline [review] block."
